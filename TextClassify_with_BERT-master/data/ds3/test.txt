@@ -1,0 +1,247 @@
+positive	Y_reply:晚安
+negative	Y_reply:[泪]
+negative	Y_reply:晚安?
+positive	Y_reply:我也 [泪]
+positive	Y_reply:妹妹好可爱！
+negative	Y_reply:我
+positive	Y_reply:我吸！ "[干饭人]"
+negative	Y_reply:晚上好 [兔子]
+negative	Y_reply:[抱抱]
+negative	Y_reply:晚上好小汐 [哈哈]
+negative	Y_reply:百分制我都不及格 [拜拜]
+positive	Y_reply:开心点宝子
+negative	Y_reply:哈哈 好可爱的名字
+positive	Y_reply:好好看！！
+negative	Y_reply:蛐蛐回去 "[举手]"
+positive	Y_reply:[抱抱]
+positive	Y_reply:平胸也很好看啊
+negative	Y_reply:[抱抱]
+negative	Y_reply:加油！你可以的 一定行
+negative	Y_reply:很正常的啦 我最近也是暴食 [心]
+positive	Y_reply:回复@活着是常态-死亡是奢望:难眠 [泪]
+negative	Y_reply:我也在思考这个问题
+positive	Y_reply:卡哇伊
+positive	Y_reply:我也是 [泪]
+positive	Y_reply:晚安
+negative	Y_reply:晚安 [打call]
+positive	Y_reply:饱饱我抱抱你哇 要好好的 不要死哇 [抱抱]
+positive	Y_reply:是的 已经开始了加油 [爱你]
+positive	Y_reply:回复@咕噜噜-CN:不是的哦 我只是在这里扮演一个角色
+positive	Y_reply:回复@左一口ang:另一组
+positive	Y_reply:多点几条吧
+positive	Y_reply:[抱一抱]
+positive	Y_reply:[抱抱]
+negative	Y_reply:"[送花花]"
+positive	Y_reply:要天天开心
+negative	Y_reply:[抱抱]
+positive	Y_reply:老公可以帮忙抢第二次开票吗？
+positive	Y_reply:啊啊啊啊啊啊啊啊啊啊啊啊啊啊全球高考！！！！！ [心]
+negative	Y_reply:[抱抱]
+positive	Y_reply:抱抱你
+positive	Y_reply:抱抱你
+negative	Y_reply:在友情中，坦诚相待是基础，尊重他人也是。
+negative	Y_reply:确实，有时候我们就像漩涡中的蝴蝶，无法挣脱
+positive	Y_reply:温御的感觉 "[干饭人]"
+positive	Y_reply:早安 [兔子]
+negative	Y_reply:[抱一抱]
+positive	Y_reply:好厉害抱抱你 [抱抱]
+negative	Y_reply:加油！
+negative	Y_reply:厉害啊我都不敢
+positive	Y_reply:回复@若琪啊yu:在一个区域怎么会有人多花钱跟你换同样的东西 [笑cry]
+positive	Y_reply:（偷配置
+positive	Y_reply:@Esther小鱼收藏册 打扰了
+negative	Y_reply:确实如此
+positive	Y_reply:你老公 "[春游家族]"
+positive	Y_reply:回复@评论罗伯特:谢谢你萝卜头 [二哈]
+positive	Y_reply:我也是！最近晚上总是睡不好
+negative	Y_reply:我也这样 我好嗨啊
+positive	Y_reply:回复@芝芝想不通:那就穿上雨衣戴上安全帽，继续前行
+positive	Y_reply:回复@不爱吃鱼的王某某:自己意会吧 我就不说了
+positive	Y_reply:[抱抱]
+positive	Y_reply:好卷啊你们 [泪]
+positive	Y_reply:原始股东一位
+negative	Y_reply:“希望你继续兴致盎然的与世界交手 一直在开满鲜花的路上”
+positive	Y_reply:回复@给我的爱太残缺:所以，如果声线不稳定，这种卡音色的单还是谨慎跳 [doge]
+negative	Y_reply:我也是 [失望]
+negative	Y_reply:好好吃药药 [抱抱]
+positive	Y_reply:别担心，大脑在休息中 [喵喵]
+positive	Y_reply:出了吗宝子
+negative	Y_reply:一天天说的就像全世界只要你在工作 [哈欠]
+positive	Y_reply:哇塞！好好看的格柄
+negative	Y_reply:别死，好好活着
+negative	Y_reply:[抱抱]
+negative	Y_reply:真不错
+negative	Y_reply:美美哒
+positive	Y_reply:宝宝休息会再运动 [抱抱]
+negative	Y_reply:嘿！你也在关注“与凤行”吗？快戳网页链接进入专题页查看并关注相关博主吧，包含@邓科导演 、@九鹭非香 等24位博主哦，热门精彩内容不错过！
+positive	Y_reply:[抱抱]
+positive	Y_reply:头疼怎么引起的呢
+positive	Y_reply:回复@pH值小于7777:心疼你 [心]
+negative	Y_reply:早安 [爱你]
+negative	Y_reply:你好，你感兴趣的“萌宠”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 萌宠[超话]
+positive	Y_reply:回复@g寒故:我也不想上学，天天被人搞东西 "[老师好]"
+negative	Y_reply:按照自己意思来吧
+negative	Y_reply:[抱一抱]
+positive	Y_reply:回复@失足跌入血渊:我觉得每个队伍都很强
+negative	Y_reply:你好，你感兴趣的“你好春天”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 你好春天[超话]
+negative	Y_reply:好久不见，我和小伙伴们都在恋与深空的超话社区等你，快点来看看吧，回家指路&gt;&gt;恋与深空[超话]
+negative	Y_reply:差不多
+positive	Y_reply:文艺了?
+positive	Y_reply:我之前一直是抑郁这次诊断我双相我感觉不太是 "[融化]"
+positive	Y_reply:回复@花钱就输了:好的呢
+positive	Y_reply:再别增加养殖品种了 [嘻嘻]
+positive	Y_reply:回复@风停落叶散:我感觉你可以先不管爸妈怎么说 你先自己写着 哪怕是上课写写 能有自己感兴趣的东西就很好啊 先让自己平静下来 慢慢开心起来
+positive	Y_reply:哈哈哈哈哈哈哈哈哈哈哈哈哈哈 [哈哈]
+positive	Y_reply:快了
+positive	Y_reply:你已经很棒啦 [抱抱]
+negative	Y_reply:极昼之间，遇见即是幸运，喜欢便是浪漫。周震南@VvvVvV周震南
+negative	Y_reply:恭喜，您的微博获得中山同城微博榜排名第94名！进榜单的本地微博都在这里，点击查看&gt;&gt;网页链接
+positive	Y_reply:又想起她自己形容自己小羊驼手 [笑cry]
+negative	Y_reply:宁夏细糠 哟哟哟哟哟 有点美
+negative	Y_reply:[抱抱]
+positive	Y_reply:她可能是被天使吻过脸的星星
+positive	Y_reply:回复@芽芽今天好转了吗:我也喜欢户外运动 感觉特别放松
+negative	Y_reply:支持，真的大力支持，我就被吵醒过，真的想鲨人 [允悲]
+positive	Y_reply:诶，我也考了这个哈哈哈，我是江苏省一等奖！ "[开学季]"
+positive	Y_reply:肤色分我一半 [允悲]
+positive	Y_reply:包扎了吗，这几天注意点尽量别碰水 [抱一抱]
+positive	Y_reply:吃药是为了让你早日康复，回归正常生活 [抱抱]
+negative	Y_reply:确实，适量饮酒对身体有益
+positive	Y_reply:当年也被这个大饼骗了 [允悲]
+positive	Y_reply:同感啊 我妈也是
+negative	Y_reply:真的很难 [失望]
+negative	Y_reply:我也想看！感觉会很有趣
+negative	Y_reply:[抱抱]
+positive	Y_reply:羡慕！度假也可以不耽搁盈利
+positive	Y_reply:宝宝，大家都在这里。
+positive	Y_reply:回复@g寒故:早安 "[吹风车]"
+positive	Y_reply:回复@g寒故:因为我要去收快递ya~ "[春游家族]"
+negative	Y_reply:好好治疗 [抱抱]
+positive	Y_reply:回复@听疯子说_:我可以理解你的感受 但是别忘了，那些回忆也是你人生中不可或缺的一部分 [心]
+negative	Y_reply:[抱抱]
+positive	Y_reply:如果吃药超过了2周是这个状况，需要跟医生说一下这个情况，会处理的，千万不可自行调药。
+negative	Y_reply:不要有遗憾哦 未来也会很好哒 [抱抱]
+negative	Y_reply:[抱抱]
+negative	Y_reply:[打call]
+positive	Y_reply:最遊記 サンリオ+角色名就好，三藏日本比较贵，金蝉看见一个999三个的可以切，吧唧原价550
+negative	Y_reply:真不错
+negative	Y_reply:你好，你感兴趣的“水逆退散”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 水逆退散[超话]
+positive	Y_reply:[抱一抱]
+positive	Y_reply:不要私自停药
+positive	Y_reply:我看了这个我超级喜欢！我特别喜欢后面那个设定，把到了天堂外婆的棺材前旧照片烧掉获得物品，意味着“把过去烧毁，获得重生” [泪]
+negative	Y_reply:哇哦 好羡慕
+negative	Y_reply:[抱抱]
+positive	Y_reply:最新谢谢 严?（不回删）
+positive	Y_reply:下周三放假 [裂开]
+positive	Y_reply:苟延残喘 [二哈]
+positive	Y_reply:[思考]
+positive	Y_reply:我没见过！
+positive	Y_reply:我也不想上 [右哼哼]
+negative	Y_reply:【赵丽颖与凤行】#赵丽颖沈璃# zly【赵丽颖沈璃】#赵丽颖与凤行#
+positive	Y_reply:哇哦
+negative	Y_reply:[抱抱]
+negative	Y_reply:你吃烧烤会先烤什么?”“先烤肉啊。”“我会先考虑你。”@刘逸云Amber
+negative	Y_reply:[抱抱]
+negative	Y_reply:你好，你感兴趣的“时代少年团直播”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 时代少年团直播[超话]
+positive	Y_reply:我也是，我也是因为毕设不会写，加重焦虑，一夜夜失眠睡不着，别人都写完了，我却无从下手，整天担惊受怕 [泪]
+positive	Y_reply:这种情绪很正常，但请不要轻易放弃生命。如果你需要帮助，可以寻求专业心理咨询或者和朋友分享你的感受。生活虽然有时艰难，但总有美好在等待我们发现。
+negative	Y_reply:互t
+negative	Y_reply:抱抱 [抱抱]
+negative	Y_reply:厲害好前面 [作揖]
+positive	Y_reply:好棒 [打call]
+positive	Y_reply:活在当下 "[锦鲤附体]"
+negative	Y_reply:哇哦 好期待呢
+negative	Y_reply:“在风华正茂的年纪遇见了你这束最温柔的光” ?? ??? ????? ?? ???, ??? ??? ???? ????? ?? ??? ???? ?????? ?????.
+positive	Y_reply:[抱抱]
+positive	Y_reply:郁金香？
+negative	Y_reply:所以咱要努力！ [打call]
+positive	Y_reply:早安 [兔子]
+positive	Y_reply:画这么棒……?
+negative	Y_reply:可以试试叫出来，憋着难受
+positive	Y_reply:支持你 "[锦鲤附体]"
+negative	Y_reply:记录那些美好的回忆总是令人难忘的 [心]
+negative	Y_reply:我也一样！备考的时候喝咖啡真的是必备了
+negative	Y_reply:[抱抱]
+positive	Y_reply:早安 [兔子]
+negative	Y_reply:[抱抱]
+positive	Y_reply:回复@窗外的一场雪:还有回放吗？就是的我也想 [跪了]
+negative	Y_reply:不许这样说，我不能没有你
+negative	Y_reply:晚安 "[发芽]"
+negative	Y_reply:不按时吃饭 [怒]
+positive	Y_reply:我是溺
+negative	Y_reply:和平交流，尊重他人，共同建设和谐社会。
+negative	Y_reply:你好，你感兴趣的“欧冠”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 欧冠[超话]
+positive	Y_reply:回复@一二与鹤:这环境不错，看着好温馨啊，舒服
+negative	Y_reply:我也想买一个试试
+positive	Y_reply:姐妹还有位置吗
+negative	Y_reply:[抱抱]
+positive	Y_reply:Reply @乘风破浪的coney:不表现开心=破坏气氛？这个想法就是错的，因为它简单的把事情分为非此即彼，可事实不是，是有中间状态的。它暗含的意思是，你有义务让别人高兴或者说别人有权利要求你让人高兴。想想都可怕
+positive	Y_reply:拼酒店吗？
+positive	Y_reply:宝宝快快好起来 [抱抱]
+positive	Y_reply:你是会zc吗抱抱宝宝 早日康复 [悲伤]
+negative	Y_reply:很理解病痛中的苦恼，有时候脑子也会欺骗我们，让我们陷入痛苦泥潭，我们需要付出努力去改变思维模式，先拯救脑子，自己就会越来越好。希望你能够勇敢起来，和我们一起战胜自己的痛苦 [抱抱]
+negative	Y_reply:虞书欣的这句话，激励人心，愿每个人都能勇敢追梦，走向辉煌。
+positive	Y_reply:回复@海盐奶绿三分糖加冰淇淋:不客气！如果你还有任何问题或者需要帮助，随时告诉我就好
+negative	Y_reply:确实如此
+positive	Y_reply:很漂亮玩的开心 [抱一抱]
+positive	Y_reply:别多想哦，不一定是你的问题，公司里的一些小变动，或者领导本身想法的问题都会导致被辞退，理由也往往会退在员工身上，只要你认真按时完成自己的工作，问题就一定不在你。
+positive	Y_reply:我觉得可能是在忙别的事情吧
+negative	Y_reply:[抱抱]
+positive	Y_reply:回复@心乱如麻辣鱼:五一回去
+positive	Y_reply:我也是这样 [泪]
+negative	Y_reply:加油！一个人独行也能找到属于自己的光芒，相信自己可以战胜一切困难！
+positive	Y_reply:主持，辛苦了 [给你小心心]
+positive	Y_reply:抱抱 [抱抱]
+positive	Y_reply:来让我看看你拉屎的能力 [允悲]
+negative	Y_reply:[抱抱]
+positive	Y_reply:我是沙比 "[比耶]"
+positive	Y_reply:打住吧，再别增加养殖品种了 [作揖]
+positive	Y_reply:问问妆容好漂亮啊 "[哇]"
+positive	Y_reply:早
+negative	Y_reply:虞书欣
+positive	Y_reply:还是扩大了养殖品种？ [黑线]
+positive	Y_reply:晚上好，宝宝 [给你小心心]
+negative	Y_reply:哇哦，这是要举办抽奖活动吗？那我要赶紧转发分享，争取成为那个幸运儿！
+negative	Y_reply:[抱抱]
+negative	Y_reply:动动
+positive	Y_reply:回复@今天有早睡喔_:对  然后一边拖延
+positive	Y_reply:哈哈哈
+negative	Y_reply:哇，你的声音一直这么有魅力，画风变丑又怎样，本女侠可是看心灵！继续加油，你的魅力无人能敌！
+negative	Y_reply:哥哥 "[苦涩]"
+negative	Y_reply:那就继续吃药吧 生病不是你的错
+positive	Y_reply:耶耶
+positive	Y_reply:[抱抱]
+positive	Y_reply:别这样啊
+positive	Y_reply:会好起来的
+positive	Y_reply:晚安 [月亮]
+positive	Y_reply:回复@皎月倾城_:在那种情况下，把炸弹传出去拉铃票走炸弹狼一点问题都没有，就因为恰好给到了一个哨子，狼人就恶心到这种程度去上升到人格上去批判别人？
+positive	Y_reply:回复@心乱如麻辣鱼:不可能的
+negative	Y_reply:你好，你感兴趣的“微博卡片背景”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 微博卡片背景[超话]
+negative	Y_reply:【赵丽颖与凤行】#赵丽颖沈璃# zly【赵丽颖沈璃】#赵丽颖与凤行# "[小凤凰]"
+positive	Y_reply:我连续八个就会好像
+negative	Y_reply:范丞丞
+negative	Y_reply:AmberAmberAmber（帅晕了，吸氧…继续……）AmberAmber [打call]
+negative	Y_reply:天气不好，心情也会跟着阴沉起来呢但是别忘了，晴天总会到来的，就像美好的事情一样加油，明天又是新的一天 [太阳]
+positive	Y_reply:跟有病一样。。
+positive	Y_reply:啥玩意？
+positive	Y_reply:你过来，让我抱抱不要动 [泪]
+positive	Y_reply:1 1掉色就可以掉到2
+negative	Y_reply:【朱志鑫刻苦努力】【朱志鑫演技超棒】昨天的、今天的、明天的朱志鑫，每一帧都让我心动万分！@TF家族-朱志鑫
+negative	Y_reply:[抱一抱]
+negative	Y_reply:"[送花花]"
+positive	Y_reply:回复@一二与鹤:然后脱下来也花了半小时 [哈哈]
+positive	Y_reply:我也是，高三经常听 "[苦涩]"
+negative	Y_reply:摸摸 [鲜花]
+positive	Y_reply:[抱抱]
+positive	Y_reply:看起来好有食欲，颜色也很漂亮 [色]
+positive	Y_reply:第一次去 买到客场了怎么办 [泪]
+positive	Y_reply:[ok]
+positive	Y_reply:哇哦，看起来你遇到了一个挑战！加油，我相信你可以克服它的！
+positive	Y_reply:这个人确实，想问一下心情焦虑或者心情不好心情烦躁的时候想吃很多东西，反正就是如果没有吃到肚子胀气我能一直吃，而且我吃东西都非常快，就是忍不住的去吃，这个算暴饮暴食吗，我平常吃的就挺多的，然后烦躁的时候更想吃所以经常吃到难受什么的，这个可以算嘛，想靠谱一下我不太懂 "[送花花]"
+negative	Y_reply:[心]
+negative	Y_reply:虞书欣 "[哇]"
+positive	Y_reply:晚安
+negative	Y_reply:[抱抱]
+negative	Y_reply:去看医生吧 [抱抱]
+positive	Y_reply:回复@P城流动摊贩-:看了价格 [允悲]
+positive	Y_reply:心理治疗师真好
