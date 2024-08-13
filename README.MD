@@ -1,6 +1,6 @@
 # ice-breaking
 
-Welcome to the `ice-breaking` repository! This repository is designed to help you identify and interact with users in the "Depression" super-topic on Weibo. Below are the detailed steps and instructions on how to use the scripts and tools provided in this repository.
+Welcome to the `ice-breaking` repository! Below are the detailed steps and instructions on how to use the scripts and tools provided in this repository.
 
 ## Data Privacy
 
