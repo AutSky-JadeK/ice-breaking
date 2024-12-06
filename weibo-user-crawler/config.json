@@ -1,0 +1,25 @@
+{
+    "user_id_list": "depression_ids.txt",
+    "only_crawl_original": 1,
+    "remove_html_tag": 1,
+    "since_date": 90,
+    "write_mode": ["csv"],
+    "original_pic_download": 1,
+    "retweet_pic_download": 0,
+    "original_video_download": 1,
+    "retweet_video_download": 0,
+    "download_comment":1,
+    "comment_max_download_count":1000,
+    "download_repost": 1,
+    "repost_max_download_count": 1000,
+    "user_id_as_folder_name": 0,
+    "cookie": "SCF=AknYdGMV9vXik--Kkn7-gTvHioI5Qcl6MhP1cE3tHVPLgu2bsQsD8NYwPK-HOQ2aAUcFoUwZY1cxL_a2GIzqB90.; SUB=_2A25LDgtaDeRhGeNO4lAV9C_FwzmIHXVoYgKSrDV6PUJbktANLWjFkW1NTqF15IDFY-JXmtqAqUHPPXF0QjBkudxa; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9Wh.Zw1Cl.9sJzMv93ZsXmk25NHD95Qfeh.EShBp1KnfWs4DqcjZ9NL3qJUJ9cD3Intt; SSOLoginState=1711962890; ALF=1714554890; _T_WM=71866710366; MLOGIN=1; BAIDU_SSP_lcr=https://passport.weibo.com/",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    },
+    "mongodb_URI": "mongodb://[username:password@]host[:port][/[defaultauthdb][?options]]"
+}

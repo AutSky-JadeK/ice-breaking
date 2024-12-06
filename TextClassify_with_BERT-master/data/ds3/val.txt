@@ -1,0 +1,247 @@
+positive	Y_reply:清冷美女
+positive	Y_reply:双眼皮不错
+negative	Y_reply:棒棒哒
+positive	Y_reply:注意眼睛呀 [抓狂]
+negative	Y_reply:怎么样啊
+positive	Y_reply:p1p3 4??
+negative	Y_reply:[打call]
+negative	Y_reply:[抱抱]
+positive	Y_reply:很可爱耶
+negative	Y_reply:[悲伤]
+positive	Y_reply:肯定是喜欢吃的呀 [喵喵]
+positive	Y_reply:俺老孙看了，这小子挺有干劲儿！
+negative	Y_reply:哎 感冒真的好难受
+negative	Y_reply:??
+positive	Y_reply:紫薯送给我
+negative	Y_reply:我蹲 [偷笑]
+positive	Y_reply:都要好好的 [抱一抱]
+positive	Y_reply:我那伙伴给我班搅得乱成一锅粥了超 [泪]
+positive	Y_reply:好好爱它
+negative	Y_reply:气质丢宝 [嘻嘻]
+positive	Y_reply:兄弟 你一定要加油啊
+positive	Y_reply:看到你这个哈吉嘛笑死我了哈哈
+negative	Y_reply:[抱抱]
+positive	Y_reply:好羡慕...这样的一天，我会有勇气去过吗...
+positive	Y_reply:虽然不舍 但还是要勇敢前行
+positive	Y_reply:我懂！我也经常这样
+negative	Y_reply:抱抱抱 [抱抱]
+positive	Y_reply:我也是
+positive	Y_reply:但是这个趴..
+negative	Y_reply:超赞 [赞]
+negative	Y_reply:洗个热水澡泡个脚，做个瑜伽冥想，可能对你好很多
+positive	Y_reply:我现在胳膊就是这样
+positive	Y_reply:加一
+positive	Y_reply:回复@松本秋菊:交个朋友嘛 [抱抱]
+negative	Y_reply:我再也不会这样对你了 [泪]
+positive	Y_reply:不要 抽烟最不酷了
+positive	Y_reply:诶！那只小奶牛呢 [单身狗]
+negative	Y_reply:不要这样想 [抱抱]
+positive	Y_reply:我把史铁生我与地坛这本书看完了，写的真的好
+negative	Y_reply:[抱一抱]
+positive	Y_reply:女明星也要打工人的团建吗
+positive	Y_reply:不笨不笨现在进去了吗？ [抱一抱]
+negative	Y_reply:我也觉得超级可爱
+negative	Y_reply:卧槽妈妈能不能求个图 [悲伤]
+negative	Y_reply:[抱抱]
+negative	Y_reply:祝你月考顺利考个好成绩 [抱抱]
+positive	Y_reply:遵医嘱吃没事
+positive	Y_reply:同问 [可爱]
+positive	Y_reply:我真的是无语了
+negative	Y_reply:通知：紧急长鳃计划、启动！
+positive	Y_reply:伤到我了 [允悲]
+positive	Y_reply:注意安全，可能是接线板老化了
+positive	Y_reply:害怕什么？
+negative	Y_reply:[太阳]
+negative	Y_reply:樱花酱生日快乐！愿你的每一天都像樱花一样美丽动人~
+negative	Y_reply:你没错 [抱抱]
+negative	Y_reply:哇哦 好浪漫啊
+negative	Y_reply:没关系你就是最棒的宝宝！ [抱抱]
+negative	Y_reply:[心]
+negative	Y_reply:咪这里新谷和三丽鸥在开953259239
+positive	Y_reply:报个大的
+negative	Y_reply:后悔啥了？ [抱抱]
+negative	Y_reply:愿我们和爱的人一起浪费人生，热泪盈眶?
+positive	Y_reply:姐姐生日快乐！ [太开心]
+positive	Y_reply:有几个人能在为圈做大做强就知道为毛很多没有自己的?
+negative	Y_reply:早安宝宝 [抱一抱]
+positive	Y_reply:没错！因为爱情所以日出
+positive	Y_reply:注意身体宝宝 [哆啦A梦害怕]
+positive	Y_reply:亲，宝贝是不是有幻觉呀
+positive	Y_reply:朋友好有趣啊
+positive	Y_reply:妈呀你们是怎么抢到的…
+positive	Y_reply:回复@高敬晖是宇宙无敌大帅哥:先婉拒了，再看看
+negative	Y_reply:好棒
+positive	Y_reply:回复@板栗和清欢:希望这份工作能长久，虽然我在第一天就打了退堂鼓，不过还是鼓励自己多坚持。加油加油！！
+positive	Y_reply:老师好 [笑哈哈]
+positive	Y_reply:长时间没有谈吧
+negative	Y_reply:我也一直在寻找答案
+positive	Y_reply:包邮价吗？
+negative	Y_reply:榆钱
+negative	Y_reply:感觉这个梦很好做啊 [哈哈]
+negative	Y_reply:抱抱，我们都有这样的时候，但请记住，你值得被爱被珍惜哦
+positive	Y_reply:今晚噩梦退散
+positive	Y_reply:抱抱宝宝可以试试反击 [抱抱]
+positive	Y_reply:照顾好自己 [抱抱]
+positive	Y_reply:是不是年龄大了，寿命到了？
+negative	Y_reply:抱抱，有时候我们就是需要独处来充电，然后满血复活 [心]
+positive	Y_reply:出息了
+positive	Y_reply:回复@秋叶随风dff:嗯，有机会换个环境吧，一开始就要守住底线的
+positive	Y_reply:赛博时代还没有到来，只能先这样了
+negative	Y_reply:[允悲]
+positive	Y_reply:真的我也暴食，某团的月付都要被我刷爆了
+negative	Y_reply:涨价了谷如其名
+negative	Y_reply:"[苦涩]"
+negative	Y_reply:???热死
+positive	Y_reply:真好
+positive	Y_reply:想被人安慰但又不想被人发现怕麻烦到别人也怕尴尬，只敢偷偷改微信状态的可怜鬼摸摸头，不哭不哭 [抱抱]
+positive	Y_reply:抱抱你 [抱抱]
+positive	Y_reply:宝子对不起对不起?♀?对不起，你能看见我私信嘛？我的问题我的问题 [泪]
+positive	Y_reply:这个角度特别好！
+positive	Y_reply:抱抱你宝宝[淚][淚]
+positive	Y_reply:我也
+positive	Y_reply:听音乐叠星星，叠了一玻璃瓶了! [坏笑]
+negative	Y_reply:#成毅王权富贵#cy#成毅# 成毅｜狐妖小红娘王权篇｜王权富贵｜莲花楼｜李莲花｜李相夷｜迷局破之深潜｜云弘深｜卢云｜@成毅
+positive	Y_reply:别打错，小心被误伤
+negative	Y_reply:喜欢去创造很多美丽的事物
+negative	Y_reply:棒棒哒
+negative	Y_reply:相信医生，积极配合治疗，逐渐就会好起来的
+positive	Y_reply:哈哈 看来大家都很喜欢这个活动
+positive	Y_reply:不愧是你 一发入魂 [doge]
+positive	Y_reply:已读乱回 "[发芽]"
+negative	Y_reply:"[哇]"
+negative	Y_reply:诶呀打打人机就好啦 乱杀的 [心]
+negative	Y_reply:成毅：“我们一起努力，一起进步，一起越来越好。” @成毅 [心]
+positive	Y_reply:晚安
+positive	Y_reply:如果可以的话，你要不要买点褪黑素来吃一下。褪黑素，不是药，是那种有助眠功效的营养品。价格还算便宜的10块钱也能买不算小的一瓶。吃几片晚上睡得好。
+negative	Y_reply:成毅
+negative	Y_reply:[抱抱]
+positive	Y_reply:把??这个图送他然后举报他骚扰 很准 网页链接
+positive	Y_reply:建议送去小英家历练一下
+positive	Y_reply:不是你怎么了
+positive	Y_reply:回复@心乱如麻辣鱼:那就把括号里面的部分删掉就好了，总之我的经验就是不要太去思考发病这件事啦，本人也停药两年了，偶尔发病但不影响生活啦，（前几天郁期刚过，现在处于躁期，但是该干啥干啥
+negative	Y_reply:小猫牢弟 [二哈]
+positive	Y_reply:再来评论一下 喜欢就好我亲亲\U0001f979\U0001f979\U0001faf6? "[锦鲤附体]"
+negative	Y_reply:又幸福了小姐姐 "[送花花]"
+negative	Y_reply:[抱抱]
+negative	Y_reply:你好，你感兴趣的“染发”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 染发[超话]
+negative	Y_reply:说得对！我们的人生应该用来追求快乐和创造价值
+negative	Y_reply:[抱抱]
+negative	Y_reply:[抱抱]
+positive	Y_reply:宝宝我也好喜欢你 "[送花花]"
+negative	Y_reply:怎么又刷到你了，是小学生吧
+positive	Y_reply:我跟他们解释过了，有些时候流泪是无法控制的，有用吗一点用都没有
+positive	Y_reply:[泪]
+positive	Y_reply:播放量
+negative	Y_reply:朋友圈都是这样的，假的要死，已经关了1年多了
+positive	Y_reply:置顶
+negative	Y_reply:真的好贵 [允悲]
+negative	Y_reply:那就好开心一点 [抱抱]
+negative	Y_reply:极禹
+negative	Y_reply:[抱抱]
+positive	Y_reply:回复@g寒故:早安宝宝 "[吹风车]"
+negative	Y_reply:[抱抱]
+negative	Y_reply:105包邮
+negative	Y_reply:哎哟，这可真是令人头疼的一天呢不过，至少你还知道早点睡觉，这对身体可是大有裨益的呢希望你的头痛和拉肚子都能尽快好起来，以后记得注意饮食哦
+positive	Y_reply:回复@小寒AX:羡慕鼠了（企图窃取健康值（拿来吧你（（ [憧憬]
+negative	Y_reply:[爱你]
+positive	Y_reply:我去，寄我家
+negative	Y_reply:@蝴蝶蓝 我大哥问你话呢！！！
+negative	Y_reply:抱抱宝宝 [抱一抱]
+positive	Y_reply:回复@想吃冰和火锅:啊啊我也不太清楚，我半途而废了可以确定好想做哪一类的多看看别人 "[苦涩]"
+positive	Y_reply:早上好宝宝[吃馕]
+positive	Y_reply:114 [doge]
+positive	Y_reply:置顶（不要精选
+negative	Y_reply:"[哇]"
+negative	Y_reply:出，350提
+positive	Y_reply:慢慢来，咱们不着急的 [抱抱]
+positive	Y_reply:建议，请不要太过于投入太多的感情，毕竟希望有多大，失望就有多大 [抱抱]
+negative	Y_reply:爸爸会一直在你身边支持你的，加油
+positive	Y_reply:我也准备去打耳洞了！很早之前就想做的事，然后还有改名字！感觉是很开心的事情！
+positive	Y_reply:哇
+positive	Y_reply:好棒 记得发点江西美照
+positive	Y_reply:好美 "[哇]"
+negative	Y_reply:出，350提
+positive	Y_reply:[憧憬]
+positive	Y_reply:这个是什么针打头上的？
+negative	Y_reply:对，还有妈妈 [抱抱]
+negative	Y_reply:心疼你所经历的困扰，坚强如你，定能度过。记住，伤痕也是生命中的印记，它们让你更坚韧。望你早日找到缓解的法子，愿你平安喜乐。
+negative	Y_reply:亲爱的，我在这里陪着你，希望你能尽快恢复快乐 [抱抱]
+positive	Y_reply:真假 [喵喵]
+positive	Y_reply:信你 [舔屏]
+negative	Y_reply:[good]
+positive	Y_reply:我说话有点难听我先走了 [微笑]
+negative	Y_reply:善良是一种美德，善良是一种远见，善良是一种自信，善良是一种精神力量，善良是一种以逸待劳的沉稳，善良是一种文化，善良是一种快乐，善良一种乐观。
+negative	Y_reply:[抱一抱]
+negative	Y_reply:我跟你一样 [抱抱]
+positive	Y_reply:尽情的展现你的才华以你的才华和对自己的要求你是注定不会平凡的，会越来越好的，我们会永远在你的身后@MIC赵泳鑫Steelo
+negative	Y_reply:[抱抱]
+negative	Y_reply:你好，你感兴趣的“微博渔场”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 微博渔场[超话]
+negative	Y_reply:确实如此！原版的金秘书真的太经典了
+positive	Y_reply:宝宝晚上好 [心]
+negative	Y_reply:哈哈，一起报复社会去 [good]
+positive	Y_reply:强推树莓红
+positive	Y_reply:[抱一抱]
+positive	Y_reply:愁 [微笑]
+negative	Y_reply:梦醒时分，一切都会好的
+negative	Y_reply:[抱抱]
+negative	Y_reply:范丞丞
+positive	Y_reply:早安宝宝 [抱一抱]
+positive	Y_reply:抱抱，抱抱，总会出现可以惊艳你的事物的，亲爱的，抱抱
+negative	Y_reply:虞书欣
+negative	Y_reply:哈哈哈 看来这个小摊生意很好
+negative	Y_reply:【赵丽颖与凤行】#赵丽颖沈璃#  zly【赵丽颖沈璃】#赵丽颖与凤行#?
+negative	Y_reply:你已经做得很好了，加油！
+negative	Y_reply:快来体验优质博文加热器，让更多人看你所想&gt;&gt;网页链接
+positive	Y_reply:回复@晚风晚风吹过来:你家长要是同意的话，我建议你可以去当专业生，因为我也是走的专业生/
+negative	Y_reply:风有约，花不误，你可知我的心中只有你 [心]
+negative	Y_reply:那些人除了用年龄洗 也没啥理由可摆出来了
+negative	Y_reply:你好，你感兴趣的“马陆”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 马陆[超话]
+negative	Y_reply:没关系 我们都会经历这样的阶段
+positive	Y_reply:抱抱老公我没有感同身受所以没法去说理解你，但是希望你可以越过越好 [抱抱]
+negative	Y_reply:之前天天熬夜现在喝饮料都会睡 谢谢褪黑素
+positive	Y_reply:做了选择就坚定自己选的是最好的
+negative	Y_reply:没关系的！我们都是最棒的！加油
+positive	Y_reply:[疑问]
+positive	Y_reply:评论区都在骂她，没有人理解她的绝望。
+negative	Y_reply:你好，你感兴趣的“欧冠”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 欧冠[超话]
+negative	Y_reply:心随海浪跳动，情感真挚动人。
+positive	Y_reply:给孩子看泪目了 [泪]
+positive	Y_reply:甜甜哒晚安 [兔子]
+negative	Y_reply:晚安?
+positive	Y_reply:回复@Raseannn:没有 家里都做好了饭 不能随便点外卖 准备周末去吃！！ [羞嗒嗒]
+positive	Y_reply:你不是！ [抱一抱]
+positive	Y_reply:不知道捏
+negative	Y_reply:俺老猪也为你高兴，原神棉花娃娃真不错，恭喜恭喜！
+positive	Y_reply:晚上好，宝宝 [给你小心心]
+positive	Y_reply:好 "[我想开了]"
+negative	Y_reply:看看私信
+negative	Y_reply:要开心哦！
+positive	Y_reply:这是什么东西 [跪了]
+negative	Y_reply:抱一抱
+positive	Y_reply:晚安 [睡]
+negative	Y_reply:7
+negative	Y_reply:[抱抱]
+positive	Y_reply:回复@P城流动摊贩-:手感不一样啊……… [doge]
+positive	Y_reply:给你私信了   但是只能发一条 [允悲]
+positive	Y_reply:杂志’ar‘
+negative	Y_reply:[抱抱]
+negative	Y_reply:我们都没错只是太痛苦了，想要提前回家了 [悲伤]
+positive	Y_reply:哦！
+positive	Y_reply:啊
+positive	Y_reply:回复@朱砂芝酱:小于500fo只能砖30条左右 大于500fo能砖1000左右（还要满足能瓶29条）
+positive	Y_reply:回复@楚沐林:哈哈，俺老孙失态了。
+positive	Y_reply:回复@银河也睡着啦:别被淘汰了啊，下场感觉boa好猛 [泪]
+positive	Y_reply:抱抱照顾好自己 [抱抱]
+negative	Y_reply:[抱抱]
+negative	Y_reply:抱抱抱 [抱抱]
+positive	Y_reply:回复@P城流动摊贩-:所以…………同喜同喜 [坏笑]
+negative	Y_reply:[打call]
+positive	Y_reply:回复@银河也睡着啦:尾丝要坚定自信 [抱一抱]
+positive	Y_reply:范丞丞
+negative	Y_reply:祝你年年皆胜意，岁岁都欢愉！！！
+positive	Y_reply:回复@邓为美得好过分:你好牛
+positive	Y_reply:有点吓人 [傻眼]
+negative	Y_reply:你好，你感兴趣的“WCBA联赛”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; WCBA联赛[超话]
+positive	Y_reply:我这两天也这样….北京害我好惨[淚]
+negative	Y_reply:亲过 [兔子]
+positive	Y_reply:哈哈哈，又幸福了

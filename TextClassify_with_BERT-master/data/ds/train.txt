@@ -1,0 +1,740 @@
+negative	X_history:; X_post:抑郁症; Y_reply:[抱抱]
+negative	X_history:; X_post:油饼锕; Y_reply:就是有病
+positive	X_history:; X_post:早啊……; Y_reply:下午好呀
+negative	X_history:; X_post:可爱晕了; Y_reply:羡慕疯了
+positive	X_history:; X_post:可爱猫猫; Y_reply:小橘猫呀
+positive	X_history:; X_post:分享图片; Y_reply:哪个小美女
+negative	X_history:; X_post:抑郁症; Y_reply:这是什么歌呀
+positive	X_history:; X_post:咪呀——; Y_reply:尖耳朵崽崽
+negative	X_history:; X_post:我又想睡觉了; Y_reply:睡吧睡吧
+negative	X_history:; X_post:林书媛seowon嘿嘿; Y_reply:好快
+negative	X_history:; X_post:抑郁症花花草草，补交作业; Y_reply:哇
+negative	X_history:; X_post:沈腾超话生日快乐; Y_reply:超话生快！
+positive	X_history:; X_post:右耳朵打上了; Y_reply:疼不疼 [允悲]
+negative	X_history:; X_post:人不能贪心; Y_reply:知足常乐 [抱抱]
+positive	X_history:; X_post:谁有攒猫粮?; Y_reply:图片评论 网页链接
+negative	X_history:; X_post:终于拥有了; Y_reply:恭喜 "[送花花]"
+positive	X_history:; X_post:蔡徐坤游泳池诚信网页链接; Y_reply:网页链接
+positive	X_history:; X_post:春天; Y_reply:回复@元气欣崽_: [抱抱]
+positive	X_history:; X_post:宋居寒 晚安寒寒; Y_reply:晚安 [抱一抱]
+negative	X_history:; X_post:又是emo的晚上; Y_reply:怎么了 [抱抱]
+negative	X_history:; X_post:少年的赤诚不在。; Y_reply:抱抱抱 [抱抱]
+positive	X_history:; X_post:抑郁症感觉越来越严重了; Y_reply:[抱一抱]
+negative	X_history:; X_post:抑郁一定要过上你想过的生活。; Y_reply:期望吧
+positive	X_history:; X_post:抑郁症不想活还得活着，我服辽; Y_reply:辛苦了
+positive	X_history:; X_post:抑郁症成功把人生的路走死。; Y_reply:[抱抱]
+negative	X_history:; X_post:; Y_reply:加油在坚持明天一天就周末了 [伤心]
+positive	X_history:; X_post:张昕想见你想见你想见你; Y_reply:[打call]
+positive	X_history:; X_post:踏马的，我是真泥马想死啊; Y_reply:每天都在想死
+negative	X_history:; X_post:出错了但你没错 微软你啥意思; Y_reply:哈哈哈哈哈
+positive	X_history:; X_post:就是很焦虑 很狂躁 很想大叫; Y_reply:[抱一抱]
+negative	X_history:; X_post:再见吗  再见吧; Y_reply:再见吗？再 ～见！吧。
+positive	X_history:; X_post:抑郁症我真的懒得不得了，对不起; Y_reply:[抱抱]
+positive	X_history:; X_post:[費解]兄弟你衣品笑死我了; Y_reply:可以来咱村了
+positive	X_history:; X_post:棉花美娃娃有谁知道他叫什么吗？; Y_reply:夏油杰？
+positive	X_history:; X_post:发现一颗立在江中的树?; Y_reply:这个角度真的很独特
+positive	X_history:; X_post:你们快看 我发现了什么杨天翔; Y_reply:妈呀 好可爱
+positive	X_history:; X_post:markchan妈妈们请吃第一次写; Y_reply:来了！
+positive	X_history:; X_post:出发出发; Y_reply:回复@不爱吃鱼的王某某:51大神
+negative	X_history:我又想睡觉了;; X_post:假的 醒了有点睡不着; Y_reply:咋了？
+positive	X_history:; X_post:微博树洞又熬过了一天; Y_reply:回复@古月潇潇_:熬？
+negative	X_history:可爱晕了;; X_post:我请问列表里风向这是真的吗; Y_reply:真的！
+positive	X_history:; X_post:ILLIT便利店 kms拼车 ?1; Y_reply:还有1吗
+negative	X_history:; X_post:抑郁症就取点钱整天跑这跑那的，好烦; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症这药为啥吃了也睡不着; Y_reply:耐药了吧，换一种
+positive	X_history:; X_post:师生粉来扩宝宝们女初+同性+双向; Y_reply:哇晨曦宝宝
+negative	X_history:; X_post:抑郁症我这辈子最大的不幸就是有个妈; Y_reply:[抱抱]
+positive	X_history:; X_post:哼哼终于准备去天津啦！; Y_reply:期待你在天津玩得开心哦
+positive	X_history:; X_post:靠 今天一练，我现在睡不着还有四个小时; Y_reply:俺也是
+positive	X_history:抑郁症不想活还得活着，我服辽;; X_post:抑郁症; Y_reply:什么意思
+positive	X_history:右耳朵打上了;; X_post:感冒快点好吧难受的要死; Y_reply:[抱抱]
+positive	X_history:; X_post:TF三代周边中转站 想退坑了有活菩萨收吗; Y_reply:问问
+negative	X_history:; X_post:抑郁症患精神病最糟的是大家都期待你装没病; Y_reply:是的
+positive	X_history:抑郁症成功把人生的路走死。;; X_post:抑郁症午饭; Y_reply:真不错
+positive	X_history:忍你们嗑血糖的烂梗小鬼很久了;; X_post:好喜欢这篇; Y_reply:码一下
+negative	X_history:抑郁症聊天来;; X_post:抑郁症终于周末了; Y_reply:辛苦了 [抱抱]
+negative	X_history:如果太阳可以是蓝色的。;; X_post:抑郁症好孤单。; Y_reply:[抱抱]
+positive	X_history:; X_post:光遇陪玩有没有平台团，拉我一下; Y_reply:半平台宝宝要看看嘛
+negative	X_history:我好像跟谁都不说话了，沉默很久;; X_post:严重失眠; Y_reply:[鲜花]
+negative	X_history:; X_post:oi！我要回游了看一下了…; Y_reply:哇 这个场景真的好可爱
+negative	X_history:; X_post:云瑶超话头像这是为了过愚人节吗; Y_reply:哈哈哈是的，磕倒了
+negative	X_history:; X_post:很多时候你以为很好的关系 其实也就那样吧; Y_reply:确实如此
+negative	X_history:; X_post:OK 今晚的绿海有你一份力@我讨厌均值不等式; Y_reply:[色]
+positive	X_history:宋居寒 晚安寒寒;; X_post:何故 咕咕下午好; Y_reply:晚上好 [兔子]
+negative	X_history:沈腾超话生日快乐;; X_post:张小斐700W啦姐姐; Y_reply:"[赢牛奶]"
+positive	X_history:; X_post:服了。但是我挺喜欢红毛的。算了; Y_reply:我也喜欢红毛！ [心]
+negative	X_history:; X_post:抑郁症有时候发现不是别人狠心，是自己的问题。; Y_reply:[抱抱]
+negative	X_history:; X_post:头痛到全身上下动不了的感觉; Y_reply:我也经常这样 真的是很难受
+negative	X_history:; X_post:抑郁症心里乱糟糟的 一天到晚总是叹气; Y_reply:哎我也是 [跪了]
+negative	X_history:; X_post:双相情感障碍每天被自己的拖延强迫选择困难烦死?; Y_reply:[抱抱]
+positive	X_history:; X_post:非常非常满意的生贺系列，终于集齐啦; Y_reply:恭喜恭喜！真的很棒呢
+positive	X_history:; X_post:@MBTI小行家 根据我的微博判断我的mbti; Y_reply:这是什么
+negative	X_history:; X_post:沃草尼瑪卡沒龍又把ins帖子隱藏了; Y_reply:卧槽尼玛我产品be了
+positive	X_history:; X_post:忍你们嗑血糖的烂梗小鬼很久了; Y_reply:十个??乐解九个 [允悲]
+negative	X_history:如果太阳可以是蓝色的。;抑郁症好孤单。;; X_post:抑郁症唉; Y_reply:[抱抱]
+positive	X_history:; X_post:失眠总幻想自己被害是不是被害妄想？; Y_reply:找机会，和心理老师聊聊
+negative	X_history:; X_post:????“擠出來的日常”? 在火星开飞机的微博视频; Y_reply:美美哒
+positive	X_history:; X_post:gidle拼琦lo特典专，带价来; Y_reply:回复@林灵麟麟:可以私信
+positive	X_history:; X_post:我一天天为什么都那么忙; Y_reply:因为每天都在认真工作 "[开学季]"
+negative	X_history:; X_post:长大后的家，要靠自己经营。; Y_reply:我们只能为自己负责！ [太开心]
+positive	X_history:; X_post:台剧关于未知的我们天啊手速都好快啊; Y_reply:我28昨天16 [跪了]
+negative	X_history:何故 咕咕下午好;; X_post:宋居寒 寒寒中午好; Y_reply:中午好宝宝 [抱一抱]
+positive	X_history:; X_post:#时代少年团演唱会#我！说！我收！特权码！买断！; Y_reply:50两天买断
+negative	X_history:; X_post:我好像跟谁都不说话了，沉默很久; Y_reply:别害怕，只是手机没电了 [心]
+negative	X_history:; X_post:以闪亮之名 故山萘的微博视频; Y_reply:我真的好爱这次的 "[送花花]"
+positive	X_history:; X_post:尹航微博我真的好～喜欢航哥的转圈圈啊; Y_reply:让他给你邮一个？ [哈哈]
+positive	X_history:; X_post:叶罗丽出卡换卡全出，多收就?，要的私聊; Y_reply:宝宝白换情换吗 [鲜花]
+positive	X_history:; X_post:抑郁症 老子不想在学校里躯体化啊啊啊啊啊啊啊; Y_reply:天哪抱抱 [抱抱]
+negative	X_history:; X_post:每次跟医生说最近过得好不错 其实心里已经撑不住了抑郁症; Y_reply:[抱抱]
+negative	X_history:; X_post:时代少年团演唱会收特权码买断！第一天优先，两天打包也行; Y_reply:两天都出
+positive	X_history:非常非常满意的生贺系列，终于集齐啦;; X_post:我们喻黄，绝配; Y_reply:哇哦 好甜啊
+negative	X_history:; X_post:抑郁症“你是不是希望有一件事情或者一个人能让你好起来”; Y_reply:真的非常希望
+positive	X_history:; X_post:桑稚明信片感觉怪怪的，但我又说不上来; Y_reply:回复@被只许拿捏:我感觉有点哈哈
+positive	X_history:抑郁症;抑郁症;抑郁症;; X_post:抑郁症; Y_reply:好棒?? 医生是怎么让你停药的 [泪]
+negative	X_history:我好像跟谁都不说话了，沉默很久;严重失眠;; X_post:哭了很久，痛了很久; Y_reply:[抱抱]
+negative	X_history:我又想睡觉了;假的 醒了有点睡不着;; X_post:我知道我会焦虑到睡不着觉; Y_reply:[抱抱]
+positive	X_history:抑郁症啊头疼;; X_post:抑郁症我是一个从小被否定到大的人你要我如何自信.; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症把系解课当成美术课来上的我; Y_reply:t3条件反射 一嗅二听三动眼 [跪了]
+positive	X_history:; X_post:好消息：押作文 一分不差，坏消息：没背; Y_reply:回复@芝芝想不通:肯定啊 小事情
+positive	X_history:; X_post:时代少年团周边中转站出，不包，随机官周明信片; Y_reply:回复@浪漫绑架案:回关宝宝
+negative	X_history:可爱晕了;我请问列表里风向这是真的吗;; X_post:春风啊; Y_reply:要扭起来了 "[送花花]"
+negative	X_history:; X_post:#张皓宸与你的十年#期待下一个十年; Y_reply:他好懂浪漫啊！每次看到他的书就很感动
+positive	X_history:; X_post:抑郁症求助大家在西安去哪个医院看精神科比较好，有西安的朋友吗; Y_reply:西安精卫吧
+positive	X_history:; X_post:抑郁症 有没有得病十年以上的病友，现在怎么样了？; Y_reply:十几年，三番五次的复发
+positive	X_history:; X_post:少年宋慈真正的心寒从来不是大吵大闹……; Y_reply:刚好333天 网页链接 [偷笑]
+negative	X_history:; X_post:九尾XXZ一直陪着你@LGDNBW-九尾 ，加油?; Y_reply:晚安 "[送花花]"
+negative	X_history:; X_post:真是受够了 忙到连静下来好好大哭一场的时间都没有; Y_reply:抱抱，哭出来会好很多哦
+positive	X_history:; X_post:生日写检讨，兄弟我无敌了; Y_reply:回复@一个小乐色桶:哦哦 那也要夸你一下 抄得好
+positive	X_history:TF家族三代周边中转站朋友们我的张极幕后在派送了。;; X_post:二手谁?这个; Y_reply:1 10
+negative	X_history:云瑶超话头像这是为了过愚人节吗;; X_post:抑郁症世界就是一个巨大的形式主义; Y_reply:[抱抱]
+positive	X_history:; X_post:韩娱跳蚤市场收TXT回归新专; Y_reply:宝宝我出有信誉着急补尾款不走pt可以吗白菜价
+positive	X_history:就是很焦虑 很狂躁 很想大叫;今天自己一个人睡觉 晚安;; X_post:睡着了就不怕了; Y_reply:对
+negative	X_history:抑郁症讨厌下雨天，下雨天让我变的焦虑不安?;; X_post:我的脸总是红红的 讨厌; Y_reply:我亲亲
+positive	X_history:; X_post:2,4,6-三硝基甲苯 我们喜欢你~; Y_reply:我靠你们这么快吗 快跟我们进度一样了
+positive	X_history:一个平胸人的煎熬和内耗( `д?);; X_post:抽烟喝酒的男人 真下头; Y_reply:我不抽烟但喝酒
+positive	X_history:; X_post:原神问一嘴，注销账号后多久才能重新注册啊; Y_reply:3天成功注销，后面就可以重新注册了
+negative	X_history:; X_post:抑郁症吃奥沙西畔睡觉会睡一会醒一次大喊大叫吗; Y_reply:吃了三个多月，会连续做梦和早醒
+negative	X_history:; X_post:抑郁症一天一天过去了，可我感觉我啥都没记住，什么都不会，中考怎么办啊; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症房间里的抽屉已经装满了药盒 各式各样 可是没有用; Y_reply:我也是 "[干饭人]"
+positive	X_history:; X_post:辛苦兼职两天赚了230元，医院复诊开药243元……对自己身体好点; Y_reply:要注意身体！
+negative	X_history:抑郁症有宝宝喝药生理期乱掉的吗;; X_post:抑郁症坐立不安，度秒如年; Y_reply:真想抱住你 [抱抱]
+positive	X_history:咪呀——;; X_post:sky光遇欢迎加入萌新大队??; Y_reply:萌新都有的椅子我却没有 "[苦涩]"
+negative	X_history:何故 咕咕下午好;宋居寒 寒寒中午好;; X_post:何故 咕咕中午好; Y_reply:中午好宝宝 [抱一抱]
+positive	X_history:抑郁症感觉越来越严重了;; X_post:踏马的。这个名字恶心到我了; Y_reply:我给你耗你还骂我 [微笑]
+positive	X_history:; X_post:抑郁症翻篇了，对吧未来可期，问心无愧所有的努力都不会被辜负！未来，致自己; Y_reply:加油！
+negative	X_history:????“擠出來的日常”? 在火星开飞机的微博视频;; X_post:????????????; Y_reply:哇
+negative	X_history:抑郁症;; X_post:抑郁症我的意识是不是又错乱了; Y_reply:随缘心理开导，执证上岗，希望可以和你结缘。
+negative	X_history:暴食了#暴食#抑郁症;; X_post:抑郁症 请大家看今天的湖！希望大家今晚都能睡个好觉; Y_reply:可真好看
+positive	X_history:; X_post:快点让我变身不然给你一拳@评论罗伯特; Y_reply:变身魔法需要关注我哦！关注后再发一下试试哦～
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;; X_post:宋居寒 寒寒晚上好; Y_reply:回复@g寒故: [女孩儿]
+positive	X_history:; X_post:澜久早早早做了猫猫简单卡背，想自印小卡，求好看的卡背; Y_reply:宝宝,抱图啦 "[开学季]"
+negative	X_history:抑郁症mect 我有点害怕 温州·温州市第七人民医院;; X_post:MOA交易处慢蹲收; Y_reply:sc5还在
+negative	X_history:; X_post:#原来清明并不是放三天补一天#笑死， 根本没有放假; Y_reply:想知道是反讽还是真的这么认为的啊
+positive	X_history:; X_post:我服了一想到我之前花六百买了个丑皮鞋就心痛; Y_reply:买到了喜欢的鞋子就会觉得之前的花销好值得
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;; X_post:知道我喜欢蜡笔小新特意去带的; Y_reply:哇哦
+negative	X_history:; X_post:抑郁症时隔一年，还是拨通了这电话  此刻跟谁难受  非常难受   超级难受; Y_reply:[抱抱]
+negative	X_history:如果太阳可以是蓝色的。;抑郁症好孤单。;抑郁症唉;; X_post:抑郁症我怎么变成这样了呢。; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症突然间心悸气短  有些喘不过气的感觉预感不是特别好  没事的  没事的; Y_reply:[抱抱]
+positive	X_history:台剧关于未知的我们天啊手速都好快啊;; X_post:抑郁症这世界什么时候能公平点; Y_reply:可是这世界本就不公平
+positive	X_history:妈的！烦死了！放鸽子不早说，老娘妆都画好了特意定的闹钟我服了！;; X_post:为什么我不幸福; Y_reply:幸福！
+positive	X_history:; X_post:此树是僵僵栽 楼下买路财#梦幻新诛仙手游##梦幻新诛仙手游#梦幻新诛仙; Y_reply:好 "[举手]"
+positive	X_history:; X_post:去推理，我的朋友。“恋语探案集”活动进行中！#恋与制作人#; Y_reply:侦探熊本熊前来报到 [喵喵]
+negative	X_history:预言一波下个月我妈进组，如果不准当我没说;; X_post:预言一波邓薇今天营业，如果没营当我没说; Y_reply:爱信等
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;; X_post:何故 咕咕晚上好; Y_reply:早安 [兔子]
+negative	X_history:; X_post:抑郁症一到五点左右太阳准备下山就开始定点崩溃。。。。呵呵我们记事本有自己的报时器; Y_reply:[抱抱]
+positive	X_history:; X_post:妈的！烦死了！放鸽子不早说，老娘妆都画好了特意定的闹钟我服了！; Y_reply:要是我在就陪你了 [委屈]
+negative	X_history:; X_post:抑郁症你要是看不惯我我现在就可以去死这样子你这辈子都不用看见我了; Y_reply:抱抱，怎么了呀 [抱抱]
+positive	X_history:微博树洞又熬过了一天;; X_post:抑郁症工作被欺负，有点崩溃; Y_reply:回复@MoMaek018:心态好怎么会病呢
+negative	X_history:; X_post:抑郁症说话好累，起床好累，躺着好累，打字好累，洗漱好累，洗澡好累，呼吸好累，没意思; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症好久不见，已经快半年没去找姐姐了; Y_reply:为什么不去了？明明在一个城市啊， "[流浪地球2]"
+positive	X_history:ILLIT便利店 kms拼车 ?1;; X_post:MY杂货铺 出柚卡 咬手冬; Y_reply:回复@困困小喵饼:100出吗
+negative	X_history:; X_post:抑郁症我服了，事儿逼老师，找我家长，让我给父母讲哪道题为什么错，以后单独给我留作业; Y_reply:[抱抱]
+negative	X_history:; X_post:抑郁症八小时上工对我来说还是太久了，这个时长……; Y_reply:随缘心理开导，执证上岗，希望可以和你结缘。
+positive	X_history:; X_post:抑郁症 大家吃盐酸会有什么副作用吗; Y_reply:是指盐酸舍曲林吗，不能叫它盐酸简称是舍曲林好一点 [允悲]
+positive	X_history:; X_post:解忧游戏铺 2024.4.10委屈小蒜猫哈哈哈哈～; Y_reply:下面的好可爱上面的也是个蛋 [打call]
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;; X_post:这个包是哪家的啊，或者有图吗; Y_reply:同款博好像发过，我去找找
+positive	X_history:就是很焦虑 很狂躁 很想大叫;; X_post:今天自己一个人睡觉 晚安; Y_reply:回复@树上的绿叶叶:哈哈哈那一定是个满
+negative	X_history:何故 咕咕下午好;宋居寒 寒寒中午好;何故 咕咕中午好;; X_post:宋居寒 寒寒晚上好; Y_reply:早安宝宝 [抱一抱]
+positive	X_history:; X_post:朱志鑫周边中转站有没有宝宝换卡啊重了; Y_reply:回复@高敬晖是宇宙无敌大帅哥:红衣普卡 有斑马的那张拍立得
+negative	X_history:; X_post:此刻想参加线下的心蹦到了极点真想改签去北京见欣欣疯啦; Y_reply:我买了票来上海了结果说欣欣去北京了 [泪]
+negative	X_history:一只名叫“狗蛋”的喵咪;; X_post:不知道为什么 最近总是这个时间段就会醒来; Y_reply:我也是这样 可能是生物钟的原因
+negative	X_history:; X_post:抑郁症是了我还爱给自己制造焦虑，但是怎么办，我已经花了那么多钱，六月初就该去集训了，，; Y_reply:[抱抱]
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;; X_post:蔡徐坤游泳池诚信网页链接; Y_reply:最新
+negative	X_history:抑郁症气死我了凭什么踢我;; X_post:抑郁症啊啊啊啊 12 点睡着了，过一个小时醒一次烦都给烦死了; Y_reply:[抱抱]
+positive	X_history:史铁生永远会被史铁生的文字震撼到;; X_post:陈慧娴最喜欢这四张专辑; Y_reply:我喜欢的前四是：朋友、归来、娴情和秋色
+positive	X_history:沈星回你真的很会找一些刁钻的角度;; X_post:沈星回 你在地球第214个春天我看到了一朵星辰花; Y_reply:老婆蹲蹲教程
+positive	X_history:失眠总幻想自己被害是不是被害妄想？;; X_post:失眠好烦，睡不着感觉被针对了所有人都针对我！; Y_reply:你想得太多了吧
+negative	X_history:; X_post:张真源 是我 你说想哭就弹琴 想起你就写信#张真源# 张真源爱7的微博视频; Y_reply:哇塞 "[送花花]"
+positive	X_history:哼哼终于准备去天津啦！;; X_post:梦到明侦病娇本了……特别刺激特别好玩故事特别牛; Y_reply:好巧啊！我也是 [抱一抱]
+positive	X_history:; X_post:走出抑郁症有没有在青岛的友友啊？我想去大海看看; Y_reply:回复@前往远方的我:不适合定居 但是适合去玩玩是么
+negative	X_history:; X_post:真心瞬息万变，承诺永远只在他爱你的时候才有效，我早就知道了; Y_reply:别想太多啦 爱你的人会一直在的 [抱抱]
+positive	X_history:快点让我变身不然给你一拳@评论罗伯特;; X_post:变身@评论罗伯特; Y_reply:变身魔法需要关注我哦！关注后再发一下试试哦～
+positive	X_history:张昕想见你想见你想见你;; X_post:许杨玉琢想见你，想去线下; Y_reply:回复@岁月诗行如梦:嗯呐现在攒钱合影捏 [抱一抱]
+negative	X_history:蔡徐坤晚安;蔡徐坤晚安;蔡徐坤#原创音乐制作人蔡徐坤# 上午好啊;蔡徐坤晚安?;; X_post:蔡徐坤晚安?; Y_reply:[心]
+negative	X_history:终于拥有了;; X_post:坏消息:联名没乐好消息:图丑的惨绝人寰; Y_reply:任何东西不带乐我都要说一句没品！！！(尽管图丑)
+negative	X_history:蔡徐坤晚安;蔡徐坤晚安;蔡徐坤#原创音乐制作人蔡徐坤# 上午好啊;; X_post:蔡徐坤晚安?; Y_reply:晚安做个好梦哦 [月亮]
+negative	X_history:我要请假。。。咳的我后脑勺疼;; X_post:其实我在熟人面前特别神金，只是在学校我好像是似人一个; Y_reply:没关系的 做自己就好
+positive	X_history:哦不。;; X_post:想休学，但是休学以后可能又要重新适应很多东西，撑着把这三年多上完算了; Y_reply:加油，你可以的！ [加油]
+positive	X_history:华晨宇1号680想降仓到380 有没有火火换的;; X_post:华晨宇出鸟巢演唱会特辑 仅拆封; Y_reply:礼貌问价 "[春游家族]"
+positive	X_history:; X_post:以闪亮之名一录视频就糊，但拍照完全没问题@喵憩小姐的双马尾  故山萘的微博视频; Y_reply:设置那里的视频画质拉最高？
+positive	X_history:宝贝留在我的回忆里我要开启新的篇章。;; X_post:春日的太阳 轻柔得像你拥抱着我; Y_reply:期待夏天橘子汽水味的晚风 [抱一抱]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;; X_post:报告 我家志鑫什么时候发高会; Y_reply:高会要生锈了 [困]
+negative	X_history:; X_post:我不想睡觉，闭上眼睛也没办法立刻睡着，翻来覆去一两个小时。可是又有点困，也起不来干脆干别的事情; Y_reply:还是要睡觉的
+positive	X_history:抑郁症成功把人生的路走死。;抑郁症午饭;; X_post:抑郁症好消息：接到面试通知了坏消息：紧张死了，离家巨远，早八; Y_reply:去看看
+positive	X_history:; X_post:抑郁症手忍不住的颤抖，会是躯体化的体现吗; Y_reply:Reply @panda的迷妹之一:他们太愚昧了，手抖时让他们看看吧
+negative	X_history:; X_post:抑郁症 好难过啊 忍不住哭 蜷缩在角落泪真的好烫 躯体症状真的好难受 感觉自己对不起父母 我是累赘…; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症现实/人格解离是抑郁引起的吗？你们有没有解离的症状？; Y_reply:是那种自己的意识与自己的身体暂时分离的状态吧…也许…
+negative	X_history:; X_post:奇迹暖暖我的白月光，我终于把你做出来了几年前已经做出来了但染了色，后来没多久就退游了然后回归又开始做了; Y_reply:恭喜恭喜
+negative	X_history:真是受够了 忙到连静下来好好大哭一场的时间都没有;; X_post:打雷了。要下雨了。好棒。晚安; Y_reply:打雷下雨都不影响我睡觉 [月亮]
+positive	X_history:@MBTI小行家 根据我的微博判断我的mbti;; X_post:魔琴安东尼奥温柔乡（垃圾人体致歉还在努力增进画技…）; Y_reply:呜呜呜好吃
+positive	X_history:ILLIT便利店 kms拼车 ?1;MY杂货铺 出柚卡 咬手冬;; X_post:ILLIT便利店 釜山itta拼车?15随机; Y_reply:5
+positive	X_history:抑郁症能不能无痛的死去a;抑郁症好想死，刚刚跟家里人吵完架;; X_post:抑郁症嘻嘻情绪又崩溃了呢; Y_reply:好巧我也是，抱抱 [抱抱]
+positive	X_history:服了。但是我挺喜欢红毛的。算了;好难过宝宝安慰我一下@愚人众执行官_达达利亚;; X_post:春天就像世界末日一样; Y_reply:对 [单身狗]
+negative	X_history:真心瞬息万变，承诺永远只在他爱你的时候才有效，我早就知道了;; X_post:我还以为我不会掉眼泪呢; Y_reply:别哭了，我借你肩膀擦泪 [心]
+positive	X_history:; X_post:Ruka想问一下买了露单封的jd3.0会送露的拍立得嘛，就是冲着露的拍立得买的，不会拍立得是随机的吧; Y_reply:应该就是露的
+positive	X_history:#眼泪女王 不会要be吧#哈吉嘛;; X_post:#眼泪女王 纯爱战神#啊啊啊啊啊啊啊啊我还没看呢??; Y_reply:别哭别哭，我这里有一包纸巾
+positive	X_history:光遇陪玩有没有平台团，拉我一下;光遇陪玩问问这种算什么音色 温时out的微博视频;; X_post:光遇陪玩进团，求你们了，; Y_reply:别这样
+positive	X_history:; X_post:逆水寒手游啊啊啊太太的染色真的很可爱！像小蝴蝶！！还给公主切染了一个搭配的颜色; Y_reply:宝宝你也在玩逆水寒！！你在哪个区呀
+negative	X_history:抑郁症又熬过了一天;抑郁症明天要上班了，不想工作;抑郁症工作又熬过了一天;; X_post:抑郁症明天要工作，又是痛苦的一天; Y_reply:[抱抱]
+positive	X_history:; X_post:性格好难改啊; Y_reply:不用改，试试做个性格测试，然后从性格匹配推荐工作里，找个去试试，就跟星座一样让你感觉原来自己做的挺好的
+negative	X_history:解忧游戏铺 2024.3.26今日是NPC解忧～;; X_post:抑郁症 好久没来了最近一直躁狂期暴饮暴食胖了十斤难评; Y_reply:我也 [泪]
+positive	X_history:韩娱跳蚤市场收TXT回归新专;抑郁症住院状态还行呐 温州·温州市第七人民医院;; X_post:抑郁症才一周怪贵的; Y_reply:我住了十天八千多了
+positive	X_history:啊啊啊啊自己把自己锁在门外了，我真的好笨啊;; X_post:哈哈哈对自己不抱任何希望; Y_reply:向外看呢，你对什么抱有希望？哪怕一丢丢 [抱抱]
+negative	X_history:精神的分崩离析是在什么时候开始的呢…;; X_post:记住这种感觉 以后的每一次都请大声说出爱 好吗; Y_reply:是的 我们都要勇敢地说出我们的爱
+negative	X_history:一只名叫“狗蛋”的喵咪;不知道为什么 最近总是这个时间段就会醒来;早起显得人特别热爱生活;; X_post:一口气喝两杯冰咖啡; Y_reply:这么能喝
+negative	X_history:抑郁症心里乱糟糟的 一天到晚总是叹气;; X_post:抑郁症比起以往的抑郁，我这次复发最明显的新症状是易怒和非常严重的焦虑。。。; Y_reply:[心]
+positive	X_history:; X_post:抑郁症希望自己有一天可以和头像旗木卡卡西一样坚强，是火影中喜欢的角色。; Y_reply:加油，不要小看了自己身上的火之意志！妈的燃起来了
+positive	X_history:服了。但是我挺喜欢红毛的。算了;; X_post:好难过宝宝安慰我一下@愚人众执行官_达达利亚; Y_reply:回复@Ratarik:加油，你一定可以的！
+positive	X_history:忍你们嗑血糖的烂梗小鬼很久了;好喜欢这篇;; X_post:要发350多个快递，里面十几个叫张/佳乐的，我两眼一黑; Y_reply:对不起老公我是其中一个
+negative	X_history:成毅#成毅# 啊啊啊啊啊啊啊啊帅死了！又帅又可爱;成毅成毅，你怎么长成这样？符合我全部想象。@成毅;; X_post:成毅吃个同类; Y_reply:[心]
+negative	X_history:少年的赤诚不在。;; X_post:几年前在老家，晚上躺下睡觉的时候，总会默默流泪，但不记得为什么流泪了。; Y_reply:那时候一定有很多无法言喻的心事吧
+negative	X_history:; X_post:陪伴 守护 理想 信念 强大 温柔这些好像是我喜欢的纸片人的关键词，我所有推都具备这些特性; Y_reply:那你们一定都是最棒的 [鼓掌]
+negative	X_history:我要请假。。。咳的我后脑勺疼;其实我在熟人面前特别神金，只是在学校我好像是似人一个;; X_post:黑杰克玩第一把就赢了; Y_reply:哇 好运气爆棚啊
+positive	X_history:; X_post:人为什么要有个精神寄托:痛苦发疯的时候不至于没有托举对象夜色沉沉是痛苦的底色; Y_reply:回复@碎叶儿鸭:抱歉哦 小朋友 我最近有点忙
+positive	X_history:抑郁症我好难过，为什么总是得不到我想要的;; X_post:抑郁症我可以去死吗，可以吗，这样的生活不是我想要的; Y_reply:我也想要这样的生活 [抱抱]
+negative	X_history:抑郁症花花草草，补交作业;抑郁症我成为抑郁症 超FUN啦 发帖纪念一下~;; X_post:抑郁症#情绪##坚持每天拍张照片# 周一早安; Y_reply:早安
+negative	X_history:; X_post:#大侦探就这样拍到一百季吧#唯一从第一季追到现在的综艺。哪天结束了真的会很难过。?; Y_reply:我也是呢，感觉就像陪伴了一个朋友成长一样
+positive	X_history:师生粉来扩宝宝们女初+同性+双向;; X_post:师生粉2024.4.15 遗憾完美收场 故事悄然闭环 我说 我们永远; Y_reply:不教你也可以处好关系
+negative	X_history:; X_post:抑郁症前天复诊亲耳听到医生说“等你完全康复以后…”不敢相信真的会有那一天; Y_reply:请相信！相信真的很重要！我也相信你慢慢会好的！加油！
+positive	X_history:失眠总幻想自己被害是不是被害妄想？;失眠好烦，睡不着感觉被针对了所有人都针对我！;; X_post:抑郁症今天确诊了，妄想状态真好！; Y_reply:确诊什么？
+positive	X_history:; X_post:抑郁症昨天晚上心口开始一抽一抽的疼，今天上午偶尔疼一下，需不需要去医院啊; Y_reply:回复@柳卿卿卿卿:没事，经常这样疼就去看看 [抱抱]
+positive	X_history:[費解]兄弟你衣品笑死我了;; X_post:第五人格 幫親友打號也是遇到了 對面只有三個人好搞笑網易第五人格你有什麼頭緒嗎。。。; Y_reply:恐怖游戏啊！
+negative	X_history:; X_post:我后知后觉才了解什么是躯体化以及有时候我的所作所为应该是被理解的 没有错的; Y_reply:抱抱你，我们都有过那样的时刻，理解自己很重要 [心]
+positive	X_history:; X_post:好像生活感情工作都不尽人意，好像不会变好了，该怎么办呢？; Y_reply:但你要相信，每一个低谷都会过去，每一个困难都能克服，每一个明天都会更好
+negative	X_history:; X_post:张新成很期待  但是不知道什么时候有时间看#张新成待我醒来时##剧集待我醒来时#; Y_reply:哇 这个剧看起来好好看啊！等我有时间一定去看看
+positive	X_history:; X_post:绝交了很多次去年把她的一切联系方式都拉黑了。她不知道从哪里搞来我的微博视奸了半年多。一月份问我怎么不更新微博了; Y_reply:好有毅力 [允悲]
+negative	X_history:九尾XXZ一直陪着你@LGDNBW-九尾 ，加油?;; X_post:杭州LGDNBW我对#九尾#的评分：#LGD对战VG#尾子今天c麻了！; Y_reply:太棒了
+negative	X_history:抑郁症我这辈子最大的不幸就是有个妈;; X_post:如果我死了，这破学校一定是罪魁祸首（把删了的微博下回来都要发这条，证明这学校是多么sb; Y_reply:[抱抱]
+positive	X_history:感谢@霹雳无敌宇宙狂炫33_ 宝子送来的无料！嘿嘿真的很美很喜欢！?>?<?，女孩子是世界上最可爱的生物~;; X_post:分享图片; Y_reply:抱抱 [抱抱]
+negative	X_history:; X_post:昨天吞药自sha 没有成功。但是今天心情很好大概是药物作用。昨天后来产生了幻觉并且失忆了。#鱼的日常ba叭# 抑郁症; Y_reply:啊？？？？。。。
+positive	X_history:双相情感障碍 一次吃了十四颗文拉法辛会咋样啊 刚才情绪激动一次吃了这么多 不想去洗胃;; X_post:双相情感障碍 每日打卡 今天还没死; Y_reply:明天也不会死
+negative	X_history:; X_post:#小突兔# 好喜欢这件夏威夷衫！; Y_reply:好久不见，我和小伙伴们都在小突兔的超话社区等你，快点来看看吧，回家指路&gt;&gt;小突兔[超话]
+negative	X_history:一只名叫“狗蛋”的喵咪;不知道为什么 最近总是这个时间段就会醒来;; X_post:早起显得人特别热爱生活; Y_reply:真的 每天被闹钟叫醒的时候感觉人生充满了希望
+positive	X_history:; X_post:#李现又要带火一小镇了#泉州才不是什么小镇呢，文化底蕴丰富的一座城市; Y_reply:回复@愁晴CH1:在全市取景噢，而且他们俩的家取景地是市区哈哈哈
+positive	X_history:; X_post:#12306从未授权第三方平台发售火车票#我一直有个问题，买不到票不是可以选无座吗？; Y_reply:无座也有数量限制 否则会超重 现在是无座票都买不到
+negative	X_history:抑郁症一天一天过去了，可我感觉我啥都没记住，什么都不会，中考怎么办啊;; X_post:抑郁症为什么我越来越讨厌了，如果是我从前那个我的话就好了; Y_reply:[抱抱]
+negative	X_history:; X_post:玩一个觉得没意思的游戏可以随时关掉我的人生也是这么没意思，我不想玩下去了; Y_reply:人生就像一场游戏，有时候我们也需要按下“重新开始”按钮 [加油]
+negative	X_history:如果太阳可以是蓝色的。;抑郁症好孤单。;抑郁症唉;抑郁症我怎么变成这样了呢。;; X_post:抑郁症好想赶快瘦下来 也许那样子我能开心一点吧; Y_reply:你多少斤了？
+positive	X_history:去推理，我的朋友。“恋语探案集”活动进行中！#恋与制作人#;; X_post:去推理，我的朋友。“恋语探案集”活动进行中！#恋与制作人#; Y_reply:哇 好有趣的活动啊
+negative	X_history:; X_post:我自己的想法就是 善良 可爱的人值得最好的一切 永远喜欢善良的人 其实善良真的很难; Y_reply:善良是一种选择，而选择善良的人本身就是一种美好 [心]
+negative	X_history:暴食了#暴食#抑郁症;抑郁症 请大家看今天的湖！希望大家今晚都能睡个好觉;耶 眉山 Eterna_J的微博视频;抑郁症;; X_post:分享图片 遂宁; Y_reply:甜妹
+negative	X_history:; X_post:当重度焦虑碰到地震 睡觉被抖醒都以为是自己抖的 直到我看到新闻#台湾花莲县海域7.3级地震#; Y_reply:想当年我也是那个重度焦虑中度抑郁的人 [允悲]
+negative	X_history:我又想睡觉了;假的 醒了有点睡不着;我知道我会焦虑到睡不着觉;想大喊大叫 又心情低落 焦虑睡不着觉 手舞足蹈;; X_post:抑郁症 晚安?; Y_reply:晚安 [月亮]
+positive	X_history:妈的！烦死了！放鸽子不早说，老娘妆都画好了特意定的闹钟我服了！;为什么我不幸福;; X_post:为啥都订婚了！为啥！！！！！; Y_reply:回复@6根大麻花:嘿嘿 那我来了
+positive	X_history:抑郁症 老子不想在学校里躯体化啊啊啊啊啊啊啊;我去今天是前担生日。。好奇妙的感觉像前任;; X_post:或许人海里有救生圈吗。; Y_reply:人生就像海里的波浪 有时起有时落
+negative	X_history:沈腾超话生日快乐;张小斐700W啦姐姐;艾伦#艾伦~0410生日快乐# 生日快乐宝宝;; X_post:盗墓笔记#0418王胖子生日快乐# 生日快乐; Y_reply:胖爷生日快乐
+negative	X_history:; X_post:抑郁症烦死了，大清早的就不当人了，天天练琴练筝，叫叫叫，给你妈叫魂呢，迟早有一天我会把88个琴键21根琴弦一个个一根根全拔下来; Y_reply:抱抱 [抱一抱]
+negative	X_history:抑郁症你要是看不惯我我现在就可以去死这样子你这辈子都不用看见我了;; X_post:我在抑郁症连续签到100天，获得了“签程似锦”头衔。心中有光，奔赴热爱; Y_reply:[心]
+positive	X_history:咪呀——;sky光遇欢迎加入萌新大队??;; X_post:。昨天梦到去音乐节 我真是要碎了 想看的要么就是在考试前两天要么就是太远短时间回不来……; Y_reply:爱你 [馋嘴]
+positive	X_history:; X_post:焦虑症 奶奶出去买菜我第一个想到的不是奶奶要出去买什么是奶奶出去的话会不会出事。。。我怎么了啊啊啊感觉我好不孝我真是有病; Y_reply:没事，这就是焦虑症的症状
+negative	X_history:抑郁一定要过上你想过的生活。;; X_post:因尧而志_向尧看齐接受一切你不想接受的，包括你自己。; Y_reply:你不论变成什么样子，都要去勇于接受自己，如果不满意并努力去改正。
+negative	X_history:可爱晕了;我请问列表里风向这是真的吗;春风啊;; X_post:给我一个时间虫洞直接跳到美好的未来！哦！不努力改变自己没有美好的未来; Y_reply:未来是把握在自己手中的 [加油]
+positive	X_history:九尾XXZ网页链接大家快去给这个微博下面的这条评论点赞助力拿到投票！;; X_post:九尾XXZ晚上好，想你了哥，播一个吧@LGDNBW-九尾; Y_reply:只要开播，我心情就好了
+positive	X_history:逆水寒手游啊啊啊太太的染色真的很可爱！像小蝴蝶！！还给公主切染了一个搭配的颜色;; X_post:抑郁症生理期+发烧+躯体化什么实力我不多说了; Y_reply:这个生理期我实在是，干不过
+negative	X_history:; X_post:抑郁症抑郁症今天好难受没有力气，走路像软了一样，心慌，全身无力，头疼头晕，下午还摔碎了一个玻璃杯，现在像一个死猪一样瘫在床上; Y_reply:，明天会好起来的 [抱抱]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;; X_post:耶，想死的心终于好了一点。; Y_reply:回复@朱砂芝酱:是的 网页链接 "[苦涩]"
+positive	X_history:失眠总幻想自己被害是不是被害妄想？;失眠好烦，睡不着感觉被针对了所有人都针对我！;抑郁症今天确诊了，妄想状态真好！;失眠失眠;; X_post:焦虑症今天中午玩大了; Y_reply:什么
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;; X_post:神经; Y_reply:原来你也还没审核 [doge]
+negative	X_history:僵僵自制简笔画来啦～#梦幻新诛仙手游##梦幻新诛仙# 一只小僵尸嗷的微博视频;; X_post:僵僵的道哥枕头～#梦幻新诛仙手游##梦幻新诛仙#; Y_reply:我也想要一个这么可爱的枕头
+positive	X_history:张昕想见你想见你想见你;许杨玉琢想见你，想去线下;; X_post:段艺璇我算是璇璇的新粉，线下见过一次，想多了解，有人给我介绍一下吗？; Y_reply:回复@岁月诗行如梦:那个819公馆
+negative	X_history:抑郁症想想还是得场病，病死算了，别人也不会说三道四了;抑郁症生活好痛苦，什么时候才能结束;; X_post:抑郁症我好像有点想通了，等这几年攒点钱，攒够他们的养老钱就走吧; Y_reply:唉
+positive	X_history:抑郁症这药为啥吃了也睡不着;; X_post:人家大学真美啊，在操场跑了两圈#这才是大学操场该有的姿态# 上海·上海交通大学(徐汇校区); Y_reply:确实很美，不过跑步的时候要注意安全哦
+negative	X_history:抑郁症 请大家看花花??鲜花和春天都是免费的，快乐也是;抑郁症 今天天气不好，心情也不好。中饭也没吃，被工作气饱了。;; X_post:抑郁症 挺烦的。。。; Y_reply:抱抱 [抱一抱]
+positive	X_history:; X_post:抑郁症可能我根本不配被爱，就是敏感多疑，就爱揪着一件事不放，就爱翻旧账就嘴硬说反话，可是真的控制不住对身边亲的人还老发脾气; Y_reply:天秤座？不用慌，大把人跟你一样。
+positive	X_history:抑郁症一个朋友都没有是什么体验，不用说帮忙，平常说话都没有人说话;; X_post:抑郁症好多人都想在睡梦中嘎，我试过了，我也想这样，不过根本行不通; Y_reply:一氧化碳中毒吗 [抱抱]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;; X_post:我靠 让我抽到红衣拍立得吧; Y_reply:另外一张卡面还没有开出来呢 [doge]
+positive	X_history:#时代少年团演唱会#我！说！我收！特权码！买断！;; X_post:#时代少年团演唱会#抢到啦！！！可以帮宝贝们带id彩带哦！重庆见！; Y_reply:姐妹求！留言上限了可以关注一下嘛 [泪]
+negative	X_history:; X_post:#为什么卫龙辣条失宠了#作为95后卫龙我已经厌了麻辣王子，也吃了十多箱，也吃的厌倦了期待下一个品牌辣条C位出道; Y_reply:辣条真的是我的最爱了不过也要适量食用哦 [馋嘴]
+negative	X_history:预言一波下个月我妈进组，如果不准当我没说;预言一波邓薇今天营业，如果没营当我没说;; X_post:一个个都像二极管似的，中立一点儿会s吗; Y_reply:我首页看不到吵架阴阳 很清爽 [害羞]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;; X_post:你好 我请问呢?; Y_reply:色盲
+positive	X_history:此树是僵僵栽 楼下买路财#梦幻新诛仙手游##梦幻新诛仙手游#梦幻新诛仙;; X_post:纪念一下第一次得5000元宝巨款鸭～#梦幻新诛仙手游##梦幻新诛仙#; Y_reply:哇 好厉害！恭喜恭喜
+positive	X_history:抑郁症啊头疼;抑郁症我是一个从小被否定到大的人你要我如何自信.;; X_post:抑郁症世界以痛吻我我痛死.世界以痛吻我我痛死.; Y_reply:好美丽的精神状态 一切困难都可以摧毁我. [哈哈]
+positive	X_history:; X_post:为什么我要开口说话啊，我不能变成我讨厌的人，好讨厌现在的自己，我还是愿意当一个在阴沟里生活的老鼠; Y_reply:别难过，你只是暂时迷失了自己，总有一天你会找到属于自己的光 [心]
+positive	X_history:; X_post:发现我对过去的事已经全部放下全部无感了，即使是伤害过我的人，伤我很深的人，我还可以视而不见，可能这就是一直以来我的成长吧; Y_reply:回复@Estrella__-:我在这里等你
+negative	X_history:不丢 消失 pH值小于7777的微博视频;; X_post:?????????????????????????????????????????????????? ???; Y_reply:[doge]
+positive	X_history:; X_post:抑郁症为什么所有倒霉的事情都要发生在我身上 为什么生活要一次一次的给我绝望 我真的已经很累了 为什么还要一遍一遍的折磨我 为什么; Y_reply:加油小柳别气馁我一直支持你 [抱抱]
+negative	X_history:; X_post:华晨宇這次有沒有團票; Y_reply:臣本布衣，躬耕于南阳，苟全性命于虎滩，不求闻达于诸猹。帝不以臣卑鄙，赐臣@华晨宇yu 超话超like，不咨臣以当坛之事，由是感激，遂许帝以驱驰！
+positive	X_history:焦虑症 奶奶出去买菜我第一个想到的不是奶奶要出去买什么是奶奶出去的话会不会出事。。。我怎么了啊啊啊感觉我好不孝我真是有病;; X_post:抑郁症 可是她说等我回家……; Y_reply:加油 [抱抱]
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;; X_post:宋居寒 寒寒下午好; Y_reply:晚上好 "[春游家族]"
+positive	X_history:; X_post:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频; Y_reply:哇塞 "[送花花]"
+negative	X_history:; X_post:台剧关于未知的我们明明是在看他们react的结果最后不自觉的和他们一起看剧了，真的看一次心疼一次。哥哥安慰弟弟这里也真的很戳诶弟弟也拍拍哥哥的手就互相安慰了; Y_reply:哥哥好温柔
+negative	X_history:如果太阳可以是蓝色的。;抑郁症好孤单。;抑郁症唉;抑郁症我怎么变成这样了呢。;抑郁症好想赶快瘦下来 也许那样子我能开心一点吧;; X_post:抑郁症讨厌期待感和欲望 我好痛苦; Y_reply:[抱一抱]
+negative	X_history:我要请假。。。咳的我后脑勺疼;其实我在熟人面前特别神金，只是在学校我好像是似人一个;黑杰克玩第一把就赢了;; X_post:怕你知道我喜欢你，更害怕你假装不知道我喜欢你; Y_reply:这种心情真的很复杂
+positive	X_history:; X_post:抑郁症抑郁复发了。刚才听张碧晨的《骗》，听着听着突然哭了，感觉被药物尘封着的记忆一下子被撕开，不敢和爸爸妈妈说，不想让他们担心，只敢躲在床上哭。; Y_reply:抱抱[悲傷]都會好起來的
+negative	X_history:OK 今晚的绿海有你一份力@我讨厌均值不等式;; X_post:喻言 yy#星愿生日企划# yy#给喻言许个星愿# 你始终陌生，却允许诸多浪漫想象，成为我理想@喻言_Yuyan; Y_reply:"[哇]"
+positive	X_history:抑郁症真的快熬不下去了，我已经不知道想死是因为抑郁症还是我本身了，只能说我本就不热爱我的生命;; X_post:如果我没生病呢，我的人生会不会不一样。还是说我注定要这么痛苦; Y_reply:会好起来了宝宝
+positive	X_history:; X_post:抑郁症 好累，累的要死，不想活了，得了这个病生不如死，也看不到痊愈的希望了，真的不如去死，当时不该来住院，好累啊; Y_reply:Reply @我旁边有个路障:安心治疗，脑科医院很厉害。
+positive	X_history:抑郁症啊头疼;抑郁症我是一个从小被否定到大的人你要我如何自信.;抑郁症世界以痛吻我我痛死.世界以痛吻我我痛死.;; X_post:抑郁症这个世界上真的没有感同身受,只有冷暖自知。; Y_reply:是这样的
+negative	X_history:一只名叫“狗蛋”的喵咪;不知道为什么 最近总是这个时间段就会醒来;早起显得人特别热爱生活;一口气喝两杯冰咖啡;; X_post:炉子还没热 煎饼摊的第一位客人; Y_reply:原来你在这里（饼名） [可爱]
+positive	X_history:; X_post:抑郁症我要稳稳的幸福能抵挡末日的残酷在不安的深夜能有个归宿如果我也能像歌词里写的一样能有稳稳的幸福就好了; Y_reply:“我很幸运” “我的命很好”…一定会好起来的吧 一定吧… 网页链接
+negative	X_history:; X_post:抑郁症 突感感觉医生们都好温柔，推着车确认大家有没有吃药的时候就说：9床吃过了，16床饭后吃，冰倩乖乖吃过咯，感觉超级温柔而且平时他们也都冰倩冰倩的叫，而不是17床; Y_reply:[抱抱]
+negative	X_history:抑郁症 好难过啊 忍不住哭 蜷缩在角落泪真的好烫 躯体症状真的好难受 感觉自己对不起父母 我是累赘…;; X_post:抑郁症 南京这几天经常下雨 很喜欢放空聆听雨滴的声音 轻松自在; Y_reply:记得带伞
+positive	X_history:抑郁症我好难过，为什么总是得不到我想要的;抑郁症我可以去死吗，可以吗，这样的生活不是我想要的;; X_post:抑郁症我觉得我的人生没有任何意义; Y_reply:我到现在也整不明白我为啥活着，毫无意义 [泪]
+negative	X_history:; X_post:华晨宇“我始终着迷于你旺盛的生命力”; Y_reply:如果每一个人 注定要衰老 还不如留给花园 多一瞬色彩 告诉聪明的人 笨一些思考 给人生留一束 鲜花——@华晨宇yu 《普通的不普通的人生》
+positive	X_history:; X_post:抑郁症生病之后字体像变了一个人写的。这什么狗屎表达。我的脑子完了。我的字还得重新练，TMD。写不好字了好烦躁啊我草想死; Y_reply:我也是，还老写错，或者下一秒就忘记要写什么 [笑cry]
+negative	X_history:我又想睡觉了;假的 醒了有点睡不着;我知道我会焦虑到睡不着觉;想大喊大叫 又心情低落 焦虑睡不着觉 手舞足蹈;抑郁症 晚安?;; X_post:醒了 没睡六个小时 不打算睡了 因为要去玩; Y_reply:可以呀
+positive	X_history:光遇陪玩我一直以为我是中性音。。。。。。。。。。。。。我服了;; X_post:光遇陪玩有没有喜欢朋友圈点单的宝宝想加派单lx嘟，我手里三个男团都是高质量！语聊王者三恋都有; Y_reply:在律令吗 [羞嗒嗒]
+positive	X_history:生日写检讨，兄弟我无敌了;抑郁症自己投的稿被别人喜欢了就会很高兴……！;我想睡觉，睡不着，根本睡不着;; X_post:小时候的我看见我，肯定会特别特别特别讨厌我; Y_reply:因为现在的我更快乐了 [抱抱]
+negative	X_history:抑郁症我服了，事儿逼老师，找我家长，让我给父母讲哪道题为什么错，以后单独给我留作业;; X_post:抑郁症感觉与喧嚣的世界格格不入，但又只有在这样的情况下才能感觉到自己是活着的; Y_reply:"[锦鲤附体]"
+positive	X_history:宝贝留在我的回忆里我要开启新的篇章。;春日的太阳 轻柔得像你拥抱着我;我小心翼翼的保存你们每个人给我的那一点点的爱;; X_post:不管遇到了谁 排球无罪; Y_reply:你也是啊！你是我的最爱 [打call]
+negative	X_history:#魔卡少女樱 木之本樱#Sakura酱生日快乐！;#水逆退散# 不忍直视的伤口，偶尔还是会隐隐作痛;; X_post:边角料舍不得扔，那就做成拼贴，还挺好看的; Y_reply:真的很棒呢！拼贴艺术是一种很好的方式
+positive	X_history:宝贝留在我的回忆里我要开启新的篇章。;春日的太阳 轻柔得像你拥抱着我;; X_post:我小心翼翼的保存你们每个人给我的那一点点的爱; Y_reply:回复@可爱修勾世界顶级top:嘿嘿 那咱们就庆祝一下咱们的友谊
+positive	X_history:#虞书欣[超话]# 无人问津的港口总是开满鲜花?@虞书欣Esther  #愚人节站姐团建#;; X_post:有没有人跟我讲讲我女到底是什么发色啊想染想染！; Y_reply:不太懂，我感觉对发色，口红色号我是色盲
+positive	X_history:逆水寒手游啊啊啊太太的染色真的很可爱！像小蝴蝶！！还给公主切染了一个搭配的颜色;抑郁症生理期+发烧+躯体化什么实力我不多说了;; X_post:逆水寒手游交易出逆水寒手游肯德基联名兑换码。; Y_reply:多少钱出
+positive	X_history:#时代少年团演唱会#我！说！我收！特权码！买断！;#时代少年团演唱会#抢到啦！！！可以帮宝贝们带id彩带哦！重庆见！;; X_post:果农茶话会宝宝们这个算第几批啊; Y_reply:回复@江际詩八号:好的谢谢宝宝
+positive	X_history:哼哼终于准备去天津啦！;梦到明侦病娇本了……特别刺激特别好玩故事特别牛;; X_post:我尽力了 无论如何也get不到翻唱歌手 某些经常自以为是添油加醋……; Y_reply:每个人都有自己的音乐品味，尊重彼此就好啦
+negative	X_history:抑郁症;#bilibili# 弓长老板_的视频【张月铭cover】特别的人｜出道三周年啦！;; X_post:张昕昕昕宝宝，你是最棒的                  只有以前拍的了; Y_reply:[打call]
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;; X_post:何故 下午好咕咕; Y_reply:晚上好 "[春游家族]"
+positive	X_history:; X_post:抑郁症人际关系简直被我搞的一团乱麻，上午第一节课实在受不了，请假回家打算跳江，但是回家里之后，又懒了，江离的有点远，，于是开割，顺便吞了五片奥沙西泮，但只睡了两小时; Y_reply:慢慢来 [抱一抱]
+positive	X_history:; X_post:抑郁症 好不吉利的梦… 清明节这天梦到奶奶去世了 醒来后就问妈妈奶奶呢 好害怕好害怕 因为奶奶瘫痪已经一年了 多坚持一下吧好吗…; Y_reply:听说这是帮寿的，就是她会越来越好的，不要太担心 [抱抱]
+negative	X_history:此刻想参加线下的心蹦到了极点真想改签去北京见欣欣疯啦;; X_post:还不知道怎么玩儿超话？我都在虞书欣超话是LV.12啦，还获得了云为衫头衔，来#虞书欣[超话]#找我聊天，我来给你划重点~ ??; Y_reply:恭喜
+positive	X_history:-“春天距我只一米之遥”??@Noir_ou_blanc ?@-眠枝-;; X_post:南京·惘闻·小巫师送了明信片好激动? 南京·1701 LIVE HOUSE MAX; Y_reply:好棒！乐队有这样的乐迷超幸福的
+positive	X_history:抑郁症现实/人格解离是抑郁引起的吗？你们有没有解离的症状？;; X_post:抑郁症一个人在洱海边坐着望着湖面波光粼粼，野鸭游泳面前是苍山背后是车来车往风很大吹不散我的阴郁 大理·洱海; Y_reply:好漂亮啊 [哈哈]
+negative	X_history:; X_post:抑郁症能不能给我滚啊，明明是你打电话叫我过两天去上班的，现在告诉我已经有人在试岗了，明天再给我答复，合着我就是你们公司的备胎呗，那试岗的那个人要是通过了，是不是就把我给一脚踢了; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症早上主治医生问完状态后晚上就加药了，希望能在生日之前出院，祝一切安好。近期唯一的好事就是因为难受吃不下饭之前死活健身减肥不下来这次瘦了很多x; Y_reply:回复@五号海棠实验基地:辛苦了 [泪]
+positive	X_history:抑郁症 老子不想在学校里躯体化啊啊啊啊啊啊啊;; X_post:我去今天是前担生日。。好奇妙的感觉像前任; Y_reply:生日快乐，虽然你可能觉得有点奇怪，但记住，每一段关系都是一段旅程，都会让你成为今天的自己 [蛋糕]
+negative	X_history:抑郁症 请大家看花花??鲜花和春天都是免费的，快乐也是;抑郁症 今天天气不好，心情也不好。中饭也没吃，被工作气饱了。;抑郁症 挺烦的。。。;; X_post:抑郁症 我只是不想上班，有错吗; Y_reply:没有 [抱一抱]
+positive	X_history:-“春天距我只一米之遥”??@Noir_ou_blanc ?@-眠枝-;南京·惘闻·小巫师送了明信片好激动? 南京·1701 LIVE HOUSE MAX;; X_post:双相日快乐?今年写壁纸; Y_reply:好看哇哇
+negative	X_history:抑郁症患精神病最糟的是大家都期待你装没病;抑郁症想死之人你是拉不了我上岸的更劝不住我想自sha心;抑郁症我不光容貌焦虑我还游戏技术焦虑成绩焦虑社交焦虑我快焦糊了;; X_post:抑郁症晚安; Y_reply:晚安 [月亮]
+negative	X_history:成毅#成毅# 啊啊啊啊啊啊啊啊帅死了！又帅又可爱;; X_post:成毅成毅，你怎么长成这样？符合我全部想象。@成毅; Y_reply:人生只要两次幸运便好，一次遇到你，一次走到底。成毅，如此美好的你，我们一起走到底。@成毅
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;; X_post:超过三天情绪不好，按照医生的话就是该加药了; Y_reply:每天都这样呢 [允悲]
+negative	X_history:; X_post:新年美食计划#卤煮火烧#; Y_reply:你好，你感兴趣的“卤煮火烧”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 卤煮火烧[超话]
+positive	X_history:时代少年团周边中转站出，不包，随机官周明信片;抑郁症真的很不舒服，也说不清楚具体是哪，就感觉胸闷濒死感，烦躁想哭，我真忍不了了，我都纠结了一个星期要不要去医院;; X_post:抑郁症感觉身体在抖?; Y_reply:[抱抱]
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;; X_post:宋居寒 寒寒晚安; Y_reply:早安 [兔子]
+negative	X_history:极禹?#极禹 临界暧昧#??#极禹 你是心中唯一#  愿你忠于自己，活的认真，笑的放肆;; X_post:极禹?#极禹 临界暧昧#?#极禹 你是心中唯一# “我努力奔跑 为追上那个曾经被赋予众望的自己.”; Y_reply:极禹
+positive	X_history:分享图片;搞不动自己对异性会有生理的喜欢 但是接受不了牵手亲吻自己会排斥但是会心动 搞不明白自己到底算什么性取向了;什么时候可以做一个引体;; X_post:我勒个骚刚遇到个人长我感觉上了; Y_reply:这不要wx [二哈]
+positive	X_history:抑郁症 好累，累的要死，不想活了，得了这个病生不如死，也看不到痊愈的希望了，真的不如去死，当时不该来住院，好累啊;; X_post:抑郁症 安眠药啊没用啊一夜没睡啊; Y_reply:Reply @我旁边有个路障:那个人不睡觉的吗
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;蔡徐坤游泳池诚信网页链接;抑郁症休学在家不知道干嘛了 书也看不进;抑郁症一整天都很迷茫怎么办;; X_post:蔡徐坤游泳池诚信网页链接; Y_reply:置顶谢谢
+positive	X_history:#阿蛇的点滴??#二十四五，风华正茂的年纪怎么可能就无路可走了别怕，不怕，没什么可怕;胸闷;; X_post:#阿蛇的点滴??#我家停电了黑的猝不及防 关键我睡不着，手机才冲到百分之五十那我干瞪眼？; Y_reply:睡觉 [抱抱]
+negative	X_history:#你好春天# Free;; X_post:真的吗#b站#; Y_reply:你好，你感兴趣的“b站”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; b站[超话]
+positive	X_history:[費解]兄弟你衣品笑死我了;第五人格 幫親友打號也是遇到了 對面只有三個人好搞笑網易第五人格你有什麼頭緒嗎。。。;深渊七真是太精彩了 还好已跑路;; X_post:是特么娃三白的团发货了。。; Y_reply:老公心疼我们 [伤心]
+positive	X_history:抑郁症昨天晚上心口开始一抽一抽的疼，今天上午偶尔疼一下，需不需要去医院啊;; X_post:抑郁症折磨自己才是最好的发泄吧，还是没忍住对自己……哭了一晚上，眼睛，脸肿了两天; Y_reply:回复@葙笙:是这样的，根本控制不住 [泪]
+positive	X_history:就睡了几个小时感觉有点烦躁身体有点不舒服没有太累还有点困;抑郁症又难受了还是很难受还是很痛苦还是不舒服头疼啊;我好痛我的脖子好痛好痛好痛啊;; X_post:好痛苦我为什么还坚持着; Y_reply:加油！坚持下去你会看到不一样的风景
+positive	X_history:#眼泪女王 不会要be吧#哈吉嘛;#眼泪女王 纯爱战神#啊啊啊啊啊啊啊啊我还没看呢??;#眼泪女王11集#啊啊啊啊啊啊啊啊啊啊啊啊;; X_post:网易云为什么没有我们低烧的音源; Y_reply:因为云音乐没有听到你的声音 [喵喵]
+negative	X_history:不丢 消失 pH值小于7777的微博视频;?????????????????????????????????????????????????? ???;; X_post:不丢 ……; Y_reply:今天丢丢穿那么漂亮，是个漂亮的小女孩
+negative	X_history:抑郁症一到五点左右太阳准备下山就开始定点崩溃。。。。呵呵我们记事本有自己的报时器;#砂金#宝宝1加1不要歪太多好不好ww角色池和光锥池大保底都留给你了www我的卡卡瓦夏;; X_post:抑郁症好想去死。; Y_reply:抱抱 [抱抱]
+positive	X_history:张昕想见你想见你想见你;许杨玉琢想见你，想去线下;段艺璇我算是璇璇的新粉，线下见过一次，想多了解，有人给我介绍一下吗？;; X_post:SNH48求助，有没有人知道能告诉我一下，口袋48的这个评论怎么能把它删除掉; Y_reply:长按
+negative	X_history:抑郁症心里乱糟糟的 一天到晚总是叹气;抑郁症比起以往的抑郁，我这次复发最明显的新症状是易怒和非常严重的焦虑。。。;; X_post:抑郁症焦虑严重到每隔几分钟就要照一次镜子然后不敢抬头看人甚至会发抖崩溃; Y_reply:抱抱 [抱一抱]
+negative	X_history:抑郁症一天一天过去了，可我感觉我啥都没记住，什么都不会，中考怎么办啊;抑郁症为什么我越来越讨厌了，如果是我从前那个我的话就好了;; X_post:打雷打断了我的行动，不然我还能再弄深点; Y_reply:打雷也阻止不了你对生活的热爱 [赞]
+positive	X_history:服了。但是我挺喜欢红毛的。算了;好难过宝宝安慰我一下@愚人众执行官_达达利亚;春天就像世界末日一样;; X_post:好耶，是元元露露两个好宝宝。还有几乎满屏的罗师傅【？辛苦你了！; Y_reply:哇哦 好可爱的一对！你们俩看起来真的很配
+positive	X_history:感谢@霹雳无敌宇宙狂炫33_ 宝子送来的无料！嘿嘿真的很美很喜欢！?>?<?，女孩子是世界上最可爱的生物~;分享图片;抑郁症网页链接感觉这个想是钓鱼的蝻，离他远点;; X_post:今天的撸猫日记！; Y_reply:好漂亮的小猫 "[哇]"
+negative	X_history:九尾XXZ一直陪着你@LGDNBW-九尾 ，加油?;杭州LGDNBW我对#九尾#的评分：#LGD对战VG#尾子今天c麻了！;; X_post:九尾XXZ比赛加油，你们加油我们也加油！@LGDNBW-九尾; Y_reply:加油 [给你小心心]
+positive	X_history:; X_post:抑郁症 心情不好和喜欢的人诉说 本以为外国人不会看私信TvT没想到今天给我答复啦 让我坚持自我 父母会理解我的 要加油一切都会好的 啊真的好开心 哪怕过程痛苦 只要坚持自己爱好就好啦！！; Y_reply:他人好好啊 [心]
+positive	X_history:; X_post:赵泳鑫#向全世界安利最棒的赵泳鑫# 哦，这是谁啊，原来是鑫尖尖上的人呐。一日不见如隔三秋。@MIC赵泳鑫Steelo; Y_reply:“优秀的人超级多，但我以你为榜样，在无人问津的日子里熠熠生辉”@MIC赵泳鑫Steelo
+positive	X_history:; X_post:抑郁症 你看 我正在想办法活着   只是想活着而已  去新的地方 要伪装自己 伪装自己是正常人 伪装自己很健康   伪装自己很开朗 撕掉药名就很心酸  呵呵。; Y_reply:要好好的。还有好多好多值得期待的东西没见过啊。
+positive	X_history:抑郁症早上主治医生问完状态后晚上就加药了，希望能在生日之前出院，祝一切安好。近期唯一的好事就是因为难受吃不下饭之前死活健身减肥不下来这次瘦了很多x;; X_post:想喝一点点; Y_reply:本痛苦开会的社畜刚偷偷摸摸点了一杯 "[融化]"
+positive	X_history:[費解]兄弟你衣品笑死我了;第五人格 幫親友打號也是遇到了 對面只有三個人好搞笑網易第五人格你有什麼頭緒嗎。。。;深渊七真是太精彩了 还好已跑路;是特么娃三白的团发货了。。;辱追同人女一枚;; X_post:分享图片; Y_reply:太丑了！
+negative	X_history:抑郁症 请大家看花花??鲜花和春天都是免费的，快乐也是;抑郁症 今天天气不好，心情也不好。中饭也没吃，被工作气饱了。;抑郁症 挺烦的。。。;抑郁症 我只是不想上班，有错吗;; X_post:抑郁症 不想上班，我有罪吗; Y_reply:谁想上班
+positive	X_history:; X_post:-“春天距我只一米之遥”??@Noir_ou_blanc ?@-眠枝-; Y_reply:回复@睡十个单位的:啊，其实本来就只是来问你一下木子怎么样了，现在的话关于找工作的事情不知道可不可以跟你交流一下捏 "[汪洋海蓝比心]"
+positive	X_history:就是很焦虑 很狂躁 很想大叫;今天自己一个人睡觉 晚安;睡着了就不怕了;睡着能战胜恐惧;不知道说啥 就是脑壳一片空白 被噩梦吓醒;; X_post:我还记得梦里追击我的人叫成长; Y_reply:回复@树上的绿叶叶:可能吧 但是梦总是充满想象力的
+positive	X_history:一个平胸人的煎熬和内耗( `д?);抽烟喝酒的男人 真下头;; X_post:私激安全套 真的很好用吗  和别的品牌具体有什么不一样啊 (*??`)我朋友圈的姐妹们 都还没用过@SIKI私激官方微博 私激; Y_reply:好用 "[老师爱你]"
+negative	X_history:蔡徐坤晚安;蔡徐坤晚安;蔡徐坤#原创音乐制作人蔡徐坤# 上午好啊;蔡徐坤晚安?;蔡徐坤晚安?;抑郁症又是新的一天;; X_post:蔡徐坤蔡徐坤ROD#腾讯音乐由你榜# cxk#蔡徐坤新歌RIDEORDIE#?网页链接; Y_reply:[抱一抱]
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;; X_post:张极周边中转站出出出，小礼物多多; Y_reply:问问咖啡极
+negative	X_history:; X_post:说实话，具元和小爱的人设是真的非常非常的好，互相尊重，彼此信任，不仅有嘴，行动力什么的也一绝……啊，这种人设，如果当时有营销，肯定会特别火（虽然也很火啦）; Y_reply:他俩自己都感慨角色之间的信任真的让人惊叹 "[干饭人]"
+negative	X_history:; X_post:#冒个泡# 真好 刚说完想晒太阳 沙粒玛就带我来了; Y_reply:你好，你感兴趣的“冒个泡”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 冒个泡[超话]
+negative	X_history:; X_post:华晨宇#华晨宇演唱会顺带搞基建# 啊啊啊啊啊啊啊啊还有两天就抢票了好紧张我好紧张好紧张好紧张！！！！！; Y_reply:儿时的天空多直白 那么开阔 那么纯净，蹒跚追的 美好憧憬 一眨眼 就远行——@华晨宇yu《普通到不普通的人生》
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;; X_post:找到了1元买svip? 网页链接; Y_reply:你。骗我 "[揣手]"
+negative	X_history:预言一波下个月我妈进组，如果不准当我没说;预言一波邓薇今天营业，如果没营当我没说;一个个都像二极管似的，中立一点儿会s吗;; X_post:@邓为工作室 把我妈咪藏哪里去了，给我放出来你们群这该死的人饭子; Y_reply:愿家人平安，等待团聚时刻。
+negative	X_history:瞌睡的要死 但是闭上眼睛就是睡不着;如果我是装的就好了 可惜我不是;; X_post:在我的眼里感觉大于性别 只要我喜欢你带给我的感觉 就算你是第三性别我也不会在意 因为我喜欢的是你这个人 无关性别; Y_reply:说得非常好！爱情应该是超越性别的
+negative	X_history:; X_post:博君一肖啵啵遇赞赞，高冷全完?; Y_reply:?一片冬ong ong～～麦ai ai～?那个一片an～高ao ao～粱ang ang～～? 十里哟～～荷e e～塘～～十里i～～果～香～～～?～～那个十里～～果香哟～～～[/cp]
+positive	X_history:抑郁症一个朋友都没有是什么体验，不用说帮忙，平常说话都没有人说话;抑郁症好多人都想在睡梦中嘎，我试过了，我也想这样，不过根本行不通;; X_post:抑郁症我活到现在的原因，不敢死，高中休学的那会就该死了，一直苟延残喘到现在; Y_reply:[抱抱]
+negative	X_history:暴食了#暴食#抑郁症;抑郁症 请大家看今天的湖！希望大家今晚都能睡个好觉;; X_post:耶 眉山 Eterna_J的微博视频; Y_reply:恭喜，您的微博获得眉山同城微博榜排名第53名！进榜单的本地微博都在这里，点击查看&gt;&gt;网页链接
+negative	X_history:终于拥有了;坏消息:联名没乐好消息:图丑的惨绝人寰;去年这个时候我在发愁买不到谷，没想到过了一年还在发愁买不到谷，而且谷价比起去年更离谱了?;; X_post:死小能不能彻底糊穿地心滚出我的世界我真的受不了这b了; Y_reply:73辱一下就彻底糊了
+positive	X_history:就睡了几个小时感觉有点烦躁身体有点不舒服没有太累还有点困;; X_post:抑郁症又难受了还是很难受还是很痛苦还是不舒服头疼啊; Y_reply:给你推荐一个药，头疼头痛吃吃能舒服一阵子，脑子清醒一点。叫，敏使朗。这个价格还算便宜的，我这边15左右一盒。
+negative	X_history:成毅#成毅# 啊啊啊啊啊啊啊啊帅死了！又帅又可爱;成毅成毅，你怎么长成这样？符合我全部想象。@成毅;成毅吃个同类;成毅老公…@成毅;成毅天姬，别蹭热度了;成毅哎呀，这小手@成毅 傅诗涵17的微博视频;; X_post:成毅; Y_reply:淇淇 [心]
+negative	X_history:抑郁症mect 我有点害怕 温州·温州市第七人民医院;MOA交易处慢蹲收;抑郁症早上和中午忘记吃药了 到了下午突然有种被五雷轰顶的崩溃感;; X_post:MOA交易处家人们有没有推荐的印拍立得的店铺; Y_reply:可以去追梦手幅定制这家问问，好像有做
+negative	X_history:预言一波下个月我妈进组，如果不准当我没说;预言一波邓薇今天营业，如果没营当我没说;一个个都像二极管似的，中立一点儿会s吗;@邓为工作室 把我妈咪藏哪里去了，给我放出来你们群这该死的人饭子;; X_post:邓为老婆又出来美了; Y_reply:哇哦 好漂亮
+positive	X_history:好消息：押作文 一分不差，坏消息：没背;因为我们都太怕失去，一点风吹草动都受不了;; X_post:“总能扛过去的，你觉得自己扛不过去的时候就设想一下未来，咬咬牙就过去了，不要把自己局限在眼前的痛苦。”; Y_reply:兄弟，你这是心灵鸡汤大师啊 [赞]
+positive	X_history:[費解]兄弟你衣品笑死我了;第五人格 幫親友打號也是遇到了 對面只有三個人好搞笑網易第五人格你有什麼頭緒嗎。。。;深渊七真是太精彩了 还好已跑路;是特么娃三白的团发货了。。;; X_post:辱追同人女一枚; Y_reply:卡梅隆是gay子就呼吸 [来]
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;; X_post:我… 唉:-(; Y_reply:可以的
+negative	X_history:抑郁症 突感感觉医生们都好温柔，推着车确认大家有没有吃药的时候就说：9床吃过了，16床饭后吃，冰倩乖乖吃过咯，感觉超级温柔而且平时他们也都冰倩冰倩的叫，而不是17床;; X_post:抑郁症 什么时候才能出院？！啊啊啊啊啊; Y_reply:好好治疗 [抱抱]
+negative	X_history:抑郁症祝我月考顺利，不要再在考场上集中不了注意力啦……;; X_post:抑郁症现在心情异常平静，甚至还挺好的，一点都不烦。居然还开始变困了。。。震撼。好久没体验过了。有没有人能莫名其妙找我聊莫名其妙的东西，因为我现在莫名其妙的无聊; Y_reply:[抱抱]
+positive	X_history:抑郁症我好难过，为什么总是得不到我想要的;抑郁症我可以去死吗，可以吗，这样的生活不是我想要的;抑郁症我觉得我的人生没有任何意义;; X_post:抑郁症我希望人死后能变成一个星球，做自己的神; Y_reply:回复@不喜欢这个世界888:看来只有我是一直在抑郁
+positive	X_history:Ruka想问一下买了露单封的jd3.0会送露的拍立得嘛，就是冲着露的拍立得买的，不会拍立得是随机的吧;; X_post:抑郁症"不要责怪以前的自已，她当时一个人站在雾里也很迷茫"不要一直困在过去; Y_reply:可是我真的_(-ω-`_)⌒)_一直都走不出来
+positive	X_history:我挺佩服我自己的勇气的 小时候因为年龄太小不能一个人去市区玩  现在长大了带着妈妈一起去了广州 盐城 苏州 还学会了教妈妈怎么坐地铁 怎么买高铁票 我突破了我的害怕;; X_post:今日战绩（今天摸鱼了 晚上才开动）; Y_reply:宝宝加油，好棒 [鲜花]
+negative	X_history:抑郁症 好难过啊 忍不住哭 蜷缩在角落泪真的好烫 躯体症状真的好难受 感觉自己对不起父母 我是累赘…;抑郁症 南京这几天经常下雨 很喜欢放空聆听雨滴的声音 轻松自在;; X_post:抑郁症 今天天气很晴朗 心情也很晴朗??; Y_reply:那真是不错 [抱抱]
+negative	X_history:说实话，具元和小爱的人设是真的非常非常的好，互相尊重，彼此信任，不仅有嘴，行动力什么的也一绝……啊，这种人设，如果当时有营销，肯定会特别火（虽然也很火啦）;; X_post:AuroraAksnes姐姐有什么巡演的消息吗？; Y_reply:网页链接今年的巡演情况
+positive	X_history:辛苦兼职两天赚了230元，医院复诊开药243元……对自己身体好点;给老板画一张稿子，然后发给他看看有没有需要修改的地方。本身老板就是在国外，然后又跟我说，他这两天在岛上度假信号不好，不一定能及时回留下羡慕的泪水;; X_post:; Y_reply:好可爱哈哈哈哈哈
+negative	X_history:; X_post:抑郁症 刚才办公室来了个男生，他说要换导师，不然就打算退学了，因为真的坚持不下去了。听起来和我得了一样的病呢。想和他说点什么，但也没什么好说的。我佩服他的勇敢，也羡慕他有支持他的家人。我不敢赌我家人对我的爱够不够我说退学。; Y_reply:[抱抱]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;; X_post:最近忙的要死掉啦; Y_reply:怎么跟我一样 [思考]
+negative	X_history:抑郁症mect 我有点害怕 温州·温州市第七人民医院;MOA交易处慢蹲收;抑郁症早上和中午忘记吃药了 到了下午突然有种被五雷轰顶的崩溃感;MOA交易处家人们有没有推荐的印拍立得的店铺;; X_post:#千万不要买樱花味食物#樱花万宝路还是很香的; Y_reply:?1
+positive	X_history:桑稚明信片感觉怪怪的，但我又说不上来;; X_post:我刚刚上传了动态视频封面，动态视频封面是微博视频号的个性化专属功能，快去我的主页看看吧~更多有趣、精彩的封面，尽在#视频号封面大赏# 被只许拿捏的微博视频; Y_reply:回复@被只许拿捏:俺老孙就是真人，哈哈！
+negative	X_history:抑郁症聊天来;抑郁症终于周末了;抑郁症最近突然多了好多要学的东西，感觉学业任务越来越繁重了，虽然说忙起来确实会减少一些胡思乱想，但只不过是尽量逼着自己忘记那些不开心的事情，断断续续、反反复复的崩溃。;; X_post:抑郁症完蛋，又睡不着了; Y_reply:[抱一抱]
+positive	X_history:以闪亮之名一录视频就糊，但拍照完全没问题@喵憩小姐的双马尾  故山萘的微博视频;以闪亮之名我这一次抽阁，非的离谱……我不求这一次欧了，让我下一次欧点吧;; X_post:以闪亮之名有需要搭配的嘛，闲着没事干; Y_reply:我我（举手）id：yorath "[开学季]"
+positive	X_history:; X_post:抑郁症太难受以至于扣自己嗓子眼催吐，让自己不舒服，好像心里才能好受点。我知道自己承受能力没有那么好，我总是想着退学，刚才都想从楼上跳下去。我总是患得患失。我已经在努力活着了，可不可以让我不要那么敏感，连感到快乐都觉得羞耻。; Y_reply:我懂 [抱抱]
+positive	X_history:抑郁症为什么所有倒霉的事情都要发生在我身上 为什么生活要一次一次的给我绝望 我真的已经很累了 为什么还要一遍一遍的折磨我 为什么;; X_post:抑郁症我每一天都活在痛苦恐慌焦虑当中 我真的很难受 我不知道怎么办; Y_reply:Reply @瑶的心碎日记:因为什么而痛苦
+positive	X_history:; X_post:奇迹暖暖求种草图，尤其是腿的特姿感觉风格挺新颖可爱的，但是配色跟拆分不太好搭（除了腿）感觉腿部特姿很可爱，或许可以搭万圣风 但是不确定具体效果怎样，所以想求个种草图; Y_reply:网页链接前几天搭的，安卓清晰度不是很好，虽然修复过了，希望能种草 [鲜花]
+negative	X_history:成毅#成毅# 啊啊啊啊啊啊啊啊帅死了！又帅又可爱;成毅成毅，你怎么长成这样？符合我全部想象。@成毅;成毅吃个同类;成毅老公…@成毅;; X_post:成毅天姬，别蹭热度了; Y_reply:喜欢成毅 刻在骨子里的教养，印在心底的纯善，浸在眼底的璀璨，成毅，唯毅不可替代！@成毅
+positive	X_history:分享图片;搞不动自己对异性会有生理的喜欢 但是接受不了牵手亲吻自己会排斥但是会心动 搞不明白自己到底算什么性取向了;; X_post:什么时候可以做一个引体; Y_reply:回复@絆夢_:哈哈我之前就是用它，然后有一天感觉自己状态贼好龙门架也没人就去试了下拉了五个 [舔屏]
+negative	X_history:; X_post:影视剧长月烬明#长月烬明开播1周年# /#优酷给长月烬明的排面# 【长月烬明 |白鹿 苏叶酒 | 0406开播一周年贺频】“没有什么困难能阻挡我前行 我会坚定信念 无畏前行 所有困难只是一个磨刀石 我会坚定信念 无畏前行”网页链接; Y_reply:怜爱苏叶酒
+positive	X_history:; X_post:抑郁症 吃药激素发胖到140斤，每天都在身材焦虑怎么办听说激素发胖很难瘦下来是真的吗？如果停药之后会慢慢恢复原来的体重吗？有什么办法瘦下来吗？裤子穿不下了; Y_reply:跟医生沟通换药？我目前吃的氟西汀，医生只给我加量不给换药，怕我长胖更严重 "[揣手]"
+positive	X_history:桑稚明信片感觉怪怪的，但我又说不上来;我刚刚上传了动态视频封面，动态视频封面是微博视频号的个性化专属功能，快去我的主页看看吧~更多有趣、精彩的封面，尽在#视频号封面大赏# 被只许拿捏的微博视频;; X_post:半年了你是一分都不涨啊; Y_reply:你分怎么这么高 [挖鼻]
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;蔡徐坤游泳池诚信网页链接;抑郁症休学在家不知道干嘛了 书也看不进;抑郁症一整天都很迷茫怎么办;蔡徐坤游泳池诚信网页链接;; X_post:蔡徐坤游泳池互捞网页链接; Y_reply:置顶+? 辛苦啦 [good]
+positive	X_history:; X_post:抑郁症; Y_reply:我也在一边寻找一边治愈，但是找了很久都没有找到合适的工作。所以现在开始先写小说了，这是我唯一的爱好，不指望它吃饭，但我想慢慢做好。以后我看见你的微博的话我也会给你分享我的一些事情，如果你不介意的话我真的希望我们一起慢慢好起来。 [嘻嘻]
+positive	X_history:抑郁症 今天早上本来在洗漱，结果家里的接线板突然爆掉了，吓我一跳。;; X_post:抑郁症总是被班里那几个小太妹阴阳，明明不是我的错他们都要怪在我头上,难受,讨厌这个班。; Y_reply:那这样的话一定是她们的问题，真是太可恶了，真的不喜欢这种阴阳怪气的人没有证据还喜欢乱说话
+positive	X_history:#文春预告韩国第一女偶像组合成员恋情#好傻b，你最好不要引一波战然后明天爆个假的，要爆就爆狠的谢谢;啊啊啊啊妹妹怎么这么可爱啊啊啊啊啊啊，黑炮大佬和甜妹的反差真的很爱;; X_post:老天赐我一只残疾小狗?我要跟她相依为命！！; Y_reply:我也想要我的天啊太可爱了 [泪]
+negative	X_history:抑郁症前天打开了朋友圈，之前好长一段时间没看了，感觉脱节太多了，晚上一看又容易想多，觉得别人的人生光鲜亮丽，自己跟个死人似的，我的人生和我这人一样就很搞笑。黯淡无光。对不起，我真的忍不住伤害自己。;; X_post:抑郁症对不起，我不敢靠近光芒四射的人。; Y_reply:我也是
+negative	X_history:抑郁症抑郁症今天好难受没有力气，走路像软了一样，心慌，全身无力，头疼头晕，下午还摔碎了一个玻璃杯，现在像一个死猪一样瘫在床上;抑郁症呼吸困难，家长从早上就开始砸门，像疯子一样;; X_post:#饿瘦跟运动瘦的区别#运动瘦容易保持，饿瘦除非你没有嘴馋期; Y_reply:确实如此
+positive	X_history:抑郁症我好难过，为什么总是得不到我想要的;抑郁症我可以去死吗，可以吗，这样的生活不是我想要的;抑郁症我觉得我的人生没有任何意义;抑郁症我希望人死后能变成一个星球，做自己的神;; X_post:抑郁症我只觉得这一切都是无止境的，没有盼头，无聊且单调的生活; Y_reply:[抱一抱]
+positive	X_history:哦不。;想休学，但是休学以后可能又要重新适应很多东西，撑着把这三年多上完算了;感觉老公这个口癖久了之后总有一天我会在和我姐聊天的时候不小心顺手打成老公。。。;; X_post:每天支撑我吃早饭的只有我早上要吃药爬起来吃早饭让我觉得特别痛苦; Y_reply:我懂！我也是靠吃药才能起床
+negative	X_history:抑郁症心里乱糟糟的 一天到晚总是叹气;抑郁症比起以往的抑郁，我这次复发最明显的新症状是易怒和非常严重的焦虑。。。;抑郁症焦虑严重到每隔几分钟就要照一次镜子然后不敢抬头看人甚至会发抖崩溃;抑郁症开心真难，谁有教程啊;; X_post:抑郁症这辈子最烦隐瞒和欺骗; Y_reply:[抱抱]
+positive	X_history:右耳朵打上了;感冒快点好吧难受的要死;; X_post:废话麻薯日记Day two星期5??     QINGHAI     天气??1??我的朋友们都好好?哭哭2??今晚出去吃饭给自己买了一支花！3??明天又要去复查喽4??花花！！5??终于要见面了吗?; Y_reply:天天开心呀
+negative	X_history:; X_post:@MBTI小行家 我是什么？; Y_reply:你可能是在问自己的性格类型是什么，根据你的问题，你可能是个喜欢探索和了解人性、价值和意义的人，具有创造性和热情。无论是ENFP还是INFP，你都有着优秀的洞察力和情感表达能力。继续探索自己的内心，你会找到更多独特的优点。
+negative	X_history:#小突兔# 好喜欢这件夏威夷衫！;; X_post:抑郁症今早我养了两年的蜗牛摔地上了，出了好多血，不知道它能不能熬过去。好难过，感觉自己好失败，明明早点买一个新的盒子就可以避免悲剧的，结果还是没买，一直到今天它逃出来摔下去。真的好累，感觉好难过，又无能为力。; Y_reply:[抱抱]
+positive	X_history:#虞书欣[超话]# 无人问津的港口总是开满鲜花?@虞书欣Esther  #愚人节站姐团建#;有没有人跟我讲讲我女到底是什么发色啊想染想染！;有时候想死有时候不知道怎么死;我女这气场帅呆我了;; X_post:刷到这个动图公主提裙哈哈哈～; Y_reply:好可爱哈哈哈哈 "[春游家族]"
+positive	X_history:; X_post:新加坡时隔三年又来尝了尝这家汉堡店的蘑菇牛肉汉堡加煎蛋，味道很不错，牛肉很多汁Fatboy's Burger Bar Upper Thomson#美食# 新加坡·Fatboys the Burger Bar; Y_reply:回复 @爱这悲惨世界:酸不酸啊宝 [抱一抱]
+negative	X_history:九尾XXZ一直陪着你@LGDNBW-九尾 ，加油?;杭州LGDNBW我对#九尾#的评分：#LGD对战VG#尾子今天c麻了！;九尾XXZ比赛加油，你们加油我们也加油！@LGDNBW-九尾;; X_post:九尾XXZ四月一切顺利，卡位赛加油?@LGDNBW-九尾; Y_reply:加油加油
+negative	X_history:长大后的家，要靠自己经营。;; X_post:去年，和前年， 我都是一直在说服自己，有一份工作不容易，就算有闲言碎语也要坚持下去，不管多苦，在晚上哭了多少次，第二天依旧擦干眼泪继续前行，工作繁琐没错人际关系更烦恼，但都这样坚持了两年多，记录一下; Y_reply:加油，你可以的！ [拳头]
+negative	X_history:; X_post:僵僵自制简笔画来啦～#梦幻新诛仙手游##梦幻新诛仙# 一只小僵尸嗷的微博视频; Y_reply:你好，你感兴趣的“梦幻新诛仙手游”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 梦幻新诛仙手游[超话]
+negative	X_history:抑郁症患精神病最糟的是大家都期待你装没病;抑郁症想死之人你是拉不了我上岸的更劝不住我想自sha心;抑郁症我不光容貌焦虑我还游戏技术焦虑成绩焦虑社交焦虑我快焦糊了;抑郁症晚安;抑郁症我们哭着降临世界,却笑着走向永恒.;; X_post:抑郁症别了吧活着比死亡难受; Y_reply:是的 [泪]
+positive	X_history:时代少年团周边中转站出，不包，随机官周明信片;抑郁症真的很不舒服，也说不清楚具体是哪，就感觉胸闷濒死感，烦躁想哭，我真忍不了了，我都纠结了一个星期要不要去医院;抑郁症感觉身体在抖?;; X_post:抑郁症我也不知道为什么，就是不想去学校; Y_reply:回复@浪漫绑架案:会好的 [抱抱]
+negative	X_history:油饼锕;; X_post:#朱志鑫[超话]#  zzx#朱志鑫 三代第一主舞#  zzx#朱志鑫 三代唯一门面#  “你是夏日的彩虹，给我的世界增添了色彩”??? ??? ??? ?????? ???????, ??? ????? ?? ?? ?????. ...全文; Y_reply:朱志鑫
+positive	X_history:少年宋慈真正的心寒从来不是大吵大闹……;; X_post:少年宋慈还是预告对不起老婆们最近瓶颈期 有没有老婆给我提供一点灵感啊啊或者说更喜欢哪篇 我考虑先写wps：图一韩视角最后一句话来自一位太太剪的视频配的文案！ 图二名字没有打错哦; Y_reply:没关系的，我连文案都不会写 "[苦涩]"
+negative	X_history:我又想睡觉了;假的 醒了有点睡不着;我知道我会焦虑到睡不着觉;想大喊大叫 又心情低落 焦虑睡不着觉 手舞足蹈;抑郁症 晚安?;醒了 没睡六个小时 不打算睡了 因为要去玩;明天是复查 妈妈第二次不一起去 我想妈妈一起去;; X_post:有种说不出的感觉 但就是不舒服; Y_reply:[抱抱]
+negative	X_history:抑郁症是了我还爱给自己制造焦虑，但是怎么办，我已经花了那么多钱，六月初就该去集训了，，;infj真的很讨厌别人用命令我的方式对我说话;; X_post:抑郁症突然兴致很高的收拾了房间，现在又低落了; Y_reply:我有时候也是，会突然很高兴想干点什么或和人聊天，但是没多久就会情绪低落 [跪了]
+negative	X_history:; X_post:总算把亚里士多德学完了，脑细胞已经死光了头疼得要裂开了 好热又好冷 好渴又好想吐 我是不是发烧了#哲学#; Y_reply:你好，你感兴趣的“哲学”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 哲学[超话]
+negative	X_history:抑郁症 好难过啊 忍不住哭 蜷缩在角落泪真的好烫 躯体症状真的好难受 感觉自己对不起父母 我是累赘…;抑郁症 南京这几天经常下雨 很喜欢放空聆听雨滴的声音 轻松自在;抑郁症 今天天气很晴朗 心情也很晴朗??;; X_post:KITE政井海人 加油加油！！; Y_reply:那咋，羡慕死了 [悲伤]
+negative	X_history:真是受够了 忙到连静下来好好大哭一场的时间都没有;打雷了。要下雨了。好棒。晚安;; X_post:妈妈说她找到工作其实不是很开心 她怕我一个人在家情绪不好时找不到依靠 我恨我的病给妈妈带来困扰 为什么不止害我还要害我的妈妈妈妈说她只有我了 我说我其实也只有她。; Y_reply:真的很心疼你们母女俩
+negative	X_history:抑郁症 突感感觉医生们都好温柔，推着车确认大家有没有吃药的时候就说：9床吃过了，16床饭后吃，冰倩乖乖吃过咯，感觉超级温柔而且平时他们也都冰倩冰倩的叫，而不是17床;抑郁症 什么时候才能出院？！啊啊啊啊啊;; X_post:抑郁症 感觉生活没有意义了好累，不想活了; Y_reply:意义是什么东西？
+negative	X_history:情绪保护机制真的很牛啊……最近越来越无所谓一些东西了……而且越来越爱不了人或事了……;所以生命啊，它苦涩如歌……;我真的很在乎一些仪式感 还有美丽的价值;最近是不是压力太大了，想吃特别多东西。事实也是一吃就吃很多;; X_post:最近崩溃到爆炸; Y_reply:抱抱你希望你能尽快恢复过来 [心]
+negative	X_history:情绪保护机制真的很牛啊……最近越来越无所谓一些东西了……而且越来越爱不了人或事了……;所以生命啊，它苦涩如歌……;我真的很在乎一些仪式感 还有美丽的价值;; X_post:最近是不是压力太大了，想吃特别多东西。事实也是一吃就吃很多; Y_reply:确实如此，有时候压力大了就会想要通过吃东西来缓解一下
+positive	X_history:; X_post:佐佐木与宫野 待凛冬离去?雪融草青?你我相遇  <?????> _ * 世界で唯一のあなた ?    ?   請你做我的解語花（哦哦哦哦哦第一次用彩图剪感觉效果还挺好的（？??看前打开高清不然超级糊！ 柒月报刊-的微博视频; Y_reply:直接把pyq的营业文案搬过来感觉有点傻啊啊
+negative	X_history:以闪亮之名 故山萘的微博视频;赵丽颖#赵丽颖沈璃# zly#赵丽颖陆贞# 早期“雾似雾起 瞒住千万的繁星 似雾落 藏不住对你的爱似意”@赵丽颖;赵丽颖#赵丽颖沈璃#zly#赵丽颖与凤行#以花之名 言我所爱. @赵丽颖;; X_post:以闪亮之名宝宝，你是一块蓝莓蛋糕; Y_reply:好米 [好爱哦]
+negative	X_history:抑郁症聊天来;抑郁症终于周末了;抑郁症最近突然多了好多要学的东西，感觉学业任务越来越繁重了，虽然说忙起来确实会减少一些胡思乱想，但只不过是尽量逼着自己忘记那些不开心的事情，断断续续、反反复复的崩溃。;抑郁症完蛋，又睡不着了;; X_post:抑郁症好像渐渐分不清幻觉和现实了; Y_reply:[抱一抱]
+positive	X_history:新加坡时隔三年又来尝了尝这家汉堡店的蘑菇牛肉汉堡加煎蛋，味道很不错，牛肉很多汁Fatboy's Burger Bar Upper Thomson#美食# 新加坡·Fatboys the Burger Bar;; X_post:旅行东航这次飞机餐还不错 #旅行#; Y_reply:我还没吃过这么好的飞机餐
+negative	X_history:抑郁症;#bilibili# 弓长老板_的视频【张月铭cover】特别的人｜出道三周年啦！;张昕昕昕宝宝，你是最棒的                  只有以前拍的了;#微博渔场#快跟我一起当个快乐的渔场主吧！微博渔场;; X_post:许杨玉琢羊羊宝宝，要一直开心爱鼠你了; Y_reply:真的好可爱啊
+negative	X_history:抑郁症;; X_post:#bilibili# 弓长老板_的视频【张月铭cover】特别的人｜出道三周年啦！; Y_reply:你好，你感兴趣的“bilibili”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; bilibili[超话]
+positive	X_history:澜久早早早做了猫猫简单卡背，想自印小卡，求好看的卡背;; X_post:范丞丞?#范丞丞小巷人家# ?#范丞丞庄图南# “为初恋之神提笔 以爱的名义” ??????? ??? ??? ??? ?? ????? ???? ?? ??? ???? ?? ????【范丞丞小巷 ...全文; Y_reply:范丞丞
+positive	X_history:#虞书欣[超话]# 无人问津的港口总是开满鲜花?@虞书欣Esther  #愚人节站姐团建#;有没有人跟我讲讲我女到底是什么发色啊想染想染！;; X_post:有时候想死有时候不知道怎么死; Y_reply:真想一不小心踩空一节阶梯从楼梯上滚下来，然后重重的摔下来就升天了，把握生活中的每一个小确幸? [羞嗒嗒]
+negative	X_history:抑郁症祝我月考顺利，不要再在考场上集中不了注意力啦……;抑郁症现在心情异常平静，甚至还挺好的，一点都不烦。居然还开始变困了。。。震撼。好久没体验过了。有没有人能莫名其妙找我聊莫名其妙的东西，因为我现在莫名其妙的无聊;; X_post:抑郁症下雨心情会变成平静的差，大太阳又会烦躁，; Y_reply:[抱一抱]
+negative	X_history:; X_post:我在#微博会员福利#中领取了【免费定制帆布包】。微博会员送福利，权益多多，你也来看看吧！>> 网页链接; Y_reply:你好，你感兴趣的“微博会员福利”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 微博会员福利[超话]
+positive	X_history:抑郁症人际关系简直被我搞的一团乱麻，上午第一节课实在受不了，请假回家打算跳江，但是回家里之后，又懒了，江离的有点远，，于是开割，顺便吞了五片奥沙西泮，但只睡了两小时;; X_post:sky光遇就是，如果我忘了密码，并且也不记得身份证，手机号也不用了，那我是不是找不回账号啦？; Y_reply:不记得身份证号？
+negative	X_history:抑郁症花花草草，补交作业;抑郁症我成为抑郁症 超FUN啦 发帖纪念一下~;抑郁症#情绪##坚持每天拍张照片# 周一早安;抑郁症早安打卡 奔跑的刺猬YO的微博视频;; X_post:抑郁症给大家推荐个视频号：养老院里的春天，超治愈的爷爷奶奶们; Y_reply:对，我喜欢他们养老院，这个奶奶是退休教授诶，好可爱的
+negative	X_history:不知道今天图书馆闭馆不开心的自己偶遇到了一个热情滴小猫她真的好可爱！不开心全部被她治愈了 中山纪念图书馆;; X_post:抑郁症我觉得我的心态比别人好很多 今天体考很多人没有人没拿满分他们在哭 而我在夸我自己还坚持下来了（当然我考得很差） 回到家家里吵架我告诉我自己 他们吵架与我无关; Y_reply:你好棒
+negative	X_history:oi！我要回游了看一下了…;突然累累的完全不想社交，想窝在家里或者哪个角落里画一天画……;想看老夫老妻的日常了…要是给产品头上上点绿色什么的……吃醋什么的也很棒（？）或者玩角色扮演，土味情话，男友衬衫什么的……;; X_post:感觉两个都适合嘘罗纳德拉……鳏夫罗纳（合十）; Y_reply:哈哈 确实都很合适
+positive	X_history:一个平胸人的煎熬和内耗( `д?);抽烟喝酒的男人 真下头;私激安全套 真的很好用吗  和别的品牌具体有什么不一样啊 (*??`)我朋友圈的姐妹们 都还没用过@SIKI私激官方微博 私激;; X_post:我们家的茶叶蛋 真的有茶叶( ??。)7; Y_reply:有茶叶好！没有茶叶怎么能算茶叶蛋呢！( `д?）
+negative	X_history:抑郁症 突感感觉医生们都好温柔，推着车确认大家有没有吃药的时候就说：9床吃过了，16床饭后吃，冰倩乖乖吃过咯，感觉超级温柔而且平时他们也都冰倩冰倩的叫，而不是17床;抑郁症 什么时候才能出院？！啊啊啊啊啊;抑郁症 感觉生活没有意义了好累，不想活了;; X_post:抑郁症 好累，只想躺着; Y_reply:[抱抱]
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;蔡徐坤游泳池诚信网页链接;抑郁症休学在家不知道干嘛了 书也看不进;抑郁症一整天都很迷茫怎么办;蔡徐坤游泳池诚信网页链接;蔡徐坤游泳池互捞网页链接;蔡徐坤游泳池诚信网页链接;互评诚信网页链接;; X_post:抑郁症绝了想死; Y_reply:[抱抱]
+negative	X_history:瞌睡的要死 但是闭上眼睛就是睡不着;如果我是装的就好了 可惜我不是;在我的眼里感觉大于性别 只要我喜欢你带给我的感觉 就算你是第三性别我也不会在意 因为我喜欢的是你这个人 无关性别;?;神经兮兮的;小学生;; X_post:我真的好懒 每次规划一堆事情然后都是躺在家里看手机; Y_reply:懒懒的幸福生活 [喵喵]
+positive	X_history:抑郁症为什么所有倒霉的事情都要发生在我身上 为什么生活要一次一次的给我绝望 我真的已经很累了 为什么还要一遍一遍的折磨我 为什么;抑郁症我每一天都活在痛苦恐慌焦虑当中 我真的很难受 我不知道怎么办;; X_post:抑郁症很遗憾 我的爸爸妈妈有我这样一个废物孩子; Y_reply:不是你的错，不要归咎于自身 [抱抱]
+negative	X_history:我后知后觉才了解什么是躯体化以及有时候我的所作所为应该是被理解的 没有错的;想养蛇或者鹦鹉的心情达到了巅峰;; X_post:我认为我当下应该做的就是不要因为一个外观去补另外一个外观 多思考多比较 买了一定会常穿吗 或者真的会很喜欢吗 多考虑完再做决定 给自己省钱; Y_reply:说得非常对！理性消费才是正确的消费观
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;; X_post:早期的小棍子 窝一口一个?; Y_reply:学长 [悲伤]
+positive	X_history:何一二的天地 在吃纯黑巧抑制食欲，增强饱腹感了，真的不能再暴食下去了…各位，除了每日黑巧和诺梵，还有什么别的牌子嘛;何一二的天地 我的冷白皮，手上的疤和粑粑（我打算换一种风格咯，有点子期待的嘿嘿嘿）;; X_post:何一二的天地 当愤怒战胜了恐惧，md老子现在强得可怕。死活过不去; Y_reply:哇哇哇是小小梦魇吗
+positive	X_history:抑郁症早上主治医生问完状态后晚上就加药了，希望能在生日之前出院，祝一切安好。近期唯一的好事就是因为难受吃不下饭之前死活健身减肥不下来这次瘦了很多x;想喝一点点;; X_post:抑郁症连续逃了两天物理治疗了，完全懒得动弹爬起来去登记去排队，也不想去人多的地方，只想在病床上蜗居成化石。。。。; Y_reply:[抱一抱]
+negative	X_history:我要请假。。。咳的我后脑勺疼;其实我在熟人面前特别神金，只是在学校我好像是似人一个;黑杰克玩第一把就赢了;怕你知道我喜欢你，更害怕你假装不知道我喜欢你;; X_post:我跟我朋友出去逛街最喜欢干的事就是去服装店比如zara优衣库ur这种店里猜衣服价格感觉特别好玩; Y_reply:我猜你可能是个隐藏的赌神 [doge]
+negative	X_history:#小突兔# 好喜欢这件夏威夷衫！;抑郁症今早我养了两年的蜗牛摔地上了，出了好多血，不知道它能不能熬过去。好难过，感觉自己好失败，明明早点买一个新的盒子就可以避免悲剧的，结果还是没买，一直到今天它逃出来摔下去。真的好累，感觉好难过，又无能为力。;; X_post:鬼灭之刃今天刚收到的戒指！好好看！; Y_reply:[悲伤]
+negative	X_history:#虞书欣[超话]##超话星愿池# 啊啊啊啊啊啊啊啊啊宝宝你越来越好看啦！;#虞书欣[超话]##超话星愿池# “等迟暮冬天，等黄昏日落，等有你的冬天” "???? ??? ??? ??? ??????, ???? ??? ? ??????.";; X_post:#虞书欣[超话]#宝宝，你皮肤状态好好; Y_reply:虞书欣
+positive	X_history:棉花美娃娃有谁知道他叫什么吗？;白玉蜗牛大农还活着，就是状态不好，一直在壳里缩着，下午回来看到又出了些血#明珠蜗牛#;#马陆# 终于找到非洲巨马陆了！（卖家的图）;; X_post:白玉蜗牛大农没再出血，排出了一些大概是受损的组织，我给夹下来放一边了。大农加油！#明珠蜗牛#; Y_reply:悉心照料，无微不至 [good]
+negative	X_history:我又想睡觉了;假的 醒了有点睡不着;我知道我会焦虑到睡不着觉;想大喊大叫 又心情低落 焦虑睡不着觉 手舞足蹈;抑郁症 晚安?;醒了 没睡六个小时 不打算睡了 因为要去玩;明天是复查 妈妈第二次不一起去 我想妈妈一起去;有种说不出的感觉 但就是不舒服;; X_post:抑郁症 什么时候我也只会叹气了; Y_reply:[抱抱]
+negative	X_history:抑郁症就取点钱整天跑这跑那的，好烦;抑郁症…………无语死了收了四本小说有一本盗版;抑郁症大半夜的好恐慌，爸爸因为遗传爷爷的病治不好去世了，我会不会也会被遗传;还好另一个画师是接稿时间较长的，问了大概再过两天就出草稿了，不然我真的要哭了;; X_post:收拾书架发现有好几套书找不着了，还好是充的复数; Y_reply:天呐噜
+positive	X_history:九尾XXZ网页链接大家快去给这个微博下面的这条评论点赞助力拿到投票！;九尾XXZ晚上好，想你了哥，播一个吧@LGDNBW-九尾;九尾XXZ晚安啦尾子和八尾们，新的一天要开心哦！@LGDNBW-九尾;; X_post:杭州LGDNBW我们现在年度总决赛的积分有多少啊？; Y_reply:回复@银河也睡着啦:进季后赛就有20分了
+positive	X_history:; X_post:#刘大锤聊秦霄贤孟子义近况#这算是欺负我们老秦么有团队，没有运营吗？就算薅羊毛也不能拉着他一个劲的往死里薅吧，开机之前拽着他上一波rs,现在杀青新剧宣传需要热度又整这死出，就不能专注自家？新剧宣传就好好安利剧，别来沾边，一边骂着我们是小糊咖，没热度一边吸血，秦霄贤没惹任何人，实惨; Y_reply:呸 [允悲]
+negative	X_history:; X_post:抑郁症以前奶奶还在时我一直不知“道她叫什么名字，只知道家里大人都用方言叫她“阿jiú”。直到奶奶过世去殡仪馆看到花圈上的字才知道奶奶叫“蔡福柔”。现在想起来感觉很难过，为什么奶奶不在了才知道记得她的名字，明明因为生病连自己的名字都想不起来，却一直记得我和堂表哥姐还有他们的孩 ...全文; Y_reply:[泪]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;; X_post:烦死了 dy和??影分家了是吧; Y_reply:我也是这样的上次剪开箱想用胖小子全不让我用 [跪了]
+positive	X_history:抑郁症现实/人格解离是抑郁引起的吗？你们有没有解离的症状？;抑郁症一个人在洱海边坐着望着湖面波光粼粼，野鸭游泳面前是苍山背后是车来车往风很大吹不散我的阴郁 大理·洱海;; X_post:抑郁症明天返程了，风景真的很漂亮。希望此刻看见这条微博的你也开心哦; Y_reply:这是哪里啊，好漂亮的海，真羡慕你们到处旅游 [打call]
+positive	X_history:发现我对过去的事已经全部放下全部无感了，即使是伤害过我的人，伤我很深的人，我还可以视而不见，可能这就是一直以来我的成长吧;有一瞬间很想zs，但是我其实还想活下去啊;; X_post:我也好累，但我不知道该怎么说，我好害怕拒绝别人，好担心被觉得不够关心别人，好害怕帮不上忙; Y_reply:你已经做得很好了，不要害怕拒绝和寻求帮助
+negative	X_history:#为什么卫龙辣条失宠了#作为95后卫龙我已经厌了麻辣王子，也吃了十多箱，也吃的厌倦了期待下一个品牌辣条C位出道;; X_post:#25岁母胎单身正常吗#不要在意外界的看法，没有男性找你，不代表自己不行，努力做自己，成为优秀的自己，好好赚钱，你以后男朋友在高考。; Y_reply:说得对！我们不需要别人的认可和评价来定义自己的价值
+negative	X_history:; X_post:#粉丝认证号#我刚刚领取了#姜云升##粉丝认证号#No.4002651，马上领取粉丝认证号，官方盖章你值得拥有！粉丝认证号：姜云升; Y_reply:你好，你感兴趣的“粉丝认证号”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 粉丝认证号[超话]
+positive	X_history:; X_post:抑郁症 失眠 像梦被囚禁在身体里 那些未流下的眼泪最终去了哪里 可能蔓延至全身的血管里吧 因为我感受到了血的苦涩 面孔的模糊可是那起伏的跳动的声响又在说什么呢 她不过是一缕风 爱本就是风 再浓烈 也无法扎根于大地 她说她快承受不住了 但她又必须继续撑下去泪水啊 请再次青睐我的眼 ...全文; Y_reply:[抱抱]
+positive	X_history:; X_post:抑郁症其实怎么说呢，我都不知道自己是否有病了，我感觉好迷茫，第1次去医院检查，去的是一家私立医院，检查出中度，医生就建议我用一下可以让我睡好觉的药，然后我父母就是说再看一下，第2次去了一家公立的，没有明确的，说明是否生病了，只是说再观察观察，去做心理咨询，然后这周星期三的时 ...全文; Y_reply:重庆那个医院呀
+positive	X_history:抑郁症 站在正常人的角度来讲，不想上学是不是真的很荒谬;; X_post:抑郁症想知道你们有没有很喜欢把自己沉浸到一个幻想的世界里去，我特别喜欢在自己那个幻想的世界里面当主角，想象一个很美好的世界，有救赎，有爱自己的人，有钱，没有烦恼，就特别喜欢自己幻想世界; Y_reply:我！幻想过，但是我的幻想是已经发生的事，已经过去的时间幻想。
+negative	X_history:长大后的家，要靠自己经营。;去年，和前年， 我都是一直在说服自己，有一份工作不容易，就算有闲言碎语也要坚持下去，不管多苦，在晚上哭了多少次，第二天依旧擦干眼泪继续前行，工作繁琐没错人际关系更烦恼，但都这样坚持了两年多，记录一下;; X_post:早安早八人 一早就开始要地铁了 坚持加油; Y_reply:早安打工人，打工魂，打工都是人上人
+negative	X_history:; X_post:抑郁症家里最近事不少 姥姥胸椎骨折去手术了 手术之后又不见好 爸爸确诊了睡眠呼吸障碍 可能以后睡觉都得戴呼吸机 他肾也不行 还有糖尿病 妈妈心口疼是常态化问题 妹妹情绪也总糟糕 又来一个阴我们家的 我只能强撑着精神头不成为妈妈的负担 每一个难过的阶段都是自己咬牙熬过来的…每一样都要 ...全文; Y_reply:[抱抱]
+negative	X_history:; X_post:下个月要25了，昨天又因为gap2年的原因被hr拒绝了，但我还是希望我自己能坚持下去重新融入社会。也许25岁的我会拥有一份时常需要加班且双休无法保障的工作并为之努力，但我希望我依然能够对生活抱有热情，也希望我有能够在坚持不下去的时候说走就走的勇气。生命只有一次，人生不过体验，我不想活的 ...全文; Y_reply:加油
+positive	X_history:双相情感障碍 昨天过生日了 一些限定12h的开心 希望超话的大家也能间接性开心一些。;抑郁症 玩了个很短小但值得深思的 感觉更像益智类致郁小游戏;; X_post:抑郁症 利培酮吃得我疲惫+昏昏欲睡 右佐匹克隆吃得口苦 富马喹硫平片吃得我口干 吃药真的是一件很煎熬的事情。。; Y_reply:回复@月是初语聆星:所以我利培酮一般都放晚上吃
+negative	X_history:成毅#成毅# 啊啊啊啊啊啊啊啊帅死了！又帅又可爱;成毅成毅，你怎么长成这样？符合我全部想象。@成毅;成毅吃个同类;成毅老公…@成毅;成毅天姬，别蹭热度了;成毅哎呀，这小手@成毅 傅诗涵17的微博视频;成毅;; X_post:成毅某些二次元的人是神经吧？没必要写黄文吧？; Y_reply:成毅的表演带给人们的感动就像一阵清风，舒适宜人。@成毅
+positive	X_history:以闪亮之名一录视频就糊，但拍照完全没问题@喵憩小姐的双马尾  故山萘的微博视频;以闪亮之名我这一次抽阁，非的离谱……我不求这一次欧了，让我下一次欧点吧;以闪亮之名有需要搭配的嘛，闲着没事干;; X_post:以闪亮之名发个我几天搭配的总结（不够九张，又自己随便搭个放上去了）; Y_reply:感觉盲盒这个染成蓝色被窝有一瞬间看成海王了 [泪]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;; X_post:吐了，志鑫发微博; Y_reply:@登陆计划-TransFormProject 老师 [微笑]
+positive	X_history:抑郁症现实/人格解离是抑郁引起的吗？你们有没有解离的症状？;抑郁症一个人在洱海边坐着望着湖面波光粼粼，野鸭游泳面前是苍山背后是车来车往风很大吹不散我的阴郁 大理·洱海;抑郁症明天返程了，风景真的很漂亮。希望此刻看见这条微博的你也开心哦;; X_post:旅行上周拍的，昆明蓝花楹，真的很好看 昆明; Y_reply:真的好好看很喜欢这种氛围 [泪]
+positive	X_history:; X_post:抑郁症来了武汉快一个月，前期四次瞎溜达看风景，后期忙着租房子四处奔波，本来打算先租个房子躺一两个月在去找工作，可是找了一个多星期都没租到满意的房子，正巧家人给介绍了份便利店的工作，离当时住的地方两个小时车程，来来回回跑了五趟才确定要在便利店上班，买好被褥枕头才干了三天，被 ...全文; Y_reply:希望你在武汉的日子越来越好
+negative	X_history:; X_post:抑郁症每每到下雨天 我就觉得我该去记录故事了 很多时候 我都想一走了之 但又觉得来这里一趟却什么都不能留下实在是太可惜了 是啊 即使生命已经痛苦到了这种程度 我依然会不甘心 所以我开始喜欢文字 用文字去记录我自己的故事 我觉得我会用人生去完成一部史诗级的小说 我生命中的每个故事 都值 ...全文; Y_reply:抱抱 [抱抱]
+positive	X_history:林书媛seowon出道快乐～MV宝宝的表现真的很棒！;林书媛seowon嘿嘿，昨天我也是第一;; X_post:抑郁症老师们请问心理治疗真的有用吗医生给开了，但是我不想去，因为都在说这个治疗就是在伤口上撒盐，没有必要看。; Y_reply:这个最主要看你愿不愿意了我三年多了没做过一次心理咨询因为我很抗拒但宝宝如果你觉得可以接受不妨去试试 [抱抱]
+negative	X_history:抑郁症 请大家看花花??鲜花和春天都是免费的，快乐也是;抑郁症 今天天气不好，心情也不好。中饭也没吃，被工作气饱了。;抑郁症 挺烦的。。。;抑郁症 我只是不想上班，有错吗;抑郁症 不想上班，我有罪吗;抑郁症 每一个照镜子的瞬间都想死;; X_post:抑郁症 水逆已经达到了next level; Y_reply:没关系 路在前方 您的水逆次数已用完
+positive	X_history:#阿蛇的点滴??#二十四五，风华正茂的年纪怎么可能就无路可走了别怕，不怕，没什么可怕;胸闷;#阿蛇的点滴??#我家停电了黑的猝不及防 关键我睡不着，手机才冲到百分之五十那我干瞪眼？;; X_post:心悸 但是测心率正常md 胸闷; Y_reply:只要是正常范围还有医院仪器检查没异常的话，那就是躯体症状，尽量调整，自我放松会好一些 [给你小心心]
+negative	X_history:抑郁症真的很不理解，前一秒我的老师叫我去办公室说跟我说对不起，等我走之后呢，又在背后说我什么什么，这只是小事，说我只是小家子气了，我请假的时候呢，他又当着全班同学的面说，一边在叹气说我还是压力太大了，在那阴阳我……，问我这些那些的 ，真的很想逃离;; X_post:抑郁症下周一半期考了，感觉好像也不是很紧张，想摆烂了……; Y_reply:我单招快考了
+negative	X_history:; X_post:师生粉啊啊啊啊啊啊实验中考！生物是她教！！！！！真的当时班任和我说的时候我要疯掉了啊啊啊 “哟哟哟哟哟哟生物课代表限时返场了呦”我真的在他们起哄声里要笑死，主要是她以前和我说过她不太可能教我们来着?突然说老师是她我真的啊啊我要哭了，她不教我们的432天 那句不知道说了多少遍 ...全文; Y_reply:也是让我刷到你了小阿聪 [馋嘴]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;; X_post:(>^ω^<) 朱砂芝酱的微博视频; Y_reply:哇哦
+positive	X_history:; X_post:抑郁症小猫也会讨厌这个把它关在笼子里的世界吗; Y_reply:我刚买没多久的小博美才两个月多，我姑父为了让我调理心情买的，但是刚开始很喜欢，后来就可烦，她的狗粮还得泡开，，它还老叫，我不想管他就把他关到笼子里，但是关笼里他的叫声就很可怜，听着超级难受，但本身我就不舒服他还老叫就真的很烦，我还有躁狂症，控制不住自己的脾气，我养不好他 [泪]
+negative	X_history:抑郁症能不能给我滚啊，明明是你打电话叫我过两天去上班的，现在告诉我已经有人在试岗了，明天再给我答复，合着我就是你们公司的备胎呗，那试岗的那个人要是通过了，是不是就把我给一脚踢了;; X_post:青山刚昌现在开始破罐子破摔了是吧，圆不了结局，就开始胡编乱造，按他这么说他的其他几部作品，也很工藤家有关咯; Y_reply:青山刚昌：“我只是在尝试新的创作方式”
+negative	X_history:抑郁症讨厌下雨天，下雨天让我变的焦虑不安?;我的脸总是红红的 讨厌;; X_post:抑郁症我不出去你说我我出去玩你也要说我 我做什么事你都看不顺眼吗？你让我做的事我都做了你答应我的事你什么时候做呢？总是我一味的在付出吗？今晚骑车多绕了几条路就是不想回家 我宁愿冻死在这个黑夜里我也不想回家 看到河就想跳; Y_reply:贝贝不要这样想好好和妈妈沟通 [泪]
+negative	X_history:抑郁症一到五点左右太阳准备下山就开始定点崩溃。。。。呵呵我们记事本有自己的报时器;; X_post:#砂金#宝宝1加1不要歪太多好不好ww角色池和光锥池大保底都留给你了www我的卡卡瓦夏; Y_reply:你好，你感兴趣的“砂金”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 砂金[超话]
+positive	X_history:失眠总幻想自己被害是不是被害妄想？;失眠好烦，睡不着感觉被针对了所有人都针对我！;抑郁症今天确诊了，妄想状态真好！;; X_post:失眠失眠; Y_reply:今天晚上可以尝试一下：从上床到早上起床，不使用手机等电子设备，不看时间，不开灯。清醒躺在床上休息就是睡眠，已经进入睡眠状态，不再四处寻找睡眠，不再追求快速睡着，闹钟响了就起床。看看第二天精神状态怎么样？
+negative	X_history:;#朱志鑫[超话]##朱志鑫断层c位出道##朱志鑫 断层c位全能队长##朱志鑫 三代唯一断层top##朱志鑫 王牌ace# “我心慕于你，如鹿归于林野，如暖阳般爱你。”  "?? ??????? ? ??? ?? ???, ????? ??? ????”  ...全文;; X_post:讨厌我的人，你有服了; Y_reply:讨厌你的人可能正在吃柠檬呢 [吃瓜]
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;; X_post:宋居寒 寒寒中午好; Y_reply:晚上好，宝宝 "[爱慕]"
+negative	X_history:真是受够了 忙到连静下来好好大哭一场的时间都没有;打雷了。要下雨了。好棒。晚安;妈妈说她找到工作其实不是很开心 她怕我一个人在家情绪不好时找不到依靠 我恨我的病给妈妈带来困扰 为什么不止害我还要害我的妈妈妈妈说她只有我了 我说我其实也只有她。;; X_post:真累啊 只有听歌的时候能短暂活着???; Y_reply:音乐是心灵的解药，累了就好好放松一下 [心]
+positive	X_history:抑郁症 好累，累的要死，不想活了，得了这个病生不如死，也看不到痊愈的希望了，真的不如去死，当时不该来住院，好累啊;抑郁症 安眠药啊没用啊一夜没睡啊;; X_post:抑郁症 怎么办？刚刚一个小女孩出院17天住了2万块，我不想给家里添负担了，我要出院医生也不同意，但我真的住不起了，我这几天情绪也挺稳定的，他就是不给我出院; Y_reply:我两个礼拜一万一 [跪了]
+positive	X_history:; X_post:宝宝们刷到能给点建议或者鼓励吗明天就要去考高二半期啦，人生第一次很多没学就去考。从初中开始就对考试很焦虑，还因为这个休过半年学。以前要么不考要么在家学好了再去，高中就没考差过，但总是解决不了问题，躯体化越来越严重，越来越怕考差。这次实在是有些忍受不了了，朋友给我的建议是干脆 ...全文; Y_reply:加油加油，考差就考差，没关系的宝宝 [抱抱]
+positive	X_history:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文;; X_post:双相情感障碍睡不着，好清醒。来聊天啊; Y_reply:来
+positive	X_history:们喂猫别别人说什么就做什么信什么听什么行吗？没有自己脑子啊？;; X_post:比邓薇更0的，对不起，百度搜不到。比邓薇老公更多的，对不起，网络无法连接。你让邓薇在800米终点等我，我让你知道什么叫速度；给我一张关于薇嬷的试卷，我让你知道什么叫学霸；给我一堂关于邓薇的课，我让你知道什么叫认真；你在我面前说邓薇的坏话，我让你知道什么叫生无可恋; Y_reply:我求你了
+negative	X_history:不丢 消失 pH值小于7777的微博视频;?????????????????????????????????????????????????? ???;不丢 ……;诗情画奕 好漂亮;#眼泪女王#太好哭了;#欧冠#精彩;; X_post:陪宝宝过的第三次生日@SNH48-周诗雨 生日快乐宝宝 身体健康; Y_reply:祝福满满，宝宝健康成长！愿每一天都充满欢乐和喜悦。
+negative	X_history:我要请假。。。咳的我后脑勺疼;其实我在熟人面前特别神金，只是在学校我好像是似人一个;黑杰克玩第一把就赢了;怕你知道我喜欢你，更害怕你假装不知道我喜欢你;我跟我朋友出去逛街最喜欢干的事就是去服装店比如zara优衣库ur这种店里猜衣服价格感觉特别好玩;咳的我肚子疼。;; X_post:姐姐能不能来救救我。。。我好痛苦; Y_reply:亲爱的，你并不孤单，我会一直在你身边
+positive	X_history:抑郁症我好难过，为什么总是得不到我想要的;抑郁症我可以去死吗，可以吗，这样的生活不是我想要的;抑郁症我觉得我的人生没有任何意义;抑郁症我希望人死后能变成一个星球，做自己的神;抑郁症我只觉得这一切都是无止境的，没有盼头，无聊且单调的生活;; X_post:抑郁症我以为我的强迫症好了抑郁症就会好，结果还是一样，其实没得强迫症我也一样会得抑郁症的吧; Y_reply:[抱抱]
+positive	X_history:; X_post:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文; Y_reply:回复@碳水兔子_:就你觉得她是你的知己就好了
+negative	X_history:抑郁症 快夸我我把家里放了一年的水电池? 卖掉了… 主要怕着火 家里又有猫   今年的电池事故太多了 虽然买的时候 400 多 卖了只有80元但真的拖了一年 …   太不容易了我;抑郁症 我耳钉今天还差点掉一个  啊啊啊啊 咋这么多事搞我心态;; X_post:抑郁症 我完成了 我的一个梦想 ～ @杨舒予YSY 好好生活; Y_reply:姐妹，下次再一起去主场 [鲜花]
+negative	X_history:瞌睡的要死 但是闭上眼睛就是睡不着;如果我是装的就好了 可惜我不是;在我的眼里感觉大于性别 只要我喜欢你带给我的感觉 就算你是第三性别我也不会在意 因为我喜欢的是你这个人 无关性别;?;神经兮兮的;小学生;我真的好懒 每次规划一堆事情然后都是躺在家里看手机;; X_post:网络上都说喜欢bbw 现实中遇到个胖一点的就说死肥猪???; Y_reply:无图无真相  展示吧
+negative	X_history:抑郁症 好难过啊 忍不住哭 蜷缩在角落泪真的好烫 躯体症状真的好难受 感觉自己对不起父母 我是累赘…;抑郁症 南京这几天经常下雨 很喜欢放空聆听雨滴的声音 轻松自在;抑郁症 今天天气很晴朗 心情也很晴朗??;KITE政井海人 加油加油！！;抑郁症 中午好;; X_post:KITE政井海人 就喜欢更一些男神的视频 窗外的一场雪的微博视频; Y_reply:喜欢 [抱一抱]
+positive	X_history:; X_post:抑郁症我真的觉得我的同学好恶心，不就是在班上关系和我比较好吗，你真的觉得你什么都可以干了是吗。老是无缘无故打我有时候还骂我，神经病吗，你有多动症吗，你真的就是活该。我怎么了呢，我就该你的吗？我们四个人都在说话老师让投一个人出来诶打我连说什么都没听清你们三个就全都指我了，我 ...全文; Y_reply:宝宝你要不要和她们好好沟通一下 把你的委屈都说出来呢
+positive	X_history:-“春天距我只一米之遥”??@Noir_ou_blanc ?@-眠枝-;南京·惘闻·小巫师送了明信片好激动? 南京·1701 LIVE HOUSE MAX;双相日快乐?今年写壁纸;; X_post:支个摊古风/日常/婚书/设计感/壁纸/背景/头像/明信片/金属徽章/水印/题字/无料/…欢迎来问啊啊啊?? 其他例图写写写写写写写约字; Y_reply:你是不是被限流了啊宝宝
+positive	X_history:以闪亮之名一录视频就糊，但拍照完全没问题@喵憩小姐的双马尾  故山萘的微博视频;以闪亮之名我这一次抽阁，非的离谱……我不求这一次欧了，让我下一次欧点吧;以闪亮之名有需要搭配的嘛，闲着没事干;以闪亮之名发个我几天搭配的总结（不够九张，又自己随便搭个放上去了）;; X_post:以闪亮之名宠物系统价格多少？谁有图嘛，前几天看到了，但没太注意; Y_reply:图片评论 网页链接
+positive	X_history:; X_post:昨天跟咨询师讨论，为什么我会觉得这两年是我觉得自己状态最好的。一方面比较了国外和国内。  另一方面，我说我的自我察觉能力越来越好，发现不对我会去寻求帮助，医生也好或者病友包括咨询师。但咨询师说，其实你原来自我觉察能力也很强，只不过没有那样做。但今天意识到，其实我会自我调节了吧。 ...全文; Y_reply:低气压的时候进行一些自我暗示很重要哦 [好喜欢]
+positive	X_history:抑郁症啊头疼;抑郁症我是一个从小被否定到大的人你要我如何自信.;抑郁症世界以痛吻我我痛死.世界以痛吻我我痛死.;抑郁症这个世界上真的没有感同身受,只有冷暖自知。;抑郁症我也会有心酸和委屈,可是我说给谁听,可谁又会听我说呢;抑郁症我好像真的感觉不到我在活着。;; X_post:抑郁症又一次被情绪吞噬被黑暗包裹着没有人能救得了我我有点累了撑不下去了。; Y_reply:[抱抱]
+positive	X_history:九尾XXZ网页链接大家快去给这个微博下面的这条评论点赞助力拿到投票！;九尾XXZ晚上好，想你了哥，播一个吧@LGDNBW-九尾;九尾XXZ晚安啦尾子和八尾们，新的一天要开心哦！@LGDNBW-九尾;杭州LGDNBW我们现在年度总决赛的积分有多少啊？;; X_post:九尾XXZ救命啊，我不会买到客队去了吧; Y_reply:回复@银河也睡着啦:我也是，不知道要提前多久到 [允悲]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;; X_post:1119; Y_reply:午好 "[送花花]"
+positive	X_history:哦不。;想休学，但是休学以后可能又要重新适应很多东西，撑着把这三年多上完算了;感觉老公这个口癖久了之后总有一天我会在和我姐聊天的时候不小心顺手打成老公。。。;每天支撑我吃早饭的只有我早上要吃药爬起来吃早饭让我觉得特别痛苦;; X_post:又想到sc的时候了，我对sc的印象就是好不真实，因为坐的太远了人也看不清，时间也短，好想好想看他们的演唱会; Y_reply:sc看了和没看一样
+positive	X_history:抑郁症其实怎么说呢，我都不知道自己是否有病了，我感觉好迷茫，第1次去医院检查，去的是一家私立医院，检查出中度，医生就建议我用一下可以让我睡好觉的药，然后我父母就是说再看一下，第2次去了一家公立的，没有明确的，说明是否生病了，只是说再观察观察，去做心理咨询，然后这周星期三的时 ...全文;; X_post:抑郁症今天重庆雨过天晴啦 阳光照在我尸体上感觉暖暖的; Y_reply:哇好美
+positive	X_history:抑郁症感觉可能是喹硫平和氯硝西泮把我吃的呆呆傻傻的那种这两天记忆脑子都好混乱，突然会愣住一片空白就是整个人僵住一瞬间眼前越来越模糊分不清好多，现在打字也有点看不清TT;; X_post:抑郁症昨晚十一点半吃的一整片氯硝西泮加75mg喹硫平，怎么睡到三点半左右就醒了，到现在也没有睡意睡不回去可是身体好累好累。。? ?; Y_reply:可能就是因为安非他酮，我昨天11睡的3点就起来了
+negative	X_history:抑郁症能不能给我滚啊，明明是你打电话叫我过两天去上班的，现在告诉我已经有人在试岗了，明天再给我答复，合着我就是你们公司的备胎呗，那试岗的那个人要是通过了，是不是就把我给一脚踢了;青山刚昌现在开始破罐子破摔了是吧，圆不了结局，就开始胡编乱造，按他这么说他的其他几部作品，也很工藤家有关咯;; X_post:抑郁症明明告诉自己要出去工作了，可是依旧没有跨出第一步; Y_reply:[抱抱]
+negative	X_history:抑郁症 请大家看花花??鲜花和春天都是免费的，快乐也是;抑郁症 今天天气不好，心情也不好。中饭也没吃，被工作气饱了。;抑郁症 挺烦的。。。;抑郁症 我只是不想上班，有错吗;抑郁症 不想上班，我有罪吗;抑郁症 每一个照镜子的瞬间都想死;抑郁症 水逆已经达到了next level;; X_post:抑郁症 一夜没睡！都给我去听！; Y_reply:随缘心理开导，执证上岗，希望可以和你结缘
+positive	X_history:火星27号接头点【换票】我1号和4号680 换任意一天1280;日出场是因爱而诞生的啊……;华晨宇#华晨宇我们终于要一起看日出了# 复杂 世界总创造， 不高兴和 没头脑， 我却只想 造一只猫， 靠漫步 将生趣填饱， 心也有一片富饶，快乐就会 笑， 不再计较 两脚兽烦恼 ——《普通到不普通的人生》@华晨宇yu;; X_post:???为什么不能明天就是五一; Y_reply:因为明天还不是
+negative	X_history:刘逸云 #amber2024巡演# #独立音乐人amber刘逸云# 漂亮的让我面红的可爱女人?温柔的让我心疼的可爱女人?聪明的让我感动的可爱女人?坏坏的让我疯狂的可爱女人?@刘逸云Amber 跟宝宝在同一个国度就很开心嘿嘿;; X_post:刘逸云 #amber新浪扫楼# #amber2024巡演# 挪不开眼睛的美貌?@刘逸云Amber 宝宝你真好看; Y_reply:真的好漂亮 [可怜]
+negative	X_history:;#朱志鑫[超话]##朱志鑫断层c位出道##朱志鑫 断层c位全能队长##朱志鑫 三代唯一断层top##朱志鑫 王牌ace# “我心慕于你，如鹿归于林野，如暖阳般爱你。”  "?? ??????? ? ??? ?? ???, ????? ??? ????”  ...全文;讨厌我的人，你有服了;真的晚安@TF家族-朱志鑫 朱砂芝酱的微博视频;; X_post:我想吃鸡蛋羹; Y_reply:?
+negative	X_history:长大后的家，要靠自己经营。;去年，和前年， 我都是一直在说服自己，有一份工作不容易，就算有闲言碎语也要坚持下去，不管多苦，在晚上哭了多少次，第二天依旧擦干眼泪继续前行，工作繁琐没错人际关系更烦恼，但都这样坚持了两年多，记录一下;早安早八人 一早就开始要地铁了 坚持加油;要想人前显贵,就得背后遭罪;; X_post:变好的从来不是生活，而是你自己。; Y_reply:你变好就是给世界最大的温柔
+negative	X_history:领导不值得我为他的某句话or某个观点嚎啕大哭影响情绪，我的时间要用在快乐和赚钱上面，人生宝贵，搞到钱了带家人出去游山玩水才是我想要做的事情，上班的时间是我领导，下班了啥也不是。;; X_post:手里还有点钱，要是哪天坚持不下去了就转给老妈养老，还没有想好怎么离开，先找个有勾子的天花板，还有一条质量好点的尼龙绳。或者直接去瑞士; Y_reply:亲爱的，请不要这样想，生命只有一次，一定要珍惜
+positive	X_history:火星27号接头点【换票】我1号和4号680 换任意一天1280;日出场是因爱而诞生的啊……;; X_post:华晨宇#华晨宇我们终于要一起看日出了# 复杂 世界总创造， 不高兴和 没头脑， 我却只想 造一只猫， 靠漫步 将生趣填饱， 心也有一片富饶，快乐就会 笑， 不再计较 两脚兽烦恼 ——《普通到不普通的人生》@华晨宇yu; Y_reply:花花，你的歌单里有没有什么能让我心情变好的推荐一下呗~
+positive	X_history:记录一下心情没好 又是等死的一天抑郁症;; X_post:6点14有什么时候是个头我好痛苦我为什么忍不住花钱爸爸挣钱都被我乱花了我开始手抖了 我在死之前可以见到泽吗 我好心疼他挣的钱越多越累 喜欢他了3年不知道他前面四年改是怎么过的 因为宇姐我最恨抑郁症了 可是为什么我越恨的东西越要缠着我 我该什么时候能正常 我想好好吃饭不一直哭睡个好觉这些事普 ...全文; Y_reply:吞药死不了 [抱抱]
+negative	X_history:清明节了第一次和我有关姥姥在那边吃的好不多吃点好吃的病那么多年都没吃啥 今天听见妈妈的消息了有啥事不怪我她去杭州了她的班不是很重要吗连我生病那么严重都不能请假 只是我不重要而已 我每天几乎都有出去可是我的情绪还是一样 不知道什么时候能想小时候那么开心快乐 今天和姥爷打电话了他其实还是 ...全文;; X_post:他总是说我怎么有脸哭为什么哭可是我也想知道为什么会哭抑郁症; Y_reply:[抱抱]
+positive	X_history:抑郁症我好难过，为什么总是得不到我想要的;抑郁症我可以去死吗，可以吗，这样的生活不是我想要的;抑郁症我觉得我的人生没有任何意义;抑郁症我希望人死后能变成一个星球，做自己的神;抑郁症我只觉得这一切都是无止境的，没有盼头，无聊且单调的生活;抑郁症我以为我的强迫症好了抑郁症就会好，结果还是一样，其实没得强迫症我也一样会得抑郁症的吧;; X_post:抑郁症感觉自己变笨了好多。。; Y_reply:[抱抱]
+negative	X_history:不丢 消失 pH值小于7777的微博视频;?????????????????????????????????????????????????? ???;不丢 ……;诗情画奕 好漂亮;; X_post:#眼泪女王#太好哭了; Y_reply:你好，你感兴趣的“眼泪女王”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 眼泪女王[超话]
+positive	X_history:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文;双相情感障碍睡不着，好清醒。来聊天啊;; X_post:全世界都去死，烦透了，真该死。; Y_reply:[抱抱]
+negative	X_history:;#朱志鑫[超话]##朱志鑫断层c位出道##朱志鑫 断层c位全能队长##朱志鑫 三代唯一断层top##朱志鑫 王牌ace# “我心慕于你，如鹿归于林野，如暖阳般爱你。”  "?? ??????? ? ??? ?? ???, ????? ??? ????”  ...全文;讨厌我的人，你有服了;真的晚安@TF家族-朱志鑫 朱砂芝酱的微博视频;我想吃鸡蛋羹;; X_post:晚安妹子们; Y_reply:晚安
+negative	X_history:抑郁症时隔一年，还是拨通了这电话  此刻跟谁难受  非常难受   超级难受;; X_post:不必祝她开花，不必教会她爱她不必勇敢，不必慷慨，不必乖祝她鼎沸好了，祝她有留白祝她把世俗的目光，一裁再裁祝她在人生海海，尽兴，开怀不必祝她明朗，不必教她世故她不必成功，不必灿烂，不必人声鼎沸祝她快乐好了，祝她有明天祝她以乐观者的姿态走向悲观的行程祝她热烈，祝她想哭就哭， ...全文; Y_reply:能开心就好
+negative	X_history:真是受够了 忙到连静下来好好大哭一场的时间都没有;打雷了。要下雨了。好棒。晚安;妈妈说她找到工作其实不是很开心 她怕我一个人在家情绪不好时找不到依靠 我恨我的病给妈妈带来困扰 为什么不止害我还要害我的妈妈妈妈说她只有我了 我说我其实也只有她。;真累啊 只有听歌的时候能短暂活着???;; X_post:听到瞬心里还是痛痛的 你呢 你早就没感觉了吧^^; Y_reply:心痛是暂时的，但回忆是永恒的 [心]
+positive	X_history:桑稚明信片感觉怪怪的，但我又说不上来;我刚刚上传了动态视频封面，动态视频封面是微博视频号的个性化专属功能，快去我的主页看看吧~更多有趣、精彩的封面，尽在#视频号封面大赏# 被只许拿捏的微博视频;半年了你是一分都不涨啊;#世界年龄最大男子去世#144！真的是长寿老人了，老人家一路走好;降价啦500fo/1.41000fo/2.8?fo/28又降了;; X_post:8点恢复原价; Y_reply:fo吗？
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;; X_post:宋居寒 寒寒下午好; Y_reply:晚上好 [兔子]
+negative	X_history:我要请假。。。咳的我后脑勺疼;其实我在熟人面前特别神金，只是在学校我好像是似人一个;黑杰克玩第一把就赢了;怕你知道我喜欢你，更害怕你假装不知道我喜欢你;我跟我朋友出去逛街最喜欢干的事就是去服装店比如zara优衣库ur这种店里猜衣服价格感觉特别好玩;咳的我肚子疼。;姐姐能不能来救救我。。。我好痛苦;; X_post:我曹尼玛啊怎么快两点了。。。我明天还有早八; Y_reply:早点睡觉，梦里没有早八 [月亮]
+negative	X_history:;; X_post:#朱志鑫[超话]##朱志鑫断层c位出道##朱志鑫 断层c位全能队长##朱志鑫 三代唯一断层top##朱志鑫 王牌ace# “我心慕于你，如鹿归于林野，如暖阳般爱你。”  "?? ??????? ? ??? ?? ???, ????? ??? ????”  ...全文; Y_reply:【朱志鑫盛世美颜】【朱志鑫优秀艺人】和朱志鑫一起，奔赴热爱，无畏挑战，循梦而行，向阳而生@TF家族-朱志鑫
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;; X_post:怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”; Y_reply:你跟她说邮费100 [允悲]
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;; X_post:抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺; Y_reply:不错 我也买平板了 一起画画 关注我
+negative	X_history:抑郁症心里乱糟糟的 一天到晚总是叹气;抑郁症比起以往的抑郁，我这次复发最明显的新症状是易怒和非常严重的焦虑。。。;抑郁症焦虑严重到每隔几分钟就要照一次镜子然后不敢抬头看人甚至会发抖崩溃;抑郁症开心真难，谁有教程啊;抑郁症这辈子最烦隐瞒和欺骗;; X_post:抑郁症坐在车上要去往某个地方的那段路是我最享受的，因为我只需要闭眼等到站，没有社交不用做任何复杂的事。; Y_reply:是的！很安心，很平静，很“幸福”
+positive	X_history:韩娱跳蚤市场收TXT回归新专;抑郁症住院状态还行呐 温州·温州市第七人民医院;抑郁症才一周怪贵的;抑郁症嗯 妈妈你记好了 你是第一个说我不伦不类的;; X_post:抑郁症妈妈 我不讲话 你说我什么都憋在心里自己把自己弄出病了 有事要跟你说 可是我跟你说了 你又让我反省自己 可本来就不是我的错啊。。。我是受害者啊。。。; Y_reply:回复@若芽色深海:跟他们说话永远说不明白 每句话都冷嘲热讽的 有种就捅我?
+negative	X_history:抑郁症 快夸我我把家里放了一年的水电池? 卖掉了… 主要怕着火 家里又有猫   今年的电池事故太多了 虽然买的时候 400 多 卖了只有80元但真的拖了一年 …   太不容易了我;抑郁症 我耳钉今天还差点掉一个  啊啊啊啊 咋这么多事搞我心态;抑郁症 我完成了 我的一个梦想 ～ @杨舒予YSY 好好生活;抑郁症 没睡着被蚊子叮醒 开始购物;; X_post:抑郁症 睡觉睡觉 有点恶心了; Y_reply:睡吧睡吧
+positive	X_history:#抑郁症#抑郁症和女儿一起努力2024.4.1  我要提供稳定的情绪价值，女儿才能更有安全感;#抑郁症#抑郁症和女儿一起努力2024.4.19  夜谈会;; X_post:#抑郁症#抑郁症和女儿一起努力2024年4月日记集中（4/549）4.1我要提供稳定的情绪价值，女儿才能更有安全感网页链接 4.4能量卡牌五小时网页链接 4.19夜谈会网页链接 4.24自然界是最好的疗愈场网页链接; Y_reply:心里一惊。
+positive	X_history:抑郁症现实/人格解离是抑郁引起的吗？你们有没有解离的症状？;抑郁症一个人在洱海边坐着望着湖面波光粼粼，野鸭游泳面前是苍山背后是车来车往风很大吹不散我的阴郁 大理·洱海;抑郁症明天返程了，风景真的很漂亮。希望此刻看见这条微博的你也开心哦;旅行上周拍的，昆明蓝花楹，真的很好看 昆明;; X_post:抑郁症今天复诊换药了，两个大笑脸; Y_reply:我还在草酸艾司的盒子上看到过笑脸 但感觉快乐真的是一种奢望 [泪]
+positive	X_history:新加坡时隔三年又来尝了尝这家汉堡店的蘑菇牛肉汉堡加煎蛋，味道很不错，牛肉很多汁Fatboy's Burger Bar Upper Thomson#美食# 新加坡·Fatboys the Burger Bar;旅行东航这次飞机餐还不错 #旅行#;; X_post:旅行刚到青岛就吃了海胆水饺和鲍鱼嘿嘿#旅行# #美食# 青岛·青岛胶东国际机场; Y_reply:青岛海鲜超好吃嘿嘿嘿，宝宝记得吃好喝好玩好 "[送花花]"
+positive	X_history:抑郁症 失眠 像梦被囚禁在身体里 那些未流下的眼泪最终去了哪里 可能蔓延至全身的血管里吧 因为我感受到了血的苦涩 面孔的模糊可是那起伏的跳动的声响又在说什么呢 她不过是一缕风 爱本就是风 再浓烈 也无法扎根于大地 她说她快承受不住了 但她又必须继续撑下去泪水啊 请再次青睐我的眼 ...全文;; X_post:抑郁症 不卡了，情绪终于不卡了，但是好痛，好难过，心痛到想死，想死到心痛????; Y_reply:[抱抱]
+positive	X_history:刘逸云 #独立音乐人amber刘逸云# #全世界最好的刘逸云# 今日有端联想怎么会有这么帅气又这么可爱的女孩子呀@刘逸云Amber （没有男化也没有嗑cp的意思一点都没有;; X_post:刘逸云 #amber2024巡演# #nomoresadsongstour2024# 嘿嘿每天开冰箱看到订制的票根就很开心，梦回快乐线下@刘逸云Amber 臭宝又熬夜，是不是还没起床呀; Y_reply:在哪订的冰箱贴，求个链接
+positive	X_history:抑郁症 好累，累的要死，不想活了，得了这个病生不如死，也看不到痊愈的希望了，真的不如去死，当时不该来住院，好累啊;抑郁症 安眠药啊没用啊一夜没睡啊;抑郁症 怎么办？刚刚一个小女孩出院17天住了2万块，我不想给家里添负担了，我要出院医生也不同意，但我真的住不起了，我这几天情绪也挺稳定的，他就是不给我出院;; X_post:抑郁症 妈的死医院还不给我出院，我不想和我妈呆在一起了; Y_reply:早日康复 "[送花花]"
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;; X_post:你滴最爱鑫鑫儿; Y_reply:给我买我也喜欢 [嘻嘻]
+positive	X_history:记录一下心情没好 又是等死的一天抑郁症;6点14有什么时候是个头我好痛苦我为什么忍不住花钱爸爸挣钱都被我乱花了我开始手抖了 我在死之前可以见到泽吗 我好心疼他挣的钱越多越累 喜欢他了3年不知道他前面四年改是怎么过的 因为宇姐我最恨抑郁症了 可是为什么我越恨的东西越要缠着我 我该什么时候能正常 我想好好吃饭不一直哭睡个好觉这些事普 ...全文;; X_post:……又活了一天抑郁症; Y_reply:你还会活好多好多无数天
+positive	X_history:抑郁症 你看 我正在想办法活着   只是想活着而已  去新的地方 要伪装自己 伪装自己是正常人 伪装自己很健康   伪装自己很开朗 撕掉药名就很心酸  呵呵。;抑郁症 3.26   耳洞  3.31  耳洞已长好 可以侧卧压着睡了 … 这家真的专业;; X_post:抑郁症 世界上最难的家务活是铺床  鉴定完毕; Y_reply:回复@真的表现把自己微博博主:还挺好用的，长得像菜刀一样，你在购物网站上搜铺床神器，就出来了
+positive	X_history:澜久早早早做了猫猫简单卡背，想自印小卡，求好看的卡背;范丞丞?#范丞丞小巷人家# ?#范丞丞庄图南# “为初恋之神提笔 以爱的名义” ??????? ??? ??? ??? ?? ????? ???? ?? ??? ???? ?? ????【范丞丞小巷 ...全文;; X_post:黄俊捷#向全世界安利黄俊捷# #黄俊捷最让我心动的瞬间# 啊啊啊啊啊啊啊，这一组我直接尖叫，太太太太纯了@黄俊捷H; Y_reply:帅的突出
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;; X_post:还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈; Y_reply:好好好这就是我老公 [亲亲]
+negative	X_history:不丢 消失 pH值小于7777的微博视频;?????????????????????????????????????????????????? ???;不丢 ……;诗情画奕 好漂亮;#眼泪女王#太好哭了;#欧冠#精彩;陪宝宝过的第三次生日@SNH48-周诗雨 生日快乐宝宝 身体健康;不丢 有点帅哦?;#勒沃库森#恭喜?;#谁能演金秘书#无人能敌原版;#欧冠#加油多特;; X_post:贱人; Y_reply:双肩包  真?
+negative	X_history:抑郁症mect 我有点害怕 温州·温州市第七人民医院;MOA交易处慢蹲收;抑郁症早上和中午忘记吃药了 到了下午突然有种被五雷轰顶的崩溃感;MOA交易处家人们有没有推荐的印拍立得的店铺;#千万不要买樱花味食物#樱花万宝路还是很香的;MOA交易处收正规二后续e版未拆;时代少年团周边中转站收1四周年全套;时代少年团周边中转站我收1四周年全套;; X_post:时代少年团周边中转站收马嘉祺四周年全套 未拆; Y_reply:出出出
+positive	X_history:双相情感障碍犯病复发是什么样子的;; X_post:抑郁症以前觉得没有朋友是一件很羞耻的事，所以我想要好多好多朋友，每天都可以分享日常，所以以前我会假装自己有很多朋友，但实际上，他们都是我虚构的，现在我变得越来越沉默，越来越不想说话，有人靠近我第一反应是害怕与回避，等他走了以后我又开始长舒一口气。; Y_reply:自己才是主体，不要时刻观察对方的反应就好了。别人都是NPC，都是为了让你开心的，这个不好用，就换另一个试试。
+negative	X_history:抑郁症吃奥沙西畔睡觉会睡一会醒一次大喊大叫吗;#原生家庭[超话]#不想结婚不想生孩子不配做母亲悲剧的家庭暴力酗酒出轨的父亲被驯化暴怒强势的母亲浑浑噩噩的弟弟抑郁焦虑的我;抑郁症我变得比不上以前的自己感知不到自己是否活着重复麻木;为什么一停药就控制不住情绪还会被打被骂;; X_post:抑郁症感觉自己什么都做不好一天天的只在刷手机不想做一个傻子我母亲说我疯了好烦停药了连情绪都控制不好行为也有点奇怪了; Y_reply:[抱抱]
+negative	X_history:抑郁症 快夸我我把家里放了一年的水电池? 卖掉了… 主要怕着火 家里又有猫   今年的电池事故太多了 虽然买的时候 400 多 卖了只有80元但真的拖了一年 …   太不容易了我;抑郁症 我耳钉今天还差点掉一个  啊啊啊啊 咋这么多事搞我心态;抑郁症 我完成了 我的一个梦想 ～ @杨舒予YSY 好好生活;抑郁症 没睡着被蚊子叮醒 开始购物;抑郁症 睡觉睡觉 有点恶心了;; X_post:抑郁症 睡觉; Y_reply:睡吧睡吧
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;; X_post:想骂人; Y_reply:为什么你是B款 你有什么想骂人的 "[融化]"
+negative	X_history:我要请假。。。咳的我后脑勺疼;其实我在熟人面前特别神金，只是在学校我好像是似人一个;黑杰克玩第一把就赢了;怕你知道我喜欢你，更害怕你假装不知道我喜欢你;我跟我朋友出去逛街最喜欢干的事就是去服装店比如zara优衣库ur这种店里猜衣服价格感觉特别好玩;咳的我肚子疼。;姐姐能不能来救救我。。。我好痛苦;我曹尼玛啊怎么快两点了。。。我明天还有早八;; X_post:我膝盖疼腰也疼真成脆皮大学生了; Y_reply:我也这样感觉身体越来越差了
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;蔡徐坤游泳池诚信网页链接;抑郁症休学在家不知道干嘛了 书也看不进;抑郁症一整天都很迷茫怎么办;蔡徐坤游泳池诚信网页链接;蔡徐坤游泳池互捞网页链接;蔡徐坤游泳池诚信网页链接;互评诚信网页链接;抑郁症绝了想死;蔡徐坤游泳池诚信网页链接;抑郁症来江西玩啦;抑郁症想问一下休学的宝子都在靠什么打发时间;; X_post:抑郁症第一个上飞机的耶; Y_reply:哇塞 "[爱慕]"
+negative	X_history:抑郁症隔一段时间就没办法好好做事，食欲不好，心情不好，总是鼻子酸想哭，真的不快乐，我都没办法好好生活，也错过眼前的时光了。为什么偏偏是我敏感抑郁，如果不在睡前处理好情绪，我明天只会加重。求求了，快点过去吧。;跟老爸说起这几天情绪糟糕，情绪现在很麻，很平淡，胃又开始疼了。我真的不能好好的吗;; X_post:蓝牙耳机没带啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊落家里了啊啊啊啊啊啊啊啊啊; Y_reply:同感啊 我也刚刚发现我的蓝牙耳机不见了
+negative	X_history:抑郁症时隔一年，还是拨通了这电话  此刻跟谁难受  非常难受   超级难受;不必祝她开花，不必教会她爱她不必勇敢，不必慷慨，不必乖祝她鼎沸好了，祝她有留白祝她把世俗的目光，一裁再裁祝她在人生海海，尽兴，开怀不必祝她明朗，不必教她世故她不必成功，不必灿烂，不必人声鼎沸祝她快乐好了，祝她有明天祝她以乐观者的姿态走向悲观的行程祝她热烈，祝她想哭就哭， ...全文;; X_post:抑郁症又陷入了死循环  真是失败; Y_reply:[抱一抱]
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;; X_post:镭塔棉娃幼稚园建设一下; Y_reply:好可爱 "[哇]"
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;蔡徐坤游泳池诚信网页链接;抑郁症休学在家不知道干嘛了 书也看不进;抑郁症一整天都很迷茫怎么办;蔡徐坤游泳池诚信网页链接;蔡徐坤游泳池互捞网页链接;蔡徐坤游泳池诚信网页链接;互评诚信网页链接;抑郁症绝了想死;蔡徐坤游泳池诚信网页链接;抑郁症来江西玩啦;; X_post:抑郁症想问一下休学的宝子都在靠什么打发时间; Y_reply:追星 同人文 剪辑 说白了就是追星 [允悲]
+positive	X_history:时代少年团周边中转站出，不包，随机官周明信片;; X_post:抑郁症真的很不舒服，也说不清楚具体是哪，就感觉胸闷濒死感，烦躁想哭，我真忍不了了，我都纠结了一个星期要不要去医院; Y_reply:是在心脏胸闷，然后蔓延到脖颈的那种感觉吗？宝宝最近是不是在想一些事情？然后让自己感到很纠结很郁闷，可以试着深呼吸或者去做一些解压的事情，听歌睡一觉或者什么样的，或者好好的哭一顿，哭出来没关系的（抱抱）有些情绪是要泄出来的，希望你快点脱离你难受的状态
+positive	X_history:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文;双相情感障碍睡不着，好清醒。来聊天啊;全世界都去死，烦透了，真该死。;; X_post:好怕暴露真实的自己。好怕被抛弃。; Y_reply:我也是 [泪]
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺;; X_post:抑郁症 推掉了晚上和明早的社交活动，希望有一个不被打扰的周末; Y_reply:好棒！
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;宋居寒 寒寒下午好;宋居寒 寒寒中午好;; X_post:何故 咕咕中午好; Y_reply:晚上好宝宝 [心]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;; X_post:芝心扩关 ????; Y_reply:414 "[举手]"
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;; X_post:无聊k1; Y_reply:中午吃什么好
+negative	X_history:长大后的家，要靠自己经营。;去年，和前年， 我都是一直在说服自己，有一份工作不容易，就算有闲言碎语也要坚持下去，不管多苦，在晚上哭了多少次，第二天依旧擦干眼泪继续前行，工作繁琐没错人际关系更烦恼，但都这样坚持了两年多，记录一下;早安早八人 一早就开始要地铁了 坚持加油;要想人前显贵,就得背后遭罪;变好的从来不是生活，而是你自己。;自从有了这个小米烘干一体机以后 自在了;; X_post:这周上6天，比什么都难熬; Y_reply:我也觉得 真的好累
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;蔡徐坤游泳池诚信网页链接;抑郁症休学在家不知道干嘛了 书也看不进;抑郁症一整天都很迷茫怎么办;蔡徐坤游泳池诚信网页链接;蔡徐坤游泳池互捞网页链接;蔡徐坤游泳池诚信网页链接;互评诚信网页链接;抑郁症绝了想死;蔡徐坤游泳池诚信网页链接;抑郁症来江西玩啦;抑郁症想问一下休学的宝子都在靠什么打发时间;抑郁症第一个上飞机的耶;; X_post:蔡徐坤#超话星愿池#平安; Y_reply:早安宝宝
+negative	X_history:@MBTI小行家 我是什么？;镭塔棉娃幼稚园 ?镭塔棉娃幼稚园超话规则——（发帖前必看）  1.   本超话一切建立在认同“一个中国”原则、尊重中国主权和领土完整的前提下。欢迎各位进行和平友好的分享交流，zzlc不正确的帖子及用户一经发现一律永久屏蔽  2.   禁止引战，人身攻击，歧视，攀比，拉踩嘲讽他人等行为， ...全文;; X_post:人被困在高考的囚笼里了所以IP代替我出去旅游是吧好好好; Y_reply:怎么从广东变成江苏了 [笑cry]
+negative	X_history:抑郁症 请大家看花花??鲜花和春天都是免费的，快乐也是;抑郁症 今天天气不好，心情也不好。中饭也没吃，被工作气饱了。;抑郁症 挺烦的。。。;抑郁症 我只是不想上班，有错吗;抑郁症 不想上班，我有罪吗;抑郁症 每一个照镜子的瞬间都想死;抑郁症 水逆已经达到了next level;抑郁症 一夜没睡！都给我去听！;抑郁症 闯死同事，创死老板，创死世界上所有讨厌的人类。;; X_post:抑郁症不能憋气， 我干嘛花钱找不痛快; Y_reply:对，不能把自己憋坏了
+negative	X_history:抑郁症昨天吃饭的时候，我在跟男朋友父母抱怨我在工作中遇到的不愉快，所受的委屈和误解，他们说：工作中多干点活，受些委屈和误解是应该的，不要对那些人感到不满，不然永远都无法成长，我工作的时候也受了好多委屈。于是我想起了男朋友工作的时候也受了好些委屈，他妈妈就去跟他的领导说， ...全文;抑郁症除了我的母亲，我从不畏惧任何人的离开;; X_post:抑郁症死在别人的非议里，死在别人的眼光里，死在别人的议论里，在我的背后，他们都在议论我; Y_reply:[抱一抱]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;; X_post:分享图片; Y_reply:我也来啦 "[送花花]"
+negative	X_history:抑郁症心里乱糟糟的 一天到晚总是叹气;抑郁症比起以往的抑郁，我这次复发最明显的新症状是易怒和非常严重的焦虑。。。;抑郁症焦虑严重到每隔几分钟就要照一次镜子然后不敢抬头看人甚至会发抖崩溃;抑郁症开心真难，谁有教程啊;抑郁症这辈子最烦隐瞒和欺骗;抑郁症坐在车上要去往某个地方的那段路是我最享受的，因为我只需要闭眼等到站，没有社交不用做任何复杂的事。;; X_post:抑郁症头晕眼花四肢酸软我的天我真的身体加心理双重亚健康; Y_reply:啊啊啊抱抱，睡一下吧宝宝
+negative	X_history:抑郁症mect 我有点害怕 温州·温州市第七人民医院;MOA交易处慢蹲收;抑郁症早上和中午忘记吃药了 到了下午突然有种被五雷轰顶的崩溃感;MOA交易处家人们有没有推荐的印拍立得的店铺;#千万不要买樱花味食物#樱花万宝路还是很香的;MOA交易处收正规二后续e版未拆;时代少年团周边中转站收1四周年全套;时代少年团周边中转站我收1四周年全套;时代少年团周边中转站收马嘉祺四周年全套 未拆;; X_post:#微博秒杀#我真是服了@今天不冷耶_; Y_reply:啊？
+positive	X_history:抑郁症我真的懒得不得了，对不起;; X_post:抑郁症好烦呐，真的不喜欢听别人跟我说大道理，就是不想听到，好烦，管它对不对，就是不想听，什么一定要去爱家人，什么多去看看外婆弟弟，什么一定要多跟家里人说说话的，我就不能不回答你吗，跟我生什么气呢，我不是不给面子是根本没有心情是天天会内耗，我连自己都不喜欢，; Y_reply:道理人人都懂但是能做到的少得可怜，爱别人是你的能力又不是你的责任，长辈就是没道理的时候就用狗屁威严压人，但是宝宝还是要好好爱自己 [抱抱]
+positive	X_history:抑郁症幻想的世界那么美好…如果人可以永远沉浸在幻想里，该多好啊！清醒了之后看见眼前的生活又是一团乱麻……受够了。;我终于想通了。我之前以为你们那么反驳我，骂我，是因为觉得我太阴暗了，看不得别人有爱。但事实是你们才是最阴暗的那个。如果你们真的心中充满爱，又怎么会用恶毒的语言骂我呢？其实你们心知肚明，你们缺爱，你们不忍心别人打破你们对爱的幻想。你们好不容易找到了一点所谓的爱，却被我否定了，所以 ...全文;; X_post:抑郁症 谁能救救我; Y_reply:抱抱你
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;宋居寒 寒寒下午好;宋居寒 寒寒中午好;何故 咕咕中午好;; X_post:宋居寒 寒寒早安; Y_reply:早安宝宝 [抱一抱]
+positive	X_history:双相情感障碍 我用最后的意志支撑着。我的痛苦真真切切。我憎恶疾病，但又需要它来证明我的行为并不是装疯卖傻。让我搞清楚我身上到底发生了什么吧，拜托了;; X_post:抑郁症 避雷杭州市第一医院张海生，在就诊过程中默许未叫到号的病人和家属进入独立诊间（非普通号，是200元30分钟的专家号），本倒霉的发帖人全程被该病人和家属听到了病情描述，并且还被该病人议论病情除此之外，几乎全程以抱着双臂往后仰在椅子上的姿势听诊。总之大家避雷吧。; Y_reply:抱抱宝宝，怎么可以这样
+negative	X_history:终于拥有了;坏消息:联名没乐好消息:图丑的惨绝人寰;去年这个时候我在发愁买不到谷，没想到过了一年还在发愁买不到谷，而且谷价比起去年更离谱了?;死小能不能彻底糊穿地心滚出我的世界我真的受不了这b了;美工花了好多钱，跟稿费差不多了;好想看世邀赛@蝴蝶蓝  出来写;; X_post:虽然我也算是半个野了解，但是妈的我看见野了四冠四亚那个横幅就想跑路妈的这么阴间都能拿来当玩笑，伤害的不是你推是吗？; Y_reply:耶了好吃的饭是非常好吃的（废话）的但是四冠四亚是测中测我服了
+positive	X_history:#时代少年团演唱会#我！说！我收！特权码！买断！;#时代少年团演唱会#抢到啦！！！可以帮宝贝们带id彩带哦！重庆见！;果农茶话会宝宝们这个算第几批啊;#时代少年团演唱会#能不能快官宣。。。。;时代少年团演唱会宝宝们有没有人拼房嘞？在观音桥，四个人两晚每个人270（房间很大，住的人越多每个人付的就越少）可以拼车去场馆和回来，是2到4号两天的，有投影和圆弧落地窗，景色很好嘟;; X_post:时代少年团找帮抢！！我提供特权码，有偿！！有偿！！; Y_reply:可帮抢3号
+negative	X_history:抑郁症家里最近事不少 姥姥胸椎骨折去手术了 手术之后又不见好 爸爸确诊了睡眠呼吸障碍 可能以后睡觉都得戴呼吸机 他肾也不行 还有糖尿病 妈妈心口疼是常态化问题 妹妹情绪也总糟糕 又来一个阴我们家的 我只能强撑着精神头不成为妈妈的负担 每一个难过的阶段都是自己咬牙熬过来的…每一样都要 ...全文;; X_post:双相情感障碍特别想发疯的时候总想来一句“我精神病你有本事来打我啊” 后来想了想 还是算了; Y_reply:我就是这样[淚]还想打人 想砸东西 但是我一直忍[淚]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;分享图片;帅不帅;你们没去上学吗;; X_post:得了; Y_reply:你的好久
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;分享图片;帅不帅;; X_post:你们没去上学吗; Y_reply:我也想知道为什么
+positive	X_history:蔡徐坤游泳池诚信网页链接;抑郁症确诊重度前买的玩偶;蔡徐坤晚上好;蔡徐坤游泳池诚信网页链接;抑郁症休学在家不知道干嘛了 书也看不进;抑郁症一整天都很迷茫怎么办;蔡徐坤游泳池诚信网页链接;蔡徐坤游泳池互捞网页链接;蔡徐坤游泳池诚信网页链接;互评诚信网页链接;抑郁症绝了想死;蔡徐坤游泳池诚信网页链接;抑郁症来江西玩啦;抑郁症想问一下休学的宝子都在靠什么打发时间;抑郁症第一个上飞机的耶;蔡徐坤#超话星愿池#平安;; X_post:抑郁症感觉跟团旅行不如在家; Y_reply:[抱抱]
+negative	X_history:抑郁症以前奶奶还在时我一直不知“道她叫什么名字，只知道家里大人都用方言叫她“阿jiú”。直到奶奶过世去殡仪馆看到花圈上的字才知道奶奶叫“蔡福柔”。现在想起来感觉很难过，为什么奶奶不在了才知道记得她的名字，明明因为生病连自己的名字都想不起来，却一直记得我和堂表哥姐还有他们的孩 ...全文;抑郁症唯一懂我的小狗被妈送人了，没有和我商量，还骗我说是和别家的小狗出去玩了;; X_post:抑郁症虽然知道是不行的，但还是很想等自己有能力的时候和性别相同的人谈一次恋爱; Y_reply:我也
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;; X_post:sky光遇代币到底在哪里！！！; Y_reply:直接就是，放弃拿代币了 [泪]
+negative	X_history:抑郁症 请大家看花花??鲜花和春天都是免费的，快乐也是;抑郁症 今天天气不好，心情也不好。中饭也没吃，被工作气饱了。;抑郁症 挺烦的。。。;抑郁症 我只是不想上班，有错吗;抑郁症 不想上班，我有罪吗;抑郁症 每一个照镜子的瞬间都想死;抑郁症 水逆已经达到了next level;抑郁症 一夜没睡！都给我去听！;抑郁症 闯死同事，创死老板，创死世界上所有讨厌的人类。;抑郁症不能憋气， 我干嘛花钱找不痛快;; X_post:抑郁症 我真的最讨厌已读不回; Y_reply:我也是。巨讨厌
+positive	X_history:抑郁症幻想的世界那么美好…如果人可以永远沉浸在幻想里，该多好啊！清醒了之后看见眼前的生活又是一团乱麻……受够了。;; X_post:我终于想通了。我之前以为你们那么反驳我，骂我，是因为觉得我太阴暗了，看不得别人有爱。但事实是你们才是最阴暗的那个。如果你们真的心中充满爱，又怎么会用恶毒的语言骂我呢？其实你们心知肚明，你们缺爱，你们不忍心别人打破你们对爱的幻想。你们好不容易找到了一点所谓的爱，却被我否定了，所以 ...全文; Y_reply:回复@Raseannn:希望你不要被这些影响
+negative	X_history:抑郁症就取点钱整天跑这跑那的，好烦;抑郁症…………无语死了收了四本小说有一本盗版;抑郁症大半夜的好恐慌，爸爸因为遗传爷爷的病治不好去世了，我会不会也会被遗传;还好另一个画师是接稿时间较长的，问了大概再过两天就出草稿了，不然我真的要哭了;收拾书架发现有好几套书找不着了，还好是充的复数;都给我去s吧.到时候回来知道了又该打我了，说我什么明明知道她是一个老人，你也不看着点，养你还不如养一条狗，狗还知道看家呢;; X_post:抑郁症气的我胸口疼; Y_reply:看开一些 "[锦鲤附体]"
+positive	X_history:澜久早早早做了猫猫简单卡背，想自印小卡，求好看的卡背;范丞丞?#范丞丞小巷人家# ?#范丞丞庄图南# “为初恋之神提笔 以爱的名义” ??????? ??? ??? ??? ?? ????? ???? ?? ??? ???? ?? ????【范丞丞小巷 ...全文;黄俊捷#向全世界安利黄俊捷# #黄俊捷最让我心动的瞬间# 啊啊啊啊啊啊啊，这一组我直接尖叫，太太太太纯了@黄俊捷H;; X_post:#凤囚凰或将翻拍#希望好好选角，剧情还原; Y_reply:回复@发疯特马头:哇 好激动
+negative	X_history:瞌睡的要死 但是闭上眼睛就是睡不着;如果我是装的就好了 可惜我不是;在我的眼里感觉大于性别 只要我喜欢你带给我的感觉 就算你是第三性别我也不会在意 因为我喜欢的是你这个人 无关性别;?;神经兮兮的;小学生;我真的好懒 每次规划一堆事情然后都是躺在家里看手机;网络上都说喜欢bbw 现实中遇到个胖一点的就说死肥猪???;; X_post:越来越看不清自己了 我需要的到底是什么？我为什么会这么难过 是我自己的问题还是外界原因…; Y_reply:可能都有吧现在在努力让自己快乐一点 [抱一抱]
+positive	X_history:抑郁症 你看 我正在想办法活着   只是想活着而已  去新的地方 要伪装自己 伪装自己是正常人 伪装自己很健康   伪装自己很开朗 撕掉药名就很心酸  呵呵。;抑郁症 3.26   耳洞  3.31  耳洞已长好 可以侧卧压着睡了 … 这家真的专业;抑郁症 世界上最难的家务活是铺床  鉴定完毕;; X_post:抑郁症 那个…… 我刚刚回宿舍 ，舍友告诉我 ，我干了一个极其尴尬尴尬的事情… 这个事情会让我多年以后都对这件事有深刻印象…… 呃呃呃 … 再也不敢了… 晚安; Y_reply:晚安
+positive	X_history:抑郁症啊头疼;抑郁症我是一个从小被否定到大的人你要我如何自信.;抑郁症世界以痛吻我我痛死.世界以痛吻我我痛死.;抑郁症这个世界上真的没有感同身受,只有冷暖自知。;抑郁症我也会有心酸和委屈,可是我说给谁听,可谁又会听我说呢;抑郁症我好像真的感觉不到我在活着。;抑郁症又一次被情绪吞噬被黑暗包裹着没有人能救得了我我有点累了撑不下去了。;抑郁症死亡就是轰轰烈烈了一场,最后累了,就躺进了一个小盒子里.;; X_post:抑郁症他们都叫我好好活着但是活着好累你说我要不要活.; Y_reply:抱 [抱抱]
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;宋居寒 寒寒下午好;宋居寒 寒寒中午好;何故 咕咕中午好;宋居寒 寒寒早安;何故 咕咕早安;; X_post:#水千丞[超话]# 晚安?; Y_reply:早上好
+negative	X_history:????“擠出來的日常”? 在火星开飞机的微博视频;????????????;今天应该算发作了吧，我用指甲扣了手给抠破皮了【没有哭】，没有刀好用，没有见? 我还用了牙牙长时间啃的话只会肿，其他什么也不会，好没意思，刮眉刀最好用了;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;OK成功恢复到3年前的状态，没人玩，一个人独行，随时就去死，跳楼挺不错的，就是死状有点儿恶心，溺水之前试过，没成功;; X_post:没人玩 能活下去吗我讨厌孤单; Y_reply:我也觉得孤独很难受
+positive	X_history:抑郁症这药为啥吃了也睡不着;人家大学真美啊，在操场跑了两圈#这才是大学操场该有的姿态# 上海·上海交通大学(徐汇校区);; X_post:抑郁症这药起反作用吧，越吃越睡不着啊，睡不着就胡思乱想，哎小学同桌同济大学了，初中同桌上海交通大学了，高中没有同桌只有我没有同桌呵痛苦不堪的回忆，大学勉强复读考上二本熬过去毕了业，明明知道回忆过去屁用没有，但是现在也不知道怎么办，就是个废物。; Y_reply:我初中遭受校园霸凌结果高中都没考上呢，上的中专，中专尝试重开了好几次，然后就是大专，然后就专升本上了二本
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;无聊k1;100年没看物料了 策划什么勾石;; X_post:我也想橙??你们怎么橙的; Y_reply:喵喵喵
+negative	X_history:抑郁症花花草草，补交作业;抑郁症我成为抑郁症 超FUN啦 发帖纪念一下~;抑郁症#情绪##坚持每天拍张照片# 周一早安;抑郁症早安打卡 奔跑的刺猬YO的微博视频;抑郁症给大家推荐个视频号：养老院里的春天，超治愈的爷爷奶奶们;; X_post:抑郁症生活中，每个人都难免会遇到一些挑战，这时候，坚持释放正面情绪的人，往往会收获更多的幸福和快乐。学会管理情绪、找到清晰目标、相信坚持的力量……在这春日里，愿你我所想皆所成，收获更好的自己。  美好一天从“相信美好”开始！; Y_reply:早啊 "[送花花]"
+negative	X_history:抑郁症时隔一年，还是拨通了这电话  此刻跟谁难受  非常难受   超级难受;不必祝她开花，不必教会她爱她不必勇敢，不必慷慨，不必乖祝她鼎沸好了，祝她有留白祝她把世俗的目光，一裁再裁祝她在人生海海，尽兴，开怀不必祝她明朗，不必教她世故她不必成功，不必灿烂，不必人声鼎沸祝她快乐好了，祝她有明天祝她以乐观者的姿态走向悲观的行程祝她热烈，祝她想哭就哭， ...全文;抑郁症又陷入了死循环  真是失败;风有约  花不误 你可知郁金香的花语?;; X_post:抑郁症我想爸爸妈妈想吗奶奶了; Y_reply:[抱抱]
+negative	X_history:清明节了第一次和我有关姥姥在那边吃的好不多吃点好吃的病那么多年都没吃啥 今天听见妈妈的消息了有啥事不怪我她去杭州了她的班不是很重要吗连我生病那么严重都不能请假 只是我不重要而已 我每天几乎都有出去可是我的情绪还是一样 不知道什么时候能想小时候那么开心快乐 今天和姥爷打电话了他其实还是 ...全文;他总是说我怎么有脸哭为什么哭可是我也想知道为什么会哭抑郁症;; X_post:和一个男生聊天聊的很好突然知道他有女朋友鬼知道对我这种缺爱的人多难受我就不应该和任何人聊天…抑郁症; Y_reply:抱抱抱抱 [抱抱]
+positive	X_history:电视剧古相思曲#古相思曲# 今日上已，于是突发灵感写了篇小短打，可能有点生疏了，如有不妥，OCC致歉  专栏 · 古相思曲篇;我的母亲父亲 社会一切的“正派”使者 家长朋友温馨提示：病态思维，三观不正，别看，都这疯子的胡言乱语。似乎对待父母时爱与恶总是达不到一个平衡点，不然我也不必总是窝在角落或者躲的很远。我并不会想念的人是我这辈子都割舍不掉的。爱多于恶时，我会流泪，反之亦然。似乎不论天平多么倾斜，另一 ...全文;; X_post:宥元你们按钮z也真是的; Y_reply:按钮z平等的嘲笑每一次失误 [酷]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;无聊k1;; X_post:100年没看物料了 策划什么勾石; Y_reply:老登把小癫剧当成物料敷衍给我们看了 [允悲]
+negative	X_history:抑郁症 突感感觉医生们都好温柔，推着车确认大家有没有吃药的时候就说：9床吃过了，16床饭后吃，冰倩乖乖吃过咯，感觉超级温柔而且平时他们也都冰倩冰倩的叫，而不是17床;抑郁症 什么时候才能出院？！啊啊啊啊啊;抑郁症 感觉生活没有意义了好累，不想活了;抑郁症 好累，只想躺着;抑郁症 我要疯了，心脏像被一块大石头压着，呼吸不上来，我就想把门关上，不想让过来过去的人那样看着我而已，我有什么错？为什么最后变成我心里脆弱想太多？我是真的很害怕啊;; X_post:抑郁症 耳鸣—————————; Y_reply:[抱一抱]
+negative	X_history:不丢 消失 pH值小于7777的微博视频;?????????????????????????????????????????????????? ???;不丢 ……;诗情画奕 好漂亮;#眼泪女王#太好哭了;#欧冠#精彩;陪宝宝过的第三次生日@SNH48-周诗雨 生日快乐宝宝 身体健康;不丢 有点帅哦?;; X_post:#勒沃库森#恭喜?; Y_reply:你好，你感兴趣的“勒沃库森”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 勒沃库森[超话]
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;宋居寒 寒寒下午好;宋居寒 寒寒中午好;何故 咕咕中午好;宋居寒 寒寒早安;何故 咕咕早安;#水千丞[超话]# 晚安?;; X_post:#水千丞[超话]# 晚安?; Y_reply:早
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;sky光遇代币到底在哪里！！！;; X_post:我服了我人在江西我的IP先后跑了广东江苏我请问呢; Y_reply:现在是江苏 [哈哈]
+negative	X_history:说实话，具元和小爱的人设是真的非常非常的好，互相尊重，彼此信任，不仅有嘴，行动力什么的也一绝……啊，这种人设，如果当时有营销，肯定会特别火（虽然也很火啦）;AuroraAksnes姐姐有什么巡演的消息吗？;; X_post:#你想活出怎样的人生#很好看啊真的好看！！！#你想活出怎样的人生好看不##电影你想活出怎样的人生#; Y_reply:你好，你感兴趣的“你想活出怎样的人生”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 你想活出怎样的人生[超话]
+positive	X_history:; X_post:抑郁症我把向我奔赴而来的人都还给人海。想要做新的一轮朝阳下海面上转瞬即逝的泡沫，或者春回大地时山间的轻雪，温柔地消融，不告而别，乘风离去，轻得不留下任何痕迹。有一天觉得该走的时候就悄悄走啦。不要说什么你还有很多很多事没去做这样不值得。我倾我所有带来过太多温柔了。 ...全文; Y_reply:这几乎也是我的想法但在我的认知里，今生结束了灵魂依然在漂泊，死亡不会是尽头，所以如果是因为痛苦而选择离去，灵魂需要承受的痛苦在其他时空里大概也不会有什么改变……这听起来挺绝望的，就是我无论如何都杀不死自己。 [抱抱]
+positive	X_history:新加坡时隔三年又来尝了尝这家汉堡店的蘑菇牛肉汉堡加煎蛋，味道很不错，牛肉很多汁Fatboy's Burger Bar Upper Thomson#美食# 新加坡·Fatboys the Burger Bar;旅行东航这次飞机餐还不错 #旅行#;旅行刚到青岛就吃了海胆水饺和鲍鱼嘿嘿#旅行# #美食# 青岛·青岛胶东国际机场;抑郁症刚下高铁就赶去看威海大相框，感觉夜晚的大相框更美了呢 #旅行# 威海·威海大相框;; X_post:抑郁症到猫头山了 吹着海风 内心非常的平静 #旅行# 威海·猫头山; Y_reply:超赞 [抱抱]
+negative	X_history:抑郁症 突感感觉医生们都好温柔，推着车确认大家有没有吃药的时候就说：9床吃过了，16床饭后吃，冰倩乖乖吃过咯，感觉超级温柔而且平时他们也都冰倩冰倩的叫，而不是17床;抑郁症 什么时候才能出院？！啊啊啊啊啊;抑郁症 感觉生活没有意义了好累，不想活了;抑郁症 好累，只想躺着;; X_post:抑郁症 我要疯了，心脏像被一块大石头压着，呼吸不上来，我就想把门关上，不想让过来过去的人那样看着我而已，我有什么错？为什么最后变成我心里脆弱想太多？我是真的很害怕啊; Y_reply:别人过来过去，没有人会特别去看陌生人的，他们都有自己的事
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;分享图片;帅不帅;你们没去上学吗;得了;hyq们我要在你们评论区拉屎啦啦啦;; X_post:要睡一会觉了; Y_reply:我也需要好好休息一下了
+negative	X_history:说实话，具元和小爱的人设是真的非常非常的好，互相尊重，彼此信任，不仅有嘴，行动力什么的也一绝……啊，这种人设，如果当时有营销，肯定会特别火（虽然也很火啦）;AuroraAksnes姐姐有什么巡演的消息吗？;#你想活出怎样的人生#很好看啊真的好看！！！#你想活出怎样的人生好看不##电影你想活出怎样的人生#;; X_post:#白城医专#本科比人命重要？？疯了吧; Y_reply:你好，你感兴趣的“白城医专”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 白城医专[超话]
+negative	X_history:抑郁症能不能给我滚啊，明明是你打电话叫我过两天去上班的，现在告诉我已经有人在试岗了，明天再给我答复，合着我就是你们公司的备胎呗，那试岗的那个人要是通过了，是不是就把我给一脚踢了;青山刚昌现在开始破罐子破摔了是吧，圆不了结局，就开始胡编乱造，按他这么说他的其他几部作品，也很工藤家有关咯;抑郁症明明告诉自己要出去工作了，可是依旧没有跨出第一步;抑郁症讨厌这个世界，讨厌所有人;; X_post:抑郁症问一下大家，上班的时候，出现不适或者说心情更不好了，你们会怎么办，是立马走人还是坚持下去啊; Y_reply:那就请假休息调整调整positive
+positive	X_history:抑郁症 你看 我正在想办法活着   只是想活着而已  去新的地方 要伪装自己 伪装自己是正常人 伪装自己很健康   伪装自己很开朗 撕掉药名就很心酸  呵呵。;抑郁症 3.26   耳洞  3.31  耳洞已长好 可以侧卧压着睡了 … 这家真的专业;抑郁症 世界上最难的家务活是铺床  鉴定完毕;抑郁症 那个…… 我刚刚回宿舍 ，舍友告诉我 ，我干了一个极其尴尬尴尬的事情… 这个事情会让我多年以后都对这件事有深刻印象…… 呃呃呃 … 再也不敢了… 晚安;抑郁症 好累 想死 死不掉;; X_post:抑郁症 醒; Y_reply:早上好，宝宝
+negative	X_history:抑郁症花花草草，补交作业;抑郁症我成为抑郁症 超FUN啦 发帖纪念一下~;抑郁症#情绪##坚持每天拍张照片# 周一早安;抑郁症早安打卡 奔跑的刺猬YO的微博视频;抑郁症给大家推荐个视频号：养老院里的春天，超治愈的爷爷奶奶们;抑郁症生活中，每个人都难免会遇到一些挑战，这时候，坚持释放正面情绪的人，往往会收获更多的幸福和快乐。学会管理情绪、找到清晰目标、相信坚持的力量……在这春日里，愿你我所想皆所成，收获更好的自己。  美好一天从“相信美好”开始！;; X_post:抑郁症晚安让自己静止一下吧，好好休息，好好把膝盖调养好; Y_reply:晚安
+positive	X_history:林书媛seowon出道快乐～MV宝宝的表现真的很棒！;林书媛seowon嘿嘿，昨天我也是第一;抑郁症老师们请问心理治疗真的有用吗医生给开了，但是我不想去，因为都在说这个治疗就是在伤口上撒盐，没有必要看。;抑郁症可以不吃药吗，我自己擅自停药应该不会有什么危害吧;抑郁症宝宝们真不能擅自停药....我前几天发了个帖子，问能不能私自停药，大家都说不行，我其实自己觉得这段时间我情况明显也变差了..今天去医院一检查，转双相了医生现在让住院，我有点怕...能不能不住啊;; X_post:陈三七“从此，我们再也没有异地过”; Y_reply:每天都在羡慕中度过
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;sky光遇代币到底在哪里！！！;我服了我人在江西我的IP先后跑了广东江苏我请问呢;; X_post:大雨冲的我的IP四处乱漂; Y_reply:回复@楚沐林:好离谱
+positive	X_history:抑郁症 你看 我正在想办法活着   只是想活着而已  去新的地方 要伪装自己 伪装自己是正常人 伪装自己很健康   伪装自己很开朗 撕掉药名就很心酸  呵呵。;抑郁症 3.26   耳洞  3.31  耳洞已长好 可以侧卧压着睡了 … 这家真的专业;抑郁症 世界上最难的家务活是铺床  鉴定完毕;抑郁症 那个…… 我刚刚回宿舍 ，舍友告诉我 ，我干了一个极其尴尬尴尬的事情… 这个事情会让我多年以后都对这件事有深刻印象…… 呃呃呃 … 再也不敢了… 晚安;; X_post:抑郁症 好累 想死 死不掉; Y_reply:一句你在哪是最好的安慰 [抱抱]
+positive	X_history:电视剧古相思曲#古相思曲# 今日上已，于是突发灵感写了篇小短打，可能有点生疏了，如有不妥，OCC致歉  专栏 · 古相思曲篇;我的母亲父亲 社会一切的“正派”使者 家长朋友温馨提示：病态思维，三观不正，别看，都这疯子的胡言乱语。似乎对待父母时爱与恶总是达不到一个平衡点，不然我也不必总是窝在角落或者躲的很远。我并不会想念的人是我这辈子都割舍不掉的。爱多于恶时，我会流泪，反之亦然。似乎不论天平多么倾斜，另一 ...全文;宥元你们按钮z也真是的;; X_post:我是真不懂蚊子这种生物存在的意义; Y_reply:这个东西存在就是为了吸血我好崩溃 [微笑]
+positive	X_history:#时代少年团演唱会#我！说！我收！特权码！买断！;#时代少年团演唱会#抢到啦！！！可以帮宝贝们带id彩带哦！重庆见！;果农茶话会宝宝们这个算第几批啊;#时代少年团演唱会#能不能快官宣。。。。;时代少年团演唱会宝宝们有没有人拼房嘞？在观音桥，四个人两晚每个人270（房间很大，住的人越多每个人付的就越少）可以拼车去场馆和回来，是2到4号两天的，有投影和圆弧落地窗，景色很好嘟;时代少年团找帮抢！！我提供特权码，有偿！！有偿！！;; X_post:时代少年团演唱会有没有宝宝是五月一号出发k507车的，我从洛阳出发，蹲个搭子; Y_reply:我29号 [裂开]
+positive	X_history:哦不。;想休学，但是休学以后可能又要重新适应很多东西，撑着把这三年多上完算了;感觉老公这个口癖久了之后总有一天我会在和我姐聊天的时候不小心顺手打成老公。。。;每天支撑我吃早饭的只有我早上要吃药爬起来吃早饭让我觉得特别痛苦;又想到sc的时候了，我对sc的印象就是好不真实，因为坐的太远了人也看不清，时间也短，好想好想看他们的演唱会;在你没有给我回信息的二十几分钟里你是真的没看手机懒得回还是像我一样面对着那样的信息不知所措;感觉上学快给自己上成厌食症了;; X_post:无感，但是这个造型好帅（huq补药误伤我）; Y_reply:真的回春了，不举铁帅四我了
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺;抑郁症 推掉了晚上和明早的社交活动，希望有一个不被打扰的周末;; X_post:抑郁症 晚安今天看了之前买的《小绿和小蓝》关于同理心的小故事; Y_reply:回复@乘风破浪的coney:之前看过动漫哦！不过很久没看啦
+positive	X_history:九尾XXZ网页链接大家快去给这个微博下面的这条评论点赞助力拿到投票！;九尾XXZ晚上好，想你了哥，播一个吧@LGDNBW-九尾;九尾XXZ晚安啦尾子和八尾们，新的一天要开心哦！@LGDNBW-九尾;杭州LGDNBW我们现在年度总决赛的积分有多少啊？;九尾XXZ救命啊，我不会买到客队去了吧;九尾XXZ终于要去见你啦！@LGDNBW-九尾 顺便找一个一起领应援搭子或者小同桌，第一次去好紧张！;; X_post:九尾XXZ有没有人能告诉我18号那场打estar我买的这个位置会不会看不到图图啊; Y_reply:这价格我能接受，但是我要在学校写毕业论文 [单身狗]
+positive	X_history:棉花美娃娃有谁知道他叫什么吗？;白玉蜗牛大农还活着，就是状态不好，一直在壳里缩着，下午回来看到又出了些血#明珠蜗牛#;#马陆# 终于找到非洲巨马陆了！（卖家的图）;白玉蜗牛大农没再出血，排出了一些大概是受损的组织，我给夹下来放一边了。大农加油！#明珠蜗牛#;; X_post:抑郁症我从一枚蛋蛋养起来的大农走了，他从高处摔下来之后坚持了整整4天，他终于自由了图一是两年前的他和兄弟姐妹们，图二是今早已经没有呼吸心跳的他。我好难受，感觉很空虚，又说不上是不是伤心。; Y_reply:生老病死，不仅仅是人类的专利，自然界的一切生物（包括动，植物）也都遵循这一规律。
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;宋居寒 寒寒下午好;宋居寒 寒寒中午好;何故 咕咕中午好;宋居寒 寒寒早安;何故 咕咕早安;#水千丞[超话]# 晚安?;#水千丞[超话]# 晚安?;; X_post:宋居寒 寒寒晚安?; Y_reply:晚上好，宝宝 [抱一抱]
+negative	X_history:油饼锕;#朱志鑫[超话]#  zzx#朱志鑫 三代第一主舞#  zzx#朱志鑫 三代唯一门面#  “你是夏日的彩虹，给我的世界增添了色彩”??? ??? ??? ?????? ???????, ??? ????? ?? ?? ?????. ...全文;#朱志鑫[超话]#  zzx#和朱志鑫一起拥抱春天#  zzx#朱志鑫 三代第一主舞# “我的心也会像海浪一样为你跳动无数次” "?? ????? ???? ???? ??? ??? ???? ??? ????? ?? ??? ?? ...全文;; X_post:今天dy好慢; Y_reply:最近dy的都好慢
+negative	X_history:九尾XXZ一直陪着你@LGDNBW-九尾 ，加油?;杭州LGDNBW我对#九尾#的评分：#LGD对战VG#尾子今天c麻了！;九尾XXZ比赛加油，你们加油我们也加油！@LGDNBW-九尾;九尾XXZ四月一切顺利，卡位赛加油?@LGDNBW-九尾;; X_post:#微博头像挂件# 嗨！给我来个小狐狸！我正在使用“小狐狸” 会员专属头像挂件，你也来试试吧！ 头像挂件：小狐狸; Y_reply:你好，你感兴趣的“微博头像挂件”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 微博头像挂件[超话]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;无聊k1;100年没看物料了 策划什么勾石;我也想橙??你们怎么橙的;; X_post:是你嘛大帅比@TF家族-朱志鑫; Y_reply:回复@小棍守护官:我找到啦 [馋嘴]
+positive	X_history:抑郁症啊头疼;抑郁症我是一个从小被否定到大的人你要我如何自信.;抑郁症世界以痛吻我我痛死.世界以痛吻我我痛死.;抑郁症这个世界上真的没有感同身受,只有冷暖自知。;抑郁症我也会有心酸和委屈,可是我说给谁听,可谁又会听我说呢;抑郁症我好像真的感觉不到我在活着。;抑郁症又一次被情绪吞噬被黑暗包裹着没有人能救得了我我有点累了撑不下去了。;抑郁症死亡就是轰轰烈烈了一场,最后累了,就躺进了一个小盒子里.;抑郁症他们都叫我好好活着但是活着好累你说我要不要活.;; X_post:抑郁症我本该炽热的青春自卑却占了一大半.; Y_reply:宝宝我也是[淚]我好自卑，我好希望得到爱
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;sky光遇代币到底在哪里！！！;我服了我人在江西我的IP先后跑了广东江苏我请问呢;大雨冲的我的IP四处乱漂;; X_post:吴NANA 肚子上绣一个吴娜娜; Y_reply:可爱！
+negative	X_history:抑郁症就取点钱整天跑这跑那的，好烦;抑郁症…………无语死了收了四本小说有一本盗版;抑郁症大半夜的好恐慌，爸爸因为遗传爷爷的病治不好去世了，我会不会也会被遗传;还好另一个画师是接稿时间较长的，问了大概再过两天就出草稿了，不然我真的要哭了;收拾书架发现有好几套书找不着了，还好是充的复数;都给我去s吧.到时候回来知道了又该打我了，说我什么明明知道她是一个老人，你也不看着点，养你还不如养一条狗，狗还知道看家呢;抑郁症气的我胸口疼;; X_post:抑郁症一肚子气，回来看见果然骂我了，当时我就蚌埠住了骂了一通，也不说我了，果然还是发疯管用; Y_reply:"[锦鲤附体]"
+negative	X_history:抑郁症患精神病最糟的是大家都期待你装没病;抑郁症想死之人你是拉不了我上岸的更劝不住我想自sha心;抑郁症我不光容貌焦虑我还游戏技术焦虑成绩焦虑社交焦虑我快焦糊了;抑郁症晚安;抑郁症我们哭着降临世界,却笑着走向永恒.;抑郁症别了吧活着比死亡难受;抑郁症黑夜里突如其来的风该死的情绪差点要了我的命.;; X_post:抑郁症我甚至觉得我是个累赘我天天哭天天熬夜老是不吃饭冷冰冰的自己破碎的自己总有不稳定的情绪我总是带坏别人的情绪我讨厌这的样自己手上的疤形容不了我为什么我总是给别人制造那么多麻烦为什么我这么敏感脆弱有时甚至想死的心都有。; Y_reply:害，一样 [跪了]
+positive	X_history:双相情感障碍犯病复发是什么样子的;抑郁症以前觉得没有朋友是一件很羞耻的事，所以我想要好多好多朋友，每天都可以分享日常，所以以前我会假装自己有很多朋友，但实际上，他们都是我虚构的，现在我变得越来越沉默，越来越不想说话，有人靠近我第一反应是害怕与回避，等他走了以后我又开始长舒一口气。;抑郁症能不能夸夸我，我好像没那么怂了…小的时候受欺负没人给我撑腰，妈妈只会让我不要在意别人说的话，所以长大了我也不会还手。后来我终于学会了反击也没那么内耗了;; X_post:抑郁症你们想吞药的时候怎么缓解情绪我好想吞药可是家里的药都没了，被我翻出来一瓶腹可安; Y_reply:之前打紫砂干预
+negative	X_history:下个月要25了，昨天又因为gap2年的原因被hr拒绝了，但我还是希望我自己能坚持下去重新融入社会。也许25岁的我会拥有一份时常需要加班且双休无法保障的工作并为之努力，但我希望我依然能够对生活抱有热情，也希望我有能够在坚持不下去的时候说走就走的勇气。生命只有一次，人生不过体验，我不想活的 ...全文;#你想活出怎样的人生# 坐在那俩小时，一点没看懂感觉阅片有点门槛;; X_post:时隔两年重新工作，上班第一天就不顺，需要完成的任务是缥缈庞大的，我在其面前就像一只蝼蚁，刚刚建立起的一点自信心一下子就被击垮溃散了...自卑可能是我人生的常态吧; Y_reply:加油！你很棒
+negative	X_history:抑郁症抑郁症今天好难受没有力气，走路像软了一样，心慌，全身无力，头疼头晕，下午还摔碎了一个玻璃杯，现在像一个死猪一样瘫在床上;抑郁症呼吸困难，家长从早上就开始砸门，像疯子一样;#饿瘦跟运动瘦的区别#运动瘦容易保持，饿瘦除非你没有嘴馋期;; X_post:马嘉祺#和马嘉祺一起拥抱春天##马嘉祺小熊花园#[送福]#马嘉祺这是我的岛# “有奋斗目标的人其实都很幸福，可能当你有了这个奋斗目标之后，很多事情就变得有意义了。”#腾讯音乐由你榜#@时代少年团队长-马嘉祺?Fri Friday?#Forever Child-马嘉祺[音乐]# ...全文; Y_reply:[打call]
+negative	X_history:抑郁症真的很不理解，前一秒我的老师叫我去办公室说跟我说对不起，等我走之后呢，又在背后说我什么什么，这只是小事，说我只是小家子气了，我请假的时候呢，他又当着全班同学的面说，一边在叹气说我还是压力太大了，在那阴阳我……，问我这些那些的 ，真的很想逃离;抑郁症下周一半期考了，感觉好像也不是很紧张，想摆烂了……;抑郁症6点钟睡的 9点55起，睡挺久;; X_post:抑郁症救命成绩好差受不?了 真的累了 上不下去了 他们天天都在说我没病我没病 我不知道了 我真的不知道了  我有病吗 有吗？ 我好想要个明确的回答不知道了 好迷茫  累烦 记性一点都不好; Y_reply:自己尽力就好了
+positive	X_history:赵泳鑫#向全世界安利最棒的赵泳鑫# 哦，这是谁啊，原来是鑫尖尖上的人呐。一日不见如隔三秋。@MIC赵泳鑫Steelo;#赵泳鑫与TME合作官宣#  Steelo #赵泳鑫厂牌新领秀XlX官宣#期待赵总大展宏图，发行更多的音乐作品。@MIC赵泳鑫Steelo;; X_post:#珍爱地球和谐共生# WYH #王一浩新歌与地球的单独约会# 世界地球日，让我们一起爱护地球家园。今天让我们来与地球约会吧。@MIC王一浩Phibian 分享王一浩的单曲《与地球的单独约会》:?网页链接?(来自@网易云音乐)分享单曲 与地球的单独约会 (@网易云音乐); Y_reply:守护地球 [嘻嘻]
+negative	X_history:下个月要25了，昨天又因为gap2年的原因被hr拒绝了，但我还是希望我自己能坚持下去重新融入社会。也许25岁的我会拥有一份时常需要加班且双休无法保障的工作并为之努力，但我希望我依然能够对生活抱有热情，也希望我有能够在坚持不下去的时候说走就走的勇气。生命只有一次，人生不过体验，我不想活的 ...全文;; X_post:#你想活出怎样的人生# 坐在那俩小时，一点没看懂感觉阅片有点门槛; Y_reply:你好，你感兴趣的“你想活出怎样的人生”已开通了超话社区～ 超话社区是微博旗下兴趣互动社区，快来与志同道合的小伙伴们一起交流互动吧！ 戳我进入&gt;&gt; 你想活出怎样的人生[超话]
+negative	X_history:????“擠出來的日常”? 在火星开飞机的微博视频;????????????;今天应该算发作了吧，我用指甲扣了手给抠破皮了【没有哭】，没有刀好用，没有见? 我还用了牙牙长时间啃的话只会肿，其他什么也不会，好没意思，刮眉刀最好用了;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;OK成功恢复到3年前的状态，没人玩，一个人独行，随时就去死，跳楼挺不错的，就是死状有点儿恶心，溺水之前试过，没成功;没人玩 能活下去吗我讨厌孤单;张极周边中转站出出出，小礼物多多;; X_post:TF三代周边中转站出出出，小礼物多多; Y_reply:哇哦~这是哪位明星的见面会吗？
+positive	X_history:抑郁症其实怎么说呢，我都不知道自己是否有病了，我感觉好迷茫，第1次去医院检查，去的是一家私立医院，检查出中度，医生就建议我用一下可以让我睡好觉的药，然后我父母就是说再看一下，第2次去了一家公立的，没有明确的，说明是否生病了，只是说再观察观察，去做心理咨询，然后这周星期三的时 ...全文;抑郁症今天重庆雨过天晴啦 阳光照在我尸体上感觉暖暖的;抑郁症累，感觉洗个澡花了全身的力气 下一秒就要晕倒了;抑郁症感觉不吃东西头就要晕，马上就要昏倒了，感觉要吃东西的话又吃不下去，吃了又想吐了;; X_post:抑郁症大家请看小猫，我们喵星人就是这么拽 na秋秋的微博视频; Y_reply:太可爱啦
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;无聊k1;100年没看物料了 策划什么勾石;我也想橙??你们怎么橙的;是你嘛大帅比@TF家族-朱志鑫;晚睡?糖吃@腮猫折信;; X_post:这是哪个物料啊求; Y_reply:新音4号的自我介绍
+negative	X_history:不知道今天图书馆闭馆不开心的自己偶遇到了一个热情滴小猫她真的好可爱！不开心全部被她治愈了 中山纪念图书馆;抑郁症我觉得我的心态比别人好很多 今天体考很多人没有人没拿满分他们在哭 而我在夸我自己还坚持下来了（当然我考得很差） 回到家家里吵架我告诉我自己 他们吵架与我无关;; X_post:今天休息陪妹妹一起外出走走 顺便买了几套试卷回去练练手今天本来计划是去图书馆 但是妹妹突然说她这星期上了6天的学很累 她想出去放松一下 自己突然想到了自己也是这样的 开始共情 觉得妹妹挺辛苦的 带她去图书馆附近走走 希望妹妹能够周末得到放松的时候晚安!; Y_reply:加油！要和pp一样开心每一天！
+positive	X_history:林书媛seowon出道快乐～MV宝宝的表现真的很棒！;林书媛seowon嘿嘿，昨天我也是第一;抑郁症老师们请问心理治疗真的有用吗医生给开了，但是我不想去，因为都在说这个治疗就是在伤口上撒盐，没有必要看。;抑郁症可以不吃药吗，我自己擅自停药应该不会有什么危害吧;; X_post:抑郁症宝宝们真不能擅自停药....我前几天发了个帖子，问能不能私自停药，大家都说不行，我其实自己觉得这段时间我情况明显也变差了..今天去医院一检查，转双相了医生现在让住院，我有点怕...能不能不住啊; Y_reply:是真的不能停（虽然我在停）双相之后我就停了，结果到现在凌晨四五点还失眠，比之前情况严重了很多 [允悲]
+positive	X_history:抑郁症 今天早上本来在洗漱，结果家里的接线板突然爆掉了，吓我一跳。;抑郁症总是被班里那几个小太妹阴阳，明明不是我的错他们都要怪在我头上,难受,讨厌这个班。;抑郁症好累……说上大学就轻松了都是骗人的;抑郁症?"???? = ??????? ? ???? ???"（翻出之前朋友送的陈年老贴纸和咕盘做了一个小挂件，蓝色尊嘟好治愈）;; X_post:抑郁症现在总是有人假装自己是抑郁症来钓鱼或者是博同情，正是因为这些人才导致现在大家都对抑郁症患者有偏见，不知道他们到底想怎么样？不过没关系，他们以及会恶意攻击抑郁症患者的人都会替我们挡灾的。; Y_reply:您好可以请教你个问题么，我这不能私信 [泪]
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;sky光遇代币到底在哪里！！！;我服了我人在江西我的IP先后跑了广东江苏我请问呢;大雨冲的我的IP四处乱漂;吴NANA 肚子上绣一个吴娜娜;; X_post:潮汐tide 摸鱼摸了; Y_reply:可可爱爱 [鲜花]
+negative	X_history:长大后的家，要靠自己经营。;去年，和前年， 我都是一直在说服自己，有一份工作不容易，就算有闲言碎语也要坚持下去，不管多苦，在晚上哭了多少次，第二天依旧擦干眼泪继续前行，工作繁琐没错人际关系更烦恼，但都这样坚持了两年多，记录一下;早安早八人 一早就开始要地铁了 坚持加油;要想人前显贵,就得背后遭罪;变好的从来不是生活，而是你自己。;自从有了这个小米烘干一体机以后 自在了;这周上6天，比什么都难熬;上班两年 领导换了三轮 今天早上迎新人（新老大） 他们总是很厉害 差劲的是我;; X_post:7点准时被惊醒，空调有点冷不是很想吹了，怕昨晚自己没调闹钟搞得迟到; Y_reply:同感啊！我也经常半夜被冻醒
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺;抑郁症 推掉了晚上和明早的社交活动，希望有一个不被打扰的周末;抑郁症 晚安今天看了之前买的《小绿和小蓝》关于同理心的小故事;抑郁症 突然想起朋友来家里第一件事就是开窗帘，果然还是应该多开窗帘多晒太阳多看书多撸猫;; X_post:抑郁症 晚安; Y_reply:晚安
+negative	X_history:抑郁症 突感感觉医生们都好温柔，推着车确认大家有没有吃药的时候就说：9床吃过了，16床饭后吃，冰倩乖乖吃过咯，感觉超级温柔而且平时他们也都冰倩冰倩的叫，而不是17床;抑郁症 什么时候才能出院？！啊啊啊啊啊;抑郁症 感觉生活没有意义了好累，不想活了;抑郁症 好累，只想躺着;抑郁症 我要疯了，心脏像被一块大石头压着，呼吸不上来，我就想把门关上，不想让过来过去的人那样看着我而已，我有什么错？为什么最后变成我心里脆弱想太多？我是真的很害怕啊;抑郁症 耳鸣—————————;抑郁症 我就是虚荣心作祟，我是穷鬼行了吧，你最清高，你最乐观，你最高尚;; X_post:抑郁症 喘不上气啊; Y_reply:[抱一抱]
+negative	X_history:抑郁症花花草草，补交作业;抑郁症我成为抑郁症 超FUN啦 发帖纪念一下~;抑郁症#情绪##坚持每天拍张照片# 周一早安;抑郁症早安打卡 奔跑的刺猬YO的微博视频;抑郁症给大家推荐个视频号：养老院里的春天，超治愈的爷爷奶奶们;抑郁症生活中，每个人都难免会遇到一些挑战，这时候，坚持释放正面情绪的人，往往会收获更多的幸福和快乐。学会管理情绪、找到清晰目标、相信坚持的力量……在这春日里，愿你我所想皆所成，收获更好的自己。  美好一天从“相信美好”开始！;抑郁症晚安让自己静止一下吧，好好休息，好好把膝盖调养好;; X_post:抑郁症早安，告别了昨天，开始全新的今天周五愉快; Y_reply:早安 "[开学季]"
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;我… 唉:-(;; X_post:跟朋友绝交了，我跟我妈说我今天休学，明年复读一年，这样就不会看见我所熟悉的人了，我怕我去学校看见她我忍不住哭，难受真的好难受哭了好长时间，我想歇会儿我累了，我怕去学校忍不住跳下去我真的会做出来，我怕我抑郁转双相，我怕他们讨厌我，我怕他们不喜欢我，我讨厌他们议论我，我讨厌！我妈说过 ...全文; Y_reply:没有人会讨厌你宝宝也不要怕别人不喜欢你 你本身已经够好啦 [抱抱]
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;分享图片;帅不帅;你们没去上学吗;得了;hyq们我要在你们评论区拉屎啦啦啦;要睡一会觉了;发朋友圈都没人，微博我爱你我来了;那个齿轮家族款啥时候发货啊;放学回来啦～;; X_post:可爱～; Y_reply:"[送花花]"
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;无聊k1;100年没看物料了 策划什么勾石;我也想橙??你们怎么橙的;是你嘛大帅比@TF家族-朱志鑫;晚睡?糖吃@腮猫折信;这是哪个物料啊求;; X_post:养成系变选秀 你可以的; Y_reply:六年秀粉归来还是秀粉的我
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;宋居寒 寒寒下午好;宋居寒 寒寒中午好;何故 咕咕中午好;宋居寒 寒寒早安;何故 咕咕早安;#水千丞[超话]# 晚安?;#水千丞[超话]# 晚安?;宋居寒 寒寒晚安?;何故 咕咕下午好;宋居寒 寒寒下午好;; X_post:#水千丞[超话]# 失眠了…; Y_reply:[抱一抱]
+positive	X_history:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文;双相情感障碍睡不着，好清醒。来聊天啊;全世界都去死，烦透了，真该死。;好怕暴露真实的自己。好怕被抛弃。;双相情感障碍我或许是一只老鼠吧，在阴暗的角落里偷窥别人的幸福，还把自己也伪装成幸福的样子。大家都在前进，只有我还在原地，一无所有。;; X_post:双相情感障碍世界上就我一个人没闺蜜没对象是吧？; Y_reply:[抱抱]
+negative	X_history:抑郁症就取点钱整天跑这跑那的，好烦;抑郁症…………无语死了收了四本小说有一本盗版;抑郁症大半夜的好恐慌，爸爸因为遗传爷爷的病治不好去世了，我会不会也会被遗传;还好另一个画师是接稿时间较长的，问了大概再过两天就出草稿了，不然我真的要哭了;收拾书架发现有好几套书找不着了，还好是充的复数;都给我去s吧.到时候回来知道了又该打我了，说我什么明明知道她是一个老人，你也不看着点，养你还不如养一条狗，狗还知道看家呢;抑郁症气的我胸口疼;抑郁症一肚子气，回来看见果然骂我了，当时我就蚌埠住了骂了一通，也不说我了，果然还是发疯管用;; X_post:抑郁症一顿吵之后都给我赔笑脸了，跟我笑着说话还有点不适应; Y_reply:[抱一抱]
+negative	X_history:此刻想参加线下的心蹦到了极点真想改签去北京见欣欣疯啦;还不知道怎么玩儿超话？我都在虞书欣超话是LV.12啦，还获得了云为衫头衔，来#虞书欣[超话]#找我聊天，我来给你划重点~ ??;#虞书欣[超话]# ?#虞书欣永夜星河# ?#虞书欣凌妙妙#“向前走 你终会走出泥泞的小路 踏过荆棘 用汗水浇灌梦想 赢得鲜花与掌声 是抵达梦想的必由之路”@虞书欣Esther;#林一虞书欣都发了雪景照##虞书欣雪山写真#虞书欣好美啊！虞书欣和雪地真的很配美鼠了这套  只为初礼发疯-见过虞书欣版的微博视频;; X_post:#林一虞书欣都发了雪景照#看到这么美的图更期待卫枝了！谁还没有预约嘘国王在冬眠！; Y_reply:虞书欣 [污]
+positive	X_history:哦不。;想休学，但是休学以后可能又要重新适应很多东西，撑着把这三年多上完算了;感觉老公这个口癖久了之后总有一天我会在和我姐聊天的时候不小心顺手打成老公。。。;每天支撑我吃早饭的只有我早上要吃药爬起来吃早饭让我觉得特别痛苦;又想到sc的时候了，我对sc的印象就是好不真实，因为坐的太远了人也看不清，时间也短，好想好想看他们的演唱会;在你没有给我回信息的二十几分钟里你是真的没看手机懒得回还是像我一样面对着那样的信息不知所措;感觉上学快给自己上成厌食症了;无感，但是这个造型好帅（huq补药误伤我）;; X_post:下次去医院复诊我要问一下医生到底给我的什么诊断。差不多小半年了不知道我到底什么情况; Y_reply:加油加油
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;分享图片;帅不帅;你们没去上学吗;得了;hyq们我要在你们评论区拉屎啦啦啦;要睡一会觉了;发朋友圈都没人，微博我爱你我来了;那个齿轮家族款啥时候发货啊;放学回来啦～;可爱～;我快11级了;; X_post:我去; Y_reply:什么
+negative	X_history:时代少年团演唱会收特权码买断！第一天优先，两天打包也行;#时代少年团直播#我再说一次，时代峰峻是古希腊掌管制造焦虑的神。。。。。;时代少年团?#时代少年团 星奔川骛# ?#时代少年团 珺璟如烨# ?#时代少年团 破局向新# 少年一路坚守信仰，担起梦想履步不停????????? ????? ?? ????? ??????? ??? ??? ? ...全文;; X_post:时代少年团?#时代少年团 星奔川骛# ?#时代少年团 破局向新# ?#时代少年团 珺璟如烨# 海的那边就是海 我的心里也是.??? ???? ??????? ????????? ?? ??????? ??? ?? ...全文; Y_reply:[抱一抱]
+negative	X_history:终于拥有了;坏消息:联名没乐好消息:图丑的惨绝人寰;去年这个时候我在发愁买不到谷，没想到过了一年还在发愁买不到谷，而且谷价比起去年更离谱了?;死小能不能彻底糊穿地心滚出我的世界我真的受不了这b了;美工花了好多钱，跟稿费差不多了;好想看世邀赛@蝴蝶蓝  出来写;虽然我也算是半个野了解，但是妈的我看见野了四冠四亚那个横幅就想跑路妈的这么阴间都能拿来当玩笑，伤害的不是你推是吗？;时隔很多年再次看见我推名字出现在第一个，真的太幸福了，虽然画风变丑了，但我推的声音一如既往地优雅;; X_post:我家黑/执/事怎么天天上热搜啊，都没个视频网站买资源，究竟谁买的热搜，有个p用，有那个钱多买点bd; Y_reply:有这钱不如换画师 [微笑]
+negative	X_history:抑郁症 快夸我我把家里放了一年的水电池? 卖掉了… 主要怕着火 家里又有猫   今年的电池事故太多了 虽然买的时候 400 多 卖了只有80元但真的拖了一年 …   太不容易了我;抑郁症 我耳钉今天还差点掉一个  啊啊啊啊 咋这么多事搞我心态;抑郁症 我完成了 我的一个梦想 ～ @杨舒予YSY 好好生活;抑郁症 没睡着被蚊子叮醒 开始购物;抑郁症 睡觉睡觉 有点恶心了;抑郁症 睡觉;抑郁症 每次4.1 就会想起你 当然平时也会想 只是 4.1 不再是愚人节 而是你的日子 。。。  我之前想过 … 的日子也是4.1 就怕万一… 希望活着的人都好好的吧;; X_post:抑郁症 惨了 做了一件很坏很坏的事情; Y_reply:[抱抱]
+negative	X_history:#虞书欣[超话]##超话星愿池# 啊啊啊啊啊啊啊啊啊宝宝你越来越好看啦！;#虞书欣[超话]##超话星愿池# “等迟暮冬天，等黄昏日落，等有你的冬天” "???? ??? ??? ??? ??????, ???? ??? ? ??????.";#虞书欣[超话]#宝宝，你皮肤状态好好;#虞书欣[超话]#;#虞书欣[超话]##枝枝横扫雪场# “在某个不知名的角落许你岁岁平安”   ???? ??? ???? ?? ?? ??????? ??????;#虞书欣[超话]##枝枝横扫雪场# “? 爱意随风起，风止意难平? ”;; X_post:#虞书欣[超话]##枝枝横扫雪场##一只鱼头挂欣空# 宝宝你什么风格都适合哦; Y_reply:虞书欣
+negative	X_history:此刻想参加线下的心蹦到了极点真想改签去北京见欣欣疯啦;还不知道怎么玩儿超话？我都在虞书欣超话是LV.12啦，还获得了云为衫头衔，来#虞书欣[超话]#找我聊天，我来给你划重点~ ??;#虞书欣[超话]# ?#虞书欣永夜星河# ?#虞书欣凌妙妙#“向前走 你终会走出泥泞的小路 踏过荆棘 用汗水浇灌梦想 赢得鲜花与掌声 是抵达梦想的必由之路”@虞书欣Esther;#林一虞书欣都发了雪景照##虞书欣雪山写真#虞书欣好美啊！虞书欣和雪地真的很配美鼠了这套  只为初礼发疯-见过虞书欣版的微博视频;#林一虞书欣都发了雪景照#看到这么美的图更期待卫枝了！谁还没有预约嘘国王在冬眠！;; X_post:抑郁症 不知道该干什么了，麻木; Y_reply:[心]
+negative	X_history:抑郁症祝我月考顺利，不要再在考场上集中不了注意力啦……;抑郁症现在心情异常平静，甚至还挺好的，一点都不烦。居然还开始变困了。。。震撼。好久没体验过了。有没有人能莫名其妙找我聊莫名其妙的东西，因为我现在莫名其妙的无聊;抑郁症下雨心情会变成平静的差，大太阳又会烦躁，;; X_post:抑郁症如果可以我希望我可以带给所有人正能量，我希望所有人都越来越好，若牺牲我一个人就可以换来大家的幸福，那真是太好了。我的死亡不再是无意义的，是值得怀念的，是我生命唯一一件值得怀念的事，也或许是在生命之外。当做乱码看吧，因为我现在挺困的，只是想要发一点什么而已。好像正常 ...全文; Y_reply:心疼你贝贝其实你不用牺牲自己也能给我们带来很多阳光的 [抱一抱]
+positive	X_history:以闪亮之名一录视频就糊，但拍照完全没问题@喵憩小姐的双马尾  故山萘的微博视频;以闪亮之名我这一次抽阁，非的离谱……我不求这一次欧了，让我下一次欧点吧;以闪亮之名有需要搭配的嘛，闲着没事干;以闪亮之名发个我几天搭配的总结（不够九张，又自己随便搭个放上去了）;以闪亮之名宠物系统价格多少？谁有图嘛，前几天看到了，但没太注意;; X_post:以闪亮之名现在我家两只狗，一只猫，还有一只豚鼠，五只蚕，我弟还想再养兔子，但是，他的想法是，他养等于每天看看摸摸玩玩，所以还得要我养（家里的豚鼠跟蚕就是这样来的）好好好，现在家里的都喂不过来了，又要在闪里头当铲屎官了网页链接; Y_reply:问一下家里味道会不会很大啊，我家一只猫的猫砂盆就臭气熏天了 [裂开]
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;无聊k1;100年没看物料了 策划什么勾石;我也想橙??你们怎么橙的;是你嘛大帅比@TF家族-朱志鑫;晚睡?糖吃@腮猫折信;这是哪个物料啊求;养成系变选秀 你可以的;; X_post:？ 要不看看我等你多久 在阴阳 去你妹的杀闭; Y_reply:神经 [允悲]
+positive	X_history:澜久早早早做了猫猫简单卡背，想自印小卡，求好看的卡背;范丞丞?#范丞丞小巷人家# ?#范丞丞庄图南# “为初恋之神提笔 以爱的名义” ??????? ??? ??? ??? ?? ????? ???? ?? ??? ???? ?? ????【范丞丞小巷 ...全文;黄俊捷#向全世界安利黄俊捷# #黄俊捷最让我心动的瞬间# 啊啊啊啊啊啊啊，这一组我直接尖叫，太太太太纯了@黄俊捷H;#凤囚凰或将翻拍#希望好好选角，剧情还原;; X_post:#致命游戏 爱奇艺海外版#什么?你也在关注致命游戏！双男主无限流题材，悬疑恐怖，感兴趣的家人们一定不要错过。请多多支持我们致命游戏，多多支持两位主演@黄俊捷H @X玖少年团夏之光; Y_reply:欢迎来到门的世界
+negative	X_history:我又想睡觉了;假的 醒了有点睡不着;我知道我会焦虑到睡不着觉;想大喊大叫 又心情低落 焦虑睡不着觉 手舞足蹈;抑郁症 晚安?;醒了 没睡六个小时 不打算睡了 因为要去玩;明天是复查 妈妈第二次不一起去 我想妈妈一起去;有种说不出的感觉 但就是不舒服;抑郁症 什么时候我也只会叹气了;为什么就是很想乱动 很想发狂很想大叫;睡得早醒的也早 醒了还睡不着 晚上又熬不到时间 觉得时间过的好慢 受不了 我怎么不去死啊 还要被逼读书 我明明在请假 心累;; X_post:双相情感障碍 真的每天都在叹气中度过; Y_reply:我感觉不是家里的人对我太严厉了，是我感觉。我说话的时候对他们总是一种大吼大叫的。虽然不是一直吼着对他们说，就感觉说话蛮大声的。也挺烦的每天。
+positive	X_history:长风百里我有预感，等剧播了这俩肯定特好嗑哈哈哈先占个屁股小侯之前粉过两年的，现在也很喜欢，瞎逛最近才喜欢上，双担的快乐谁懂啊哈哈哈;抑郁症即使死逼高中把我折磨的不像人了，那为什么还会天天晚上梦见坐在教室里专注地听课啊我是不是被中式教育洗脑了？目前就觉得人生一定要按规矩走，小学初中高中大学，这样才对总感觉现在放弃了上高中以后肯定会后悔，人生肯定会留遗憾我肯定被中式教育洗脑 ...全文;; X_post:抑郁症这两天感觉病情恶化了，家里也待的很难受，和家里人处理不好关系。外婆家在河南那边，离这边很远，去外婆家里的蛋糕房学做蛋糕?会不会好一些？心里其实一直想学烘焙。妈的突然想起之前中考时想的就是如果考不上高中就去新东方学烘焙哈哈哈。。。; Y_reply:[抱抱]
+positive	X_history:抑郁症我真的觉得我的同学好恶心，不就是在班上关系和我比较好吗，你真的觉得你什么都可以干了是吗。老是无缘无故打我有时候还骂我，神经病吗，你有多动症吗，你真的就是活该。我怎么了呢，我就该你的吗？我们四个人都在说话老师让投一个人出来诶打我连说什么都没听清你们三个就全都指我了，我 ...全文;; X_post:抑郁症已经是第三次了，每次打我都下那么重的手，我基本上没有打过你吧，就算打你也没有你打的这么重吧，小姐姐你真的无敌了，就这样吧，我真的已经不想在和你玩了，随便吧，不和你玩我还学的好点，你爱怎么样怎么样吧，我真的不想和你玩了; Y_reply:回复@沧鸢-:只要两种可能。1.这种人就是很2b，不明白别人烦她。2.她羡慕嫉妒你某些方面的优势，她自卑了，赶不上所以伤害你
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;分享图片;帅不帅;你们没去上学吗;得了;hyq们我要在你们评论区拉屎啦啦啦;要睡一会觉了;发朋友圈都没人，微博我爱你我来了;那个齿轮家族款啥时候发货啊;放学回来啦～;可爱～;我快11级了;我去;; X_post:好无聊; Y_reply:既然你无聊那么你能帮我写作业吗 [可怜]
+positive	X_history:辛苦兼职两天赚了230元，医院复诊开药243元……对自己身体好点;给老板画一张稿子，然后发给他看看有没有需要修改的地方。本身老板就是在国外，然后又跟我说，他这两天在岛上度假信号不好，不一定能及时回留下羡慕的泪水;;我老是提前透支焦虑自己，我也知道。就像现在，找本职工作，感觉自己能力不行，害怕自己干不好被辞退。但其实我连工作都还没有。就想逃避，找个职能性质，没有压力的岗位。可是又会想到没有发展，现在爽一下，后面有会有新的现实需要面对总之，就是一边害怕一边纠结一边焦虑;; X_post:公园长椅没有靠背，对我这种走哪摊哪的人很不友好。有好多家里在露营，还听到附近有弹吉他和吹口琴的声音，真的很好听; Y_reply:这个时候正是春游的好时候，俺也想去春游 "[苦涩]"
+negative	X_history:抑郁症心里乱糟糟的 一天到晚总是叹气;抑郁症比起以往的抑郁，我这次复发最明显的新症状是易怒和非常严重的焦虑。。。;抑郁症焦虑严重到每隔几分钟就要照一次镜子然后不敢抬头看人甚至会发抖崩溃;抑郁症开心真难，谁有教程啊;抑郁症这辈子最烦隐瞒和欺骗;抑郁症坐在车上要去往某个地方的那段路是我最享受的，因为我只需要闭眼等到站，没有社交不用做任何复杂的事。;抑郁症头晕眼花四肢酸软我的天我真的身体加心理双重亚健康;抑郁症还是好痛苦，吃了五年的药，今年终于正式停药了，但是这段时间经常突然痛苦的让我直不起腰。我好焦虑，我好崩溃，我总觉得一切都不在我的掌握之中;; X_post:抑郁症有太多太多事情没有朝着我预期的完美方向发展了，我该怎么办，我是真的受不了了; Y_reply:[抱抱]
+positive	X_history:宋居寒 晚安寒寒;何故 咕咕下午好;宋居寒 寒寒晚上好;何故 咕咕晚上好;宋居寒 寒寒晚上好;何故 咕咕下午好 不想上学;宋居寒 寒寒下午好;何故 下午好咕咕;宋居寒 寒寒晚安;何故 咕咕晚安;宋居寒 寒寒上午好;何故 咕咕上午好;宋居寒 寒寒下午好 不想上学;何故 咕咕 下午好;宋居寒 寒寒中午好;宋居寒 晚安乖宝;何故 晚安乖宝;宋居寒 寒寒下午好;宋居寒 寒寒中午好;何故 咕咕中午好;宋居寒 寒寒早安;何故 咕咕早安;#水千丞[超话]# 晚安?;#水千丞[超话]# 晚安?;宋居寒 寒寒晚安?;何故 咕咕下午好;宋居寒 寒寒下午好;#水千丞[超话]# 失眠了…;; X_post:抑郁症 一到晚上就跟渡劫一样 失眠睡不着觉…; Y_reply:今晚的熬夜冠军是我哦
+positive	X_history:晚安;志鑫志鑫;我去割腿割太深了。一点痛感都没有;知道我喜欢蜡笔小新特意去带的;耶，想死的心终于好了一点。;没月找我妈要生活费就头大，每次都要提我哥，我哥没找你要管我什么事，我每月生活费又没多拿，每次说说说，去你的;bfl啥意思。;吐了，志鑫发微博;分享图片;中奖了我去;我开心了;(>^ω^<) 朱砂芝酱的微博视频;1119;真饿了;到了;想骂人;暑假要去看心理医生了;芝心扩关 ????;分享图片;帅不帅;你们没去上学吗;得了;hyq们我要在你们评论区拉屎啦啦啦;要睡一会觉了;发朋友圈都没人，微博我爱你我来了;那个齿轮家族款啥时候发货啊;放学回来啦～;可爱～;我快11级了;我去;好无聊;轮博我一辈子懂不了。。;; X_post:妈妈们请来; Y_reply:好 等着
+positive	X_history:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文;双相情感障碍睡不着，好清醒。来聊天啊;全世界都去死，烦透了，真该死。;好怕暴露真实的自己。好怕被抛弃。;双相情感障碍我或许是一只老鼠吧，在阴暗的角落里偷窥别人的幸福，还把自己也伪装成幸福的样子。大家都在前进，只有我还在原地，一无所有。;双相情感障碍世界上就我一个人没闺蜜没对象是吧？;; X_post:为什么我会变成这样，我恨一切; Y_reply:别自责 抱抱宝宝不要怪自己 [悲伤]
+negative	X_history:;#朱志鑫[超话]##朱志鑫断层c位出道##朱志鑫 断层c位全能队长##朱志鑫 三代唯一断层top##朱志鑫 王牌ace# “我心慕于你，如鹿归于林野，如暖阳般爱你。”  "?? ??????? ? ??? ?? ???, ????? ??? ????”  ...全文;讨厌我的人，你有服了;真的晚安@TF家族-朱志鑫 朱砂芝酱的微博视频;我想吃鸡蛋羹;晚安妹子们;#朱志鑫[超话]##朱志鑫断层c位出道##朱志鑫 断层c位全能队长##朱志鑫 三代唯一断层top##朱志鑫 王牌ace# “我心慕于你，如鹿归于林野，如暖阳般爱你。”  "?? ??????? ? ??? ?? ???, ????? ??? ????”;; X_post:分享图片; Y_reply:我也 [兔子]
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;我… 唉:-(;跟朋友绝交了，我跟我妈说我今天休学，明年复读一年，这样就不会看见我所熟悉的人了，我怕我去学校看见她我忍不住哭，难受真的好难受哭了好长时间，我想歇会儿我累了，我怕去学校忍不住跳下去我真的会做出来，我怕我抑郁转双相，我怕他们讨厌我，我怕他们不喜欢我，我讨厌他们议论我，我讨厌！我妈说过 ...全文;; X_post:没人在吧，偷偷放个小奶屁（崩！！！pongpong噗噗噗噗噗噗噗噗呲呲呲呲呲啊啊啊啊啊啊吖！！！！！！）（害羞）; Y_reply:我听见了 [哈哈]
+positive	X_history:新加坡时隔三年又来尝了尝这家汉堡店的蘑菇牛肉汉堡加煎蛋，味道很不错，牛肉很多汁Fatboy's Burger Bar Upper Thomson#美食# 新加坡·Fatboys the Burger Bar;旅行东航这次飞机餐还不错 #旅行#;旅行刚到青岛就吃了海胆水饺和鲍鱼嘿嘿#旅行# #美食# 青岛·青岛胶东国际机场;抑郁症刚下高铁就赶去看威海大相框，感觉夜晚的大相框更美了呢 #旅行# 威海·威海大相框;抑郁症到猫头山了 吹着海风 内心非常的平静 #旅行# 威海·猫头山;; X_post:旅行去半月湾看海鸥了，海真的好漂亮，然后去吃了海鲜和鲅鱼水饺，30多块那么一大盘扇贝，好便宜#旅行# #美食# 威海·半月湾沙滩; Y_reply:青岛是不是可以实现海鲜自由了 [色]
+positive	X_history:-“春天距我只一米之遥”??@Noir_ou_blanc ?@-眠枝-;南京·惘闻·小巫师送了明信片好激动? 南京·1701 LIVE HOUSE MAX;双相日快乐?今年写壁纸;支个摊古风/日常/婚书/设计感/壁纸/背景/头像/明信片/金属徽章/水印/题字/无料/…欢迎来问啊啊啊?? 其他例图写写写写写写写约字;清明合札偷跑;; X_post:最近的日常p1 热缩片挂件（接定制版p2 手链（盲盒版（第一次结合了手绳的感觉p3 我妈做的烤鱼p4 就不用多说了哈哈哈哈p5 你游愚人节谱但迟到版p6 景天三七（大蒜版p7 南京·南京林业大学 p8 晚课前一抬头p9 第一次做表情包明天假期最后一天噜（厌学情绪在此刻达到了顶峰 ...全文; Y_reply:p7的花也太美了 [泪]
+negative	X_history:抑郁症 快夸我我把家里放了一年的水电池? 卖掉了… 主要怕着火 家里又有猫   今年的电池事故太多了 虽然买的时候 400 多 卖了只有80元但真的拖了一年 …   太不容易了我;抑郁症 我耳钉今天还差点掉一个  啊啊啊啊 咋这么多事搞我心态;抑郁症 我完成了 我的一个梦想 ～ @杨舒予YSY 好好生活;抑郁症 没睡着被蚊子叮醒 开始购物;抑郁症 睡觉睡觉 有点恶心了;抑郁症 睡觉;抑郁症 每次4.1 就会想起你 当然平时也会想 只是 4.1 不再是愚人节 而是你的日子 。。。  我之前想过 … 的日子也是4.1 就怕万一… 希望活着的人都好好的吧;抑郁症 惨了 做了一件很坏很坏的事情;; X_post:杨舒予 4.3 广东队平安完赛哦; Y_reply:顺利完赛 [打call]
+negative	X_history:以闪亮之名 故山萘的微博视频;赵丽颖#赵丽颖沈璃# zly#赵丽颖陆贞# 早期“雾似雾起 瞒住千万的繁星 似雾落 藏不住对你的爱似意”@赵丽颖;赵丽颖#赵丽颖沈璃#zly#赵丽颖与凤行#以花之名 言我所爱. @赵丽颖;以闪亮之名宝宝，你是一块蓝莓蛋糕;#赵丽颖给熊猫玩偶喂水# zly#赵丽颖# zly#赵丽颖沈璃#月亮不会奔向你 但我会 不远万里的那种@赵丽颖 别负驰厌的微博视频;#赵丽颖沈璃# zly#赵丽颖# “你独占我的春，也融入我的四季”"??? ??????? ??? ????? ???? ?? ???? ???????."@赵丽颖;; X_post:以闪亮之名有没有宝宝知道这个是什么动作，好可爱，刚开始那会儿拍的，现在找不到了; Y_reply:好像是个动态动作里面的
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺;抑郁症 推掉了晚上和明早的社交活动，希望有一个不被打扰的周末;抑郁症 晚安今天看了之前买的《小绿和小蓝》关于同理心的小故事;抑郁症 突然想起朋友来家里第一件事就是开窗帘，果然还是应该多开窗帘多晒太阳多看书多撸猫;抑郁症 晚安;抑郁症 晚安;; X_post:抑郁症 晚安这几天状态不太好，希望明天有精力画画，加油！; Y_reply:晚安 [月亮]
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺;抑郁症 推掉了晚上和明早的社交活动，希望有一个不被打扰的周末;抑郁症 晚安今天看了之前买的《小绿和小蓝》关于同理心的小故事;抑郁症 突然想起朋友来家里第一件事就是开窗帘，果然还是应该多开窗帘多晒太阳多看书多撸猫;抑郁症 晚安;抑郁症 晚安;抑郁症 晚安这几天状态不太好，希望明天有精力画画，加油！;; X_post:抑郁症 晚安; Y_reply:晚安?
+negative	X_history:清明节了第一次和我有关姥姥在那边吃的好不多吃点好吃的病那么多年都没吃啥 今天听见妈妈的消息了有啥事不怪我她去杭州了她的班不是很重要吗连我生病那么严重都不能请假 只是我不重要而已 我每天几乎都有出去可是我的情绪还是一样 不知道什么时候能想小时候那么开心快乐 今天和姥爷打电话了他其实还是 ...全文;他总是说我怎么有脸哭为什么哭可是我也想知道为什么会哭抑郁症;和一个男生聊天聊的很好突然知道他有女朋友鬼知道对我这种缺爱的人多难受我就不应该和任何人聊天…抑郁症;装一天累死了我最讨厌笑和情绪抑郁症;看着你这张照片留泪的时候我就知道那些日子绝对是你陪我走过来的你带给我的情绪价值是别人给不了的抑郁症英雄联盟陈泽;; X_post:你沉默不语 试图沟通的我像个疯子抑郁症; Y_reply:抱抱 [抱一抱]
+negative	X_history:@MBTI小行家 我是什么？;镭塔棉娃幼稚园 ?镭塔棉娃幼稚园超话规则——（发帖前必看）  1.   本超话一切建立在认同“一个中国”原则、尊重中国主权和领土完整的前提下。欢迎各位进行和平友好的分享交流，zzlc不正确的帖子及用户一经发现一律永久屏蔽  2.   禁止引战，人身攻击，歧视，攀比，拉踩嘲讽他人等行为， ...全文;人被困在高考的囚笼里了所以IP代替我出去旅游是吧好好好;对不起，我抑制不住内心的喜悦！我在原神棉花娃娃超话等级达到LV.4，获得小有名气头衔，快来恭喜我吧~ 传送门>>原神棉花娃娃;; X_post:我在oner超话等级达到LV.8，获得羊羊头衔，老铁双击666，来 oner与我畅聊吧！; Y_reply:吾观此等成就，实乃辛勤耕耘之果，赞之！愿君未来之路更上层楼。
+negative	X_history:抑郁症患精神病最糟的是大家都期待你装没病;抑郁症想死之人你是拉不了我上岸的更劝不住我想自sha心;抑郁症我不光容貌焦虑我还游戏技术焦虑成绩焦虑社交焦虑我快焦糊了;抑郁症晚安;抑郁症我们哭着降临世界,却笑着走向永恒.;抑郁症别了吧活着比死亡难受;抑郁症黑夜里突如其来的风该死的情绪差点要了我的命.;抑郁症我甚至觉得我是个累赘我天天哭天天熬夜老是不吃饭冷冰冰的自己破碎的自己总有不稳定的情绪我总是带坏别人的情绪我讨厌这的样自己手上的疤形容不了我为什么我总是给别人制造那么多麻烦为什么我这么敏感脆弱有时甚至想死的心都有。;抑郁症晚安?;; X_post:抑郁症早晚都要死的幸不幸福都无所谓了这些年过得怎么样只有我自己清楚真的太痛了凌晨一两的点天花板四五点的太阳一支支不断燃烧的烟; Y_reply:[抱抱]
+positive	X_history:棉花美娃娃有谁知道他叫什么吗？;白玉蜗牛大农还活着，就是状态不好，一直在壳里缩着，下午回来看到又出了些血#明珠蜗牛#;#马陆# 终于找到非洲巨马陆了！（卖家的图）;白玉蜗牛大农没再出血，排出了一些大概是受损的组织，我给夹下来放一边了。大农加油！#明珠蜗牛#;抑郁症我从一枚蛋蛋养起来的大农走了，他从高处摔下来之后坚持了整整4天，他终于自由了图一是两年前的他和兄弟姐妹们，图二是今早已经没有呼吸心跳的他。我好难受，感觉很空虚，又说不上是不是伤心。;鼠妇琥珀可以和巨马陆混养吗？;鼠妇刚入手的小琥珀！;白玉蜗牛被顶下来摔到的第七天，小臭臭也回蜗星了#明珠蜗牛# 它才两岁零10天大;; X_post:抑郁症四年前今天画的停电的宿舍，当时还没有抑郁; Y_reply:好会画哦！乍一看真很像照片 氛围感拉满 [抱一抱]
+positive	X_history:-“春天距我只一米之遥”??@Noir_ou_blanc ?@-眠枝-;南京·惘闻·小巫师送了明信片好激动? 南京·1701 LIVE HOUSE MAX;双相日快乐?今年写壁纸;支个摊古风/日常/婚书/设计感/壁纸/背景/头像/明信片/金属徽章/水印/题字/无料/…欢迎来问啊啊啊?? 其他例图写写写写写写写约字;清明合札偷跑;最近的日常p1 热缩片挂件（接定制版p2 手链（盲盒版（第一次结合了手绳的感觉p3 我妈做的烤鱼p4 就不用多说了哈哈哈哈p5 你游愚人节谱但迟到版p6 景天三七（大蒜版p7 南京·南京林业大学 p8 晚课前一抬头p9 第一次做表情包明天假期最后一天噜（厌学情绪在此刻达到了顶峰 ...全文;; X_post:转载了@是舒不是书_ 的微博图片又让我蹭上了; Y_reply:牛 [色]
+positive	X_history:双相情感障碍犯病复发是什么样子的;抑郁症以前觉得没有朋友是一件很羞耻的事，所以我想要好多好多朋友，每天都可以分享日常，所以以前我会假装自己有很多朋友，但实际上，他们都是我虚构的，现在我变得越来越沉默，越来越不想说话，有人靠近我第一反应是害怕与回避，等他走了以后我又开始长舒一口气。;抑郁症能不能夸夸我，我好像没那么怂了…小的时候受欺负没人给我撑腰，妈妈只会让我不要在意别人说的话，所以长大了我也不会还手。后来我终于学会了反击也没那么内耗了;抑郁症你们想吞药的时候怎么缓解情绪我好想吞药可是家里的药都没了，被我翻出来一瓶腹可安;抑郁症感觉自己结婚或者走了吃席的时候可能都没人来送我;; X_post:抑郁症突然想写一封手写信不知道从哪里下笔，好奇如果大家收到手写信是什么感受; Y_reply:我是想写但发觉没有收件人
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;我… 唉:-(;跟朋友绝交了，我跟我妈说我今天休学，明年复读一年，这样就不会看见我所熟悉的人了，我怕我去学校看见她我忍不住哭，难受真的好难受哭了好长时间，我想歇会儿我累了，我怕去学校忍不住跳下去我真的会做出来，我怕我抑郁转双相，我怕他们讨厌我，我怕他们不喜欢我，我讨厌他们议论我，我讨厌！我妈说过 ...全文;没人在吧，偷偷放个小奶屁（崩！！！pongpong噗噗噗噗噗噗噗噗呲呲呲呲呲啊啊啊啊啊啊吖！！！！！！）（害羞）;高桥文哉这是哪套杂志或者有人出吗;; X_post:陆光出出出; Y_reply:问问便利店
+negative	X_history:此刻想参加线下的心蹦到了极点真想改签去北京见欣欣疯啦;还不知道怎么玩儿超话？我都在虞书欣超话是LV.12啦，还获得了云为衫头衔，来#虞书欣[超话]#找我聊天，我来给你划重点~ ??;#虞书欣[超话]# ?#虞书欣永夜星河# ?#虞书欣凌妙妙#“向前走 你终会走出泥泞的小路 踏过荆棘 用汗水浇灌梦想 赢得鲜花与掌声 是抵达梦想的必由之路”@虞书欣Esther;; X_post:#林一虞书欣都发了雪景照##虞书欣雪山写真#虞书欣好美啊！虞书欣和雪地真的很配美鼠了这套  只为初礼发疯-见过虞书欣版的微博视频; Y_reply:虞书欣嘘国王在冬眠|虞书欣卫枝|虞书欣永夜星河|虞书欣凌妙妙|虞书欣云之羽|云为衫虞书欣仙剑六祈今朝|越祈|虞书欣苍兰诀|小兰花|息芸|虞书欣两个人的小森林|虞美人 @虞书欣Esther [doge]
+positive	X_history:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文;双相情感障碍睡不着，好清醒。来聊天啊;全世界都去死，烦透了，真该死。;好怕暴露真实的自己。好怕被抛弃。;双相情感障碍我或许是一只老鼠吧，在阴暗的角落里偷窥别人的幸福，还把自己也伪装成幸福的样子。大家都在前进，只有我还在原地，一无所有。;双相情感障碍世界上就我一个人没闺蜜没对象是吧？;为什么我会变成这样，我恨一切;双相情感障碍为什么连罗伯特都不理我，为什么世界不能给我一点偏爱。;; X_post:我总是废话连篇; Y_reply:不会
+positive	X_history:何一二的天地 在吃纯黑巧抑制食欲，增强饱腹感了，真的不能再暴食下去了…各位，除了每日黑巧和诺梵，还有什么别的牌子嘛;何一二的天地 我的冷白皮，手上的疤和粑粑（我打算换一种风格咯，有点子期待的嘿嘿嘿）;何一二的天地 当愤怒战胜了恐惧，md老子现在强得可怕。死活过不去;何一二的天地 《图片仅供参考，产品请以实物为准》;何一二的天地 ?;抑郁症 暴饮暴食…不是有些人真的知道什么算暴饮暴食吗？？病区里有个14岁的，见到人就说自己是来戒暴饮暴食的。我问她吃了什么，她跟我说午饭吃了一份饭还有一盒薯片，说太罪恶了。这就算了，我忍了我又问她会不会吃到后面机械性进食，她一脸懵逼问我这是什么意思?我真的服了，别来沾边 ...全文;; X_post:我发表了头条文章:《郁海浮沉》 郁海浮沉; Y_reply:希望我也能遇到自己的b姐吧 [泪]
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;sky光遇代币到底在哪里！！！;我服了我人在江西我的IP先后跑了广东江苏我请问呢;大雨冲的我的IP四处乱漂;吴NANA 肚子上绣一个吴娜娜;潮汐tide 摸鱼摸了;; X_post:吴晛Hsien 一样……我没想到直接从男体爆改女体啊啊啊啊啊面皮好看但是这个长发有点……啊啊啊啊啊啊啊啊啊啊啊啊; Y_reply:哈哈哈哈哈哈哈哈哈哈哈哈爆改女娃
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;我… 唉:-(;跟朋友绝交了，我跟我妈说我今天休学，明年复读一年，这样就不会看见我所熟悉的人了，我怕我去学校看见她我忍不住哭，难受真的好难受哭了好长时间，我想歇会儿我累了，我怕去学校忍不住跳下去我真的会做出来，我怕我抑郁转双相，我怕他们讨厌我，我怕他们不喜欢我，我讨厌他们议论我，我讨厌！我妈说过 ...全文;没人在吧，偷偷放个小奶屁（崩！！！pongpong噗噗噗噗噗噗噗噗呲呲呲呲呲啊啊啊啊啊啊吖！！！！！！）（害羞）;高桥文哉这是哪套杂志或者有人出吗;陆光出出出;; X_post:时光代理人出出出; Y_reply:"[举手]"
+positive	X_history:身边人都成双成对，我真的很羡慕。我指的是友情不是爱情。今天在朋友圈看到三个朋友分享了自己和朋友的一百天火花纪念，羡慕的不是火花这个形式，而是背后日复一日的相互陪伴，扶持和鼓励，一次次坚定的选择对方。我不是任何人的首选，也没有人是我的首选。有一些朋友，却都是泛泛之交，没有好朋友， ...全文;双相情感障碍睡不着，好清醒。来聊天啊;全世界都去死，烦透了，真该死。;好怕暴露真实的自己。好怕被抛弃。;双相情感障碍我或许是一只老鼠吧，在阴暗的角落里偷窥别人的幸福，还把自己也伪装成幸福的样子。大家都在前进，只有我还在原地，一无所有。;双相情感障碍世界上就我一个人没闺蜜没对象是吧？;为什么我会变成这样，我恨一切;; X_post:双相情感障碍为什么连罗伯特都不理我，为什么世界不能给我一点偏爱。; Y_reply:@评论罗伯特 给我出来受死 [汗]
+negative	X_history:#虞书欣[超话]##超话星愿池# 啊啊啊啊啊啊啊啊啊宝宝你越来越好看啦！;#虞书欣[超话]##超话星愿池# “等迟暮冬天，等黄昏日落，等有你的冬天” "???? ??? ??? ??? ??????, ???? ??? ? ??????.";#虞书欣[超话]#宝宝，你皮肤状态好好;#虞书欣[超话]#;#虞书欣[超话]##枝枝横扫雪场# “在某个不知名的角落许你岁岁平安”   ???? ??? ???? ?? ?? ??????? ??????;#虞书欣[超话]##枝枝横扫雪场# “? 爱意随风起，风止意难平? ”;#虞书欣[超话]##枝枝横扫雪场##一只鱼头挂欣空# 宝宝你什么风格都适合哦;; X_post:#虞书欣[超话]##枝枝横扫雪场# ysx#一只鱼头挂欣空# ysx#虞书欣# 宝宝，你都多久没有发美照了; Y_reply:虞书欣
+negative	X_history:九尾XXZ一直陪着你@LGDNBW-九尾 ，加油?;杭州LGDNBW我对#九尾#的评分：#LGD对战VG#尾子今天c麻了！;九尾XXZ比赛加油，你们加油我们也加油！@LGDNBW-九尾;九尾XXZ四月一切顺利，卡位赛加油?@LGDNBW-九尾;#微博头像挂件# 嗨！给我来个小狐狸！我正在使用“小狐狸” 会员专属头像挂件，你也来试试吧！ 头像挂件：小狐狸;#微博卡片背景#我正在使用九尾XXZ的专属等级卡片背景，快来一起解锁超话惊喜装扮吧！ 网页链接;#LGD对战DRG#的比赛正在进行中,一起参与#2024KPL春季赛#话题讨论吧!九尾XXZ#LGD对战DRG#的比赛正在进行中,一起参与#2024KPL春季赛#话题讨论吧杭州LGDNBW加油?;; X_post:九尾XXZ明天卡位赛加油哦！在S组好好呆着吧！包相信你的呀@LGDNBW-九尾; Y_reply:包相信的
+positive	X_history:谁有攒猫粮?;锕锕锕锕锕锕锕锕锕窝滴女鹅好可爱?妈咪爱泥;报告 我家志鑫什么时候发高会;我靠 让我抽到红衣拍立得吧;神经;哎呀 又出息了鑫;你好 我请问呢?;找到了1元买svip? 网页链接;最近忙的要死掉啦;烦死了 dy和??影分家了是吧;早期的小棍子 窝一口一个?;怎么不去抢15包四张朱志鑫卡 还有一堆东西 梦想家嘛我请问 “可以走平台吗”;你滴最爱鑫鑫儿;谁有好看的发色推荐黑眼圈们;无聊k1;100年没看物料了 策划什么勾石;我也想橙??你们怎么橙的;是你嘛大帅比@TF家族-朱志鑫;晚睡?糖吃@腮猫折信;这是哪个物料啊求;养成系变选秀 你可以的;？ 要不看看我等你多久 在阴阳 去你妹的杀闭;一天发多少帖会炸号;能不能别给我推这种没营养的东西了 评论区全是求求求;; X_post:油铲 你妈妈不要你噜 出道战这么重要抛弃你了; Y_reply:惨惨的 [舔屏]
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺;抑郁症 推掉了晚上和明早的社交活动，希望有一个不被打扰的周末;抑郁症 晚安今天看了之前买的《小绿和小蓝》关于同理心的小故事;抑郁症 突然想起朋友来家里第一件事就是开窗帘，果然还是应该多开窗帘多晒太阳多看书多撸猫;抑郁症 晚安;抑郁症 晚安;抑郁症 晚安这几天状态不太好，希望明天有精力画画，加油！;抑郁症 晚安;; X_post:抑郁症 浅浅睡了一会，上午那个强烈念头几乎消失了，果然…我连做决定的勇气都没有; Y_reply:"[锦鲤附体]"
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;我… 唉:-(;跟朋友绝交了，我跟我妈说我今天休学，明年复读一年，这样就不会看见我所熟悉的人了，我怕我去学校看见她我忍不住哭，难受真的好难受哭了好长时间，我想歇会儿我累了，我怕去学校忍不住跳下去我真的会做出来，我怕我抑郁转双相，我怕他们讨厌我，我怕他们不喜欢我，我讨厌他们议论我，我讨厌！我妈说过 ...全文;没人在吧，偷偷放个小奶屁（崩！！！pongpong噗噗噗噗噗噗噗噗呲呲呲呲呲啊啊啊啊啊啊吖！！！！！！）（害羞）;高桥文哉这是哪套杂志或者有人出吗;陆光出出出;时光代理人出出出;哪个好看;; X_post:时光代理人周边交易所出出出，可单出; Y_reply:问3.5.13价
+negative	X_history:油饼锕;#朱志鑫[超话]#  zzx#朱志鑫 三代第一主舞#  zzx#朱志鑫 三代唯一门面#  “你是夏日的彩虹，给我的世界增添了色彩”??? ??? ??? ?????? ???????, ??? ????? ?? ?? ?????. ...全文;#朱志鑫[超话]#  zzx#和朱志鑫一起拥抱春天#  zzx#朱志鑫 三代第一主舞# “我的心也会像海浪一样为你跳动无数次” "?? ????? ???? ???? ??? ??? ???? ??? ????? ?? ??? ?? ...全文;今天dy好慢;; X_post:#朱志鑫[超话]# zzx#朱志鑫 三代第一主舞#  zzx#朱志鑫断层c位出道#  "枫叶飘向九月的乡野，我怀揣着心动与你邂逅""??? ????? ?????? ????? ?? ??? ????? ?????."@TF家族-朱志鑫; Y_reply:朱志鑫
+positive	X_history:九尾XXZ网页链接大家快去给这个微博下面的这条评论点赞助力拿到投票！;九尾XXZ晚上好，想你了哥，播一个吧@LGDNBW-九尾;九尾XXZ晚安啦尾子和八尾们，新的一天要开心哦！@LGDNBW-九尾;杭州LGDNBW我们现在年度总决赛的积分有多少啊？;九尾XXZ救命啊，我不会买到客队去了吧;九尾XXZ终于要去见你啦！@LGDNBW-九尾 顺便找一个一起领应援搭子或者小同桌，第一次去好紧张！;九尾XXZ有没有人能告诉我18号那场打estar我买的这个位置会不会看不到图图啊;杭州LGDNBW我们也能破三高翻盘！;九尾XXZ家人们谁能告诉我一下去线下领应援的要求嘛，我明天就要去见尾子了，第一次，没有什么经验，所以就来求助一下大家！;杭州LGDNBW张角你是看不见干将嘛？;; X_post:杭州LGDNBW有个流量大的中单就是好啊，输了有人替你背锅; Y_reply:糊就是菜最好的保护色 [汗]
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;sky光遇代币到底在哪里！！！;我服了我人在江西我的IP先后跑了广东江苏我请问呢;大雨冲的我的IP四处乱漂;吴NANA 肚子上绣一个吴娜娜;潮汐tide 摸鱼摸了;吴晛Hsien 一样……我没想到直接从男体爆改女体啊啊啊啊啊面皮好看但是这个长发有点……啊啊啊啊啊啊啊啊啊啊啊啊;#乐华虚拟偶像塌房#笑死了;好;; X_post:食物语手游玉麟香腰的家具池是哪个啊啊啊啊啊啊; Y_reply:新年那个，福禄满堂、
+positive	X_history:电视剧古相思曲#古相思曲# 今日上已，于是突发灵感写了篇小短打，可能有点生疏了，如有不妥，OCC致歉  专栏 · 古相思曲篇;我的母亲父亲 社会一切的“正派”使者 家长朋友温馨提示：病态思维，三观不正，别看，都这疯子的胡言乱语。似乎对待父母时爱与恶总是达不到一个平衡点，不然我也不必总是窝在角落或者躲的很远。我并不会想念的人是我这辈子都割舍不掉的。爱多于恶时，我会流泪，反之亦然。似乎不论天平多么倾斜，另一 ...全文;宥元你们按钮z也真是的;我是真不懂蚊子这种生物存在的意义;; X_post:不知道什么时候开始 忐忑 害怕 恐惧成了我内心出现最多的形容词有时候 也是稀里糊涂的 能在一个暂时的地方睡很久很久然而 回到了他们说的“属于我的地方”，我却有着不应该的：恐惧 发慌 继而失眠我害怕 我的家 我渴望离开 但却注定一生都在拉扯; Y_reply:这种心情真的很复杂 但是一定要相信自己可以克服
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;我… 唉:-(;跟朋友绝交了，我跟我妈说我今天休学，明年复读一年，这样就不会看见我所熟悉的人了，我怕我去学校看见她我忍不住哭，难受真的好难受哭了好长时间，我想歇会儿我累了，我怕去学校忍不住跳下去我真的会做出来，我怕我抑郁转双相，我怕他们讨厌我，我怕他们不喜欢我，我讨厌他们议论我，我讨厌！我妈说过 ...全文;没人在吧，偷偷放个小奶屁（崩！！！pongpong噗噗噗噗噗噗噗噗呲呲呲呲呲啊啊啊啊啊啊吖！！！！！！）（害羞）;高桥文哉这是哪套杂志或者有人出吗;陆光出出出;时光代理人出出出;哪个好看;时光代理人周边交易所出出出，可单出;; X_post:陆光出出出，可单出; Y_reply:问问便利店和p1
+negative	X_history:刘逸云 #amber2024巡演# #独立音乐人amber刘逸云# 漂亮的让我面红的可爱女人?温柔的让我心疼的可爱女人?聪明的让我感动的可爱女人?坏坏的让我疯狂的可爱女人?@刘逸云Amber 跟宝宝在同一个国度就很开心嘿嘿;刘逸云 #amber新浪扫楼# #amber2024巡演# 挪不开眼睛的美貌?@刘逸云Amber 宝宝你真好看;刘逸云 #amber秦马湖马蹄音乐节# #nomoresadsongstour2024# 整理完文件里的视频，才发现，香港拍的照片都没发出来什么叫极品拖延症啊我真服了自己倒出来留念一下吧哈哈哈哈哈哈 240224香港的@刘逸云Amber 宝宝;; X_post:2021-05-19 iWeekly周末画报 Amber?刘逸云：世界，请再给我一些纯粹 #独立音乐人amber刘逸云# #全世界最好的刘逸云#  P城流动摊贩-的微博视频; Y_reply:美死啦～～～～～～
+positive	X_history:棉花美娃娃有谁知道他叫什么吗？;白玉蜗牛大农还活着，就是状态不好，一直在壳里缩着，下午回来看到又出了些血#明珠蜗牛#;#马陆# 终于找到非洲巨马陆了！（卖家的图）;白玉蜗牛大农没再出血，排出了一些大概是受损的组织，我给夹下来放一边了。大农加油！#明珠蜗牛#;抑郁症我从一枚蛋蛋养起来的大农走了，他从高处摔下来之后坚持了整整4天，他终于自由了图一是两年前的他和兄弟姐妹们，图二是今早已经没有呼吸心跳的他。我好难受，感觉很空虚，又说不上是不是伤心。;鼠妇琥珀可以和巨马陆混养吗？;鼠妇刚入手的小琥珀！;白玉蜗牛被顶下来摔到的第七天，小臭臭也回蜗星了#明珠蜗牛# 它才两岁零10天大;抑郁症四年前今天画的停电的宿舍，当时还没有抑郁;; X_post:白玉蜗牛把大农的壳用洗衣凝珠泡上，洗干净就可以收藏了。大农的肉身得到了永恒的自由，只留下一个沉重的壳让我思念它。#明珠蜗牛#; Y_reply:别让自己太沉重 [抱抱]
+positive	X_history:-“春天距我只一米之遥”??@Noir_ou_blanc ?@-眠枝-;南京·惘闻·小巫师送了明信片好激动? 南京·1701 LIVE HOUSE MAX;双相日快乐?今年写壁纸;支个摊古风/日常/婚书/设计感/壁纸/背景/头像/明信片/金属徽章/水印/题字/无料/…欢迎来问啊啊啊?? 其他例图写写写写写写写约字;清明合札偷跑;最近的日常p1 热缩片挂件（接定制版p2 手链（盲盒版（第一次结合了手绳的感觉p3 我妈做的烤鱼p4 就不用多说了哈哈哈哈p5 你游愚人节谱但迟到版p6 景天三七（大蒜版p7 南京·南京林业大学 p8 晚课前一抬头p9 第一次做表情包明天假期最后一天噜（厌学情绪在此刻达到了顶峰 ...全文;转载了@是舒不是书_ 的微博图片又让我蹭上了;; X_post:学了药理的好处是可以在知道安全剂量的情况下紧急控制一下自己。（我写的落款真有意思; Y_reply:意识模糊书 "[老师爱你]"
+negative	X_history:九尾XXZ一直陪着你@LGDNBW-九尾 ，加油?;杭州LGDNBW我对#九尾#的评分：#LGD对战VG#尾子今天c麻了！;九尾XXZ比赛加油，你们加油我们也加油！@LGDNBW-九尾;九尾XXZ四月一切顺利，卡位赛加油?@LGDNBW-九尾;#微博头像挂件# 嗨！给我来个小狐狸！我正在使用“小狐狸” 会员专属头像挂件，你也来试试吧！ 头像挂件：小狐狸;#微博卡片背景#我正在使用九尾XXZ的专属等级卡片背景，快来一起解锁超话惊喜装扮吧！ 网页链接;#LGD对战DRG#的比赛正在进行中,一起参与#2024KPL春季赛#话题讨论吧!九尾XXZ#LGD对战DRG#的比赛正在进行中,一起参与#2024KPL春季赛#话题讨论吧杭州LGDNBW加油?;九尾XXZ明天卡位赛加油哦！在S组好好呆着吧！包相信你的呀@LGDNBW-九尾;; X_post:九尾XXZ宝宝明天卡位赛加油！相信你@LGDNBW-九尾; Y_reply:冲冲冲
+negative	X_history:#虞书欣[超话]##超话星愿池# 啊啊啊啊啊啊啊啊啊宝宝你越来越好看啦！;#虞书欣[超话]##超话星愿池# “等迟暮冬天，等黄昏日落，等有你的冬天” "???? ??? ??? ??? ??????, ???? ??? ? ??????.";#虞书欣[超话]#宝宝，你皮肤状态好好;#虞书欣[超话]#;#虞书欣[超话]##枝枝横扫雪场# “在某个不知名的角落许你岁岁平安”   ???? ??? ???? ?? ?? ??????? ??????;#虞书欣[超话]##枝枝横扫雪场# “? 爱意随风起，风止意难平? ”;#虞书欣[超话]##枝枝横扫雪场##一只鱼头挂欣空# 宝宝你什么风格都适合哦;#虞书欣[超话]##枝枝横扫雪场# ysx#一只鱼头挂欣空# ysx#虞书欣# 宝宝，你都多久没有发美照了;; X_post:#虞书欣[超话]##枝枝横扫雪场# ysx#一只鱼头挂欣空# ysx#虞书欣#; Y_reply:[心]
+negative	X_history:????“擠出來的日常”? 在火星开飞机的微博视频;????????????;今天应该算发作了吧，我用指甲扣了手给抠破皮了【没有哭】，没有刀好用，没有见? 我还用了牙牙长时间啃的话只会肿，其他什么也不会，好没意思，刮眉刀最好用了;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;OK成功恢复到3年前的状态，没人玩，一个人独行，随时就去死，跳楼挺不错的，就是死状有点儿恶心，溺水之前试过，没成功;没人玩 能活下去吗我讨厌孤单;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;笑死我了【我也不想看这个 求断】;高桥文哉收周边带价来;靠我姨姨【不是亲的】来我姐店做指甲，一来就说你家好吃的是不是都让你吃了，神经病吧，我打开手机看个时间说，现在的孩子一个个都有手机。我真他妈服了啊，怪不得别人都不喜欢跟你玩;; X_post:#iPhone16价格#所以多少钱; Y_reply:这个我还真不知道
+negative	X_history:@MBTI小行家 我是什么？;镭塔棉娃幼稚园 ?镭塔棉娃幼稚园超话规则——（发帖前必看）  1.   本超话一切建立在认同“一个中国”原则、尊重中国主权和领土完整的前提下。欢迎各位进行和平友好的分享交流，zzlc不正确的帖子及用户一经发现一律永久屏蔽  2.   禁止引战，人身攻击，歧视，攀比，拉踩嘲讽他人等行为， ...全文;人被困在高考的囚笼里了所以IP代替我出去旅游是吧好好好;对不起，我抑制不住内心的喜悦！我在原神棉花娃娃超话等级达到LV.4，获得小有名气头衔，快来恭喜我吧~ 传送门>>原神棉花娃娃;我在oner超话等级达到LV.8，获得羊羊头衔，老铁双击666，来 oner与我畅聊吧！;; X_post:我在原神棉花娃娃超话等级达到LV.5，获得初见美名头衔，小伙伴们快来加入超话一起聊聊吧！超话传送门→原神棉花娃娃; Y_reply:哈哈，初见美名，这头衔不错！咱们超话里见，一起聊聊原神棉花娃娃，老孙我也得去涨涨见识。
+negative	X_history:????“擠出來的日常”? 在火星开飞机的微博视频;????????????;今天应该算发作了吧，我用指甲扣了手给抠破皮了【没有哭】，没有刀好用，没有见? 我还用了牙牙长时间啃的话只会肿，其他什么也不会，好没意思，刮眉刀最好用了;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;OK成功恢复到3年前的状态，没人玩，一个人独行，随时就去死，跳楼挺不错的，就是死状有点儿恶心，溺水之前试过，没成功;没人玩 能活下去吗我讨厌孤单;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;笑死我了【我也不想看这个 求断】;高桥文哉收周边带价来;; X_post:靠我姨姨【不是亲的】来我姐店做指甲，一来就说你家好吃的是不是都让你吃了，神经病吧，我打开手机看个时间说，现在的孩子一个个都有手机。我真他妈服了啊，怪不得别人都不喜欢跟你玩; Y_reply:有时候，真诚和幽默可以化解误会，试着换个角度想问题吧。
+positive	X_history:昨天跟咨询师讨论，为什么我会觉得这两年是我觉得自己状态最好的。一方面比较了国外和国内。  另一方面，我说我的自我察觉能力越来越好，发现不对我会去寻求帮助，医生也好或者病友包括咨询师。但咨询师说，其实你原来自我觉察能力也很强，只不过没有那样做。但今天意识到，其实我会自我调节了吧。 ...全文;#重庆警方通报一女子高空抛子# 评论看的好揪心“判死刑、一命抵一命、精神病人没资格结婚生子、精神病人就该关在精神病院……”可谁懂，清晰过来，是有多绝望。更没人在意为什么会这样。只有谴责。;; X_post:觉得没有不对自己好的理由。想不出一点。中午看到自己检查报告所想到的。意料之外，又在情理之中，都是自己造成的。未来三年有了着落，也已经开始了四个月的假期。疯狂的购物，买了一直想买的冰鞋。可进食问题还是很严重，代偿行为也越来越过分。对自己身体伤害很大，但依旧做，今天思考为什么这样 ...全文; Y_reply:是上岸了嘛好棒啊 [打call]
+positive	X_history:靠 今天一练，我现在睡不着还有四个小时;这个包是哪家的啊，或者有图吗;我朋友说这太丑了 谁啊笑死我了;张极周边中转站出出出;超过三天情绪不好，按照医生的话就是该加药了;张极周边中转站出出出，小礼物多多;我… 唉:-(;跟朋友绝交了，我跟我妈说我今天休学，明年复读一年，这样就不会看见我所熟悉的人了，我怕我去学校看见她我忍不住哭，难受真的好难受哭了好长时间，我想歇会儿我累了，我怕去学校忍不住跳下去我真的会做出来，我怕我抑郁转双相，我怕他们讨厌我，我怕他们不喜欢我，我讨厌他们议论我，我讨厌！我妈说过 ...全文;没人在吧，偷偷放个小奶屁（崩！！！pongpong噗噗噗噗噗噗噗噗呲呲呲呲呲啊啊啊啊啊啊吖！！！！！！）（害羞）;高桥文哉这是哪套杂志或者有人出吗;陆光出出出;时光代理人出出出;哪个好看;时光代理人周边交易所出出出，可单出;陆光出出出，可单出;; X_post:时光代理人周边交易所出出出; Y_reply:回复@希挽梦:包吗
+positive	X_history:何一二的天地 在吃纯黑巧抑制食欲，增强饱腹感了，真的不能再暴食下去了…各位，除了每日黑巧和诺梵，还有什么别的牌子嘛;何一二的天地 我的冷白皮，手上的疤和粑粑（我打算换一种风格咯，有点子期待的嘿嘿嘿）;何一二的天地 当愤怒战胜了恐惧，md老子现在强得可怕。死活过不去;何一二的天地 《图片仅供参考，产品请以实物为准》;何一二的天地 ?;抑郁症 暴饮暴食…不是有些人真的知道什么算暴饮暴食吗？？病区里有个14岁的，见到人就说自己是来戒暴饮暴食的。我问她吃了什么，她跟我说午饭吃了一份饭还有一盒薯片，说太罪恶了。这就算了，我忍了我又问她会不会吃到后面机械性进食，她一脸懵逼问我这是什么意思?我真的服了，别来沾边 ...全文;我发表了头条文章:《郁海浮沉》 郁海浮沉;何一二的天地 换个赛道?（天选美瞳人，三分钟就戴进去了嘿嘿嘿嘿）;; X_post:何一二的天地 这两周的一丢丢??（吃吃吃吃吃吃喝喝喝喝喝; Y_reply:好棒的9格， [亲亲]
+positive	X_history:们喂猫别别人说什么就做什么信什么听什么行吗？没有自己脑子啊？;比邓薇更0的，对不起，百度搜不到。比邓薇老公更多的，对不起，网络无法连接。你让邓薇在800米终点等我，我让你知道什么叫速度；给我一张关于薇嬷的试卷，我让你知道什么叫学霸；给我一堂关于邓薇的课，我让你知道什么叫认真；你在我面前说邓薇的坏话，我让你知道什么叫生无可恋;预言一波，邓薇三天内必营业;维全是一个巨大的马戏团，这一个戏演完了，就看那一个演，这一个bb完了，就看那一个bb，俨然一副众人皆醉我独醒的感觉，其实都是沙币啊;好喜欢潮湿的空气味儿;能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日 ...全文;; X_post:预言一波邓薇明天出来玩; Y_reply:爱信等 "[汪洋海蓝比心]"
+negative	X_history:抑郁症祝我月考顺利，不要再在考场上集中不了注意力啦……;抑郁症现在心情异常平静，甚至还挺好的，一点都不烦。居然还开始变困了。。。震撼。好久没体验过了。有没有人能莫名其妙找我聊莫名其妙的东西，因为我现在莫名其妙的无聊;抑郁症下雨心情会变成平静的差，大太阳又会烦躁，;抑郁症如果可以我希望我可以带给所有人正能量，我希望所有人都越来越好，若牺牲我一个人就可以换来大家的幸福，那真是太好了。我的死亡不再是无意义的，是值得怀念的，是我生命唯一一件值得怀念的事，也或许是在生命之外。当做乱码看吧，因为我现在挺困的，只是想要发一点什么而已。好像正常 ...全文;; X_post:抑郁症好漂亮的奶茶杯子，水珠在光下像璀璨的星星，「百愿」已经做到一半啦，幸福感满满，好久没有这么干劲十足地做事了。我先把ID打码，希望如果有想要匿名的可以来找我，现在的格式是每个人都是一个愿望。其实在想有没有更好的方式表现出来，剪视频画画什么的我都不太行……总归还是谢谢大 ...全文; Y_reply:好棒 "[送花花]"
+positive	X_history:何一二的天地 在吃纯黑巧抑制食欲，增强饱腹感了，真的不能再暴食下去了…各位，除了每日黑巧和诺梵，还有什么别的牌子嘛;何一二的天地 我的冷白皮，手上的疤和粑粑（我打算换一种风格咯，有点子期待的嘿嘿嘿）;何一二的天地 当愤怒战胜了恐惧，md老子现在强得可怕。死活过不去;何一二的天地 《图片仅供参考，产品请以实物为准》;何一二的天地 ?;抑郁症 暴饮暴食…不是有些人真的知道什么算暴饮暴食吗？？病区里有个14岁的，见到人就说自己是来戒暴饮暴食的。我问她吃了什么，她跟我说午饭吃了一份饭还有一盒薯片，说太罪恶了。这就算了，我忍了我又问她会不会吃到后面机械性进食，她一脸懵逼问我这是什么意思?我真的服了，别来沾边 ...全文;我发表了头条文章:《郁海浮沉》 郁海浮沉;何一二的天地 换个赛道?（天选美瞳人，三分钟就戴进去了嘿嘿嘿嘿）;何一二的天地 这两周的一丢丢??（吃吃吃吃吃吃喝喝喝喝喝;; X_post:何一二的天地 是谁！收到了第一份生日礼物！我我我我！我咨送我的啊啊啊啊啊; Y_reply:生日快乐！
+positive	X_history:们喂猫别别人说什么就做什么信什么听什么行吗？没有自己脑子啊？;比邓薇更0的，对不起，百度搜不到。比邓薇老公更多的，对不起，网络无法连接。你让邓薇在800米终点等我，我让你知道什么叫速度；给我一张关于薇嬷的试卷，我让你知道什么叫学霸；给我一堂关于邓薇的课，我让你知道什么叫认真；你在我面前说邓薇的坏话，我让你知道什么叫生无可恋;预言一波，邓薇三天内必营业;维全是一个巨大的马戏团，这一个戏演完了，就看那一个演，这一个bb完了，就看那一个bb，俨然一副众人皆醉我独醒的感觉，其实都是沙币啊;好喜欢潮湿的空气味儿;能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日 ...全文;预言一波邓薇明天出来玩;预言一波邓薇今天粗来玩;; X_post:好吃爱吃; Y_reply:麻辣烫嘛
+positive	X_history:们喂猫别别人说什么就做什么信什么听什么行吗？没有自己脑子啊？;比邓薇更0的，对不起，百度搜不到。比邓薇老公更多的，对不起，网络无法连接。你让邓薇在800米终点等我，我让你知道什么叫速度；给我一张关于薇嬷的试卷，我让你知道什么叫学霸；给我一堂关于邓薇的课，我让你知道什么叫认真；你在我面前说邓薇的坏话，我让你知道什么叫生无可恋;预言一波，邓薇三天内必营业;维全是一个巨大的马戏团，这一个戏演完了，就看那一个演，这一个bb完了，就看那一个bb，俨然一副众人皆醉我独醒的感觉，其实都是沙币啊;好喜欢潮湿的空气味儿;能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日 ...全文;预言一波邓薇明天出来玩;预言一波邓薇今天粗来玩;好吃爱吃;; X_post:仙女; Y_reply:仙女妈咪 [舔屏]
+negative	X_history:以闪亮之名 故山萘的微博视频;赵丽颖#赵丽颖沈璃# zly#赵丽颖陆贞# 早期“雾似雾起 瞒住千万的繁星 似雾落 藏不住对你的爱似意”@赵丽颖;赵丽颖#赵丽颖沈璃#zly#赵丽颖与凤行#以花之名 言我所爱. @赵丽颖;以闪亮之名宝宝，你是一块蓝莓蛋糕;#赵丽颖给熊猫玩偶喂水# zly#赵丽颖# zly#赵丽颖沈璃#月亮不会奔向你 但我会 不远万里的那种@赵丽颖 别负驰厌的微博视频;#赵丽颖沈璃# zly#赵丽颖# “你独占我的春，也融入我的四季”"??? ??????? ??? ????? ???? ?? ???? ???????."@赵丽颖;以闪亮之名有没有宝宝知道这个是什么动作，好可爱，刚开始那会儿拍的，现在找不到了;抑郁症一直耳鸣;#赵丽颖李红樱# zly#赵丽颖沈璃# zly#赵丽颖与凤行# 风吹到的地方遍地都是思念??? ??? ????? ?? ??? ?????, ?????????? ?? ??????@赵丽颖;; X_post:抑郁症有点分不清梦境现实是怎么回事; Y_reply:[抱抱]
+positive	X_history:抑郁症 晚安今天仍然是没有画画的一天，忙了一整天感觉时间过得很快，晚饭是和同事在外面吃的，6点到9点这段时间过得很煎熬，毕竟我只是假装开心和他们聊天，只有回到家才能放松下来，我讨厌社交;抑郁症 晚安今天是画画的第25天，还是不会画眼睛，明天找找教程好了虽然加班到晚上十点但是在家加班比在办公室好不止一百倍，而且晚上还吃到了非常好吃的香菇蒸饺;抑郁症 推掉了晚上和明早的社交活动，希望有一个不被打扰的周末;抑郁症 晚安今天看了之前买的《小绿和小蓝》关于同理心的小故事;抑郁症 突然想起朋友来家里第一件事就是开窗帘，果然还是应该多开窗帘多晒太阳多看书多撸猫;抑郁症 晚安;抑郁症 晚安;抑郁症 晚安这几天状态不太好，希望明天有精力画画，加油！;抑郁症 晚安;抑郁症 浅浅睡了一会，上午那个强烈念头几乎消失了，果然…我连做决定的勇气都没有;; X_post:抑郁症 说起来，今天陪妈妈去公墓，看到有旁边有个墓碑没有名字没有时间，除了“器官捐献者”几个灰扑扑的字以外，什么都没有，我掏出随身带着的湿巾擦了一下; Y_reply:[抱抱]
+negative	X_history:抑郁症祝我月考顺利，不要再在考场上集中不了注意力啦……;抑郁症现在心情异常平静，甚至还挺好的，一点都不烦。居然还开始变困了。。。震撼。好久没体验过了。有没有人能莫名其妙找我聊莫名其妙的东西，因为我现在莫名其妙的无聊;抑郁症下雨心情会变成平静的差，大太阳又会烦躁，;抑郁症如果可以我希望我可以带给所有人正能量，我希望所有人都越来越好，若牺牲我一个人就可以换来大家的幸福，那真是太好了。我的死亡不再是无意义的，是值得怀念的，是我生命唯一一件值得怀念的事，也或许是在生命之外。当做乱码看吧，因为我现在挺困的，只是想要发一点什么而已。好像正常 ...全文;抑郁症好漂亮的奶茶杯子，水珠在光下像璀璨的星星，「百愿」已经做到一半啦，幸福感满满，好久没有这么干劲十足地做事了。我先把ID打码，希望如果有想要匿名的可以来找我，现在的格式是每个人都是一个愿望。其实在想有没有更好的方式表现出来，剪视频画画什么的我都不太行……总归还是谢谢大 ...全文;; X_post:希望所有人都好好的，只是我应该得早点去死了; Y_reply:一起，路上有个伴
+positive	X_history:抑郁症啊头疼;抑郁症我是一个从小被否定到大的人你要我如何自信.;抑郁症世界以痛吻我我痛死.世界以痛吻我我痛死.;抑郁症这个世界上真的没有感同身受,只有冷暖自知。;抑郁症我也会有心酸和委屈,可是我说给谁听,可谁又会听我说呢;抑郁症我好像真的感觉不到我在活着。;抑郁症又一次被情绪吞噬被黑暗包裹着没有人能救得了我我有点累了撑不下去了。;抑郁症死亡就是轰轰烈烈了一场,最后累了,就躺进了一个小盒子里.;抑郁症他们都叫我好好活着但是活着好累你说我要不要活.;抑郁症我本该炽热的青春自卑却占了一大半.;抑郁症死亡很大,我们是他嘴巴里发出的笑声,当我们以为站在生命中时,死亡也大胆地在我们中间哭泣;; X_post:抑郁症我有时候会觉得大家并不喜欢那个真正的我。在网络上，我总是善于伪装，看起来每天都很快乐，无忧无虑，没有烦恼。我的生活也看起来很简单，没有很多人向往的灯红酒绿，纸醉金迷。我很宅，喜欢打游戏，现实中的我并不像网上这么有趣。我其实话很少，最爱干的事是一个人发呆。这样枯燥的我 ...全文; Y_reply:谢谢你，莫名其妙笑了一下
+negative	X_history:抑郁症吃奥沙西畔睡觉会睡一会醒一次大喊大叫吗;#原生家庭[超话]#不想结婚不想生孩子不配做母亲悲剧的家庭暴力酗酒出轨的父亲被驯化暴怒强势的母亲浑浑噩噩的弟弟抑郁焦虑的我;抑郁症我变得比不上以前的自己感知不到自己是否活着重复麻木;为什么一停药就控制不住情绪还会被打被骂;抑郁症感觉自己什么都做不好一天天的只在刷手机不想做一个傻子我母亲说我疯了好烦停药了连情绪都控制不好行为也有点奇怪了;不知道自己未来要怎么活算了这样的世界能活下去再说吧;抑郁症害怕自己脑萎缩变得更傻但是又不想吃药怕以后没有药吃再停药的折腾世界不消停要是算了没有要是被打被骂被自己的亲人赶出来现在真的不知道自己要怎么办了停药情绪波动大右眼现在还有点不太舒服了;抑郁症感觉自己就像阴沟里的老鼠他们说着我思想有问题说医生说这个病就是思想有问题然后另一个说好吃好喝养着养大了她自己要废也没有办法;; X_post:抑郁症抑郁症白天不知道怎么活用点脑力就觉得累注意力也不太集中无法思考太多的事晚上的时候脑力倒是很活跃能思考一点事了就是睡不着还有耳鸣; Y_reply:[抱抱]
+negative	X_history:抑郁症 快夸我我把家里放了一年的水电池? 卖掉了… 主要怕着火 家里又有猫   今年的电池事故太多了 虽然买的时候 400 多 卖了只有80元但真的拖了一年 …   太不容易了我;抑郁症 我耳钉今天还差点掉一个  啊啊啊啊 咋这么多事搞我心态;抑郁症 我完成了 我的一个梦想 ～ @杨舒予YSY 好好生活;抑郁症 没睡着被蚊子叮醒 开始购物;抑郁症 睡觉睡觉 有点恶心了;抑郁症 睡觉;抑郁症 每次4.1 就会想起你 当然平时也会想 只是 4.1 不再是愚人节 而是你的日子 。。。  我之前想过 … 的日子也是4.1 就怕万一… 希望活着的人都好好的吧;抑郁症 惨了 做了一件很坏很坏的事情;杨舒予 4.3 广东队平安完赛哦;抑郁症 来大姨妈了 … 恭喜 推迟5天了 这几天超级烦;#WCBA联赛# 我已为@杨舒予YSY  送出花瓣！新赛季我与你同在~WCBA球员势力榜;; X_post:抑郁症 要给充电宝充电 躺下3次了 …… 起来3次  就是忘记; Y_reply:在床上做仰卧起坐，躺下了，想起来了，坐起来了，忘了 [跪了]
+negative	X_history:抑郁症就取点钱整天跑这跑那的，好烦;抑郁症…………无语死了收了四本小说有一本盗版;抑郁症大半夜的好恐慌，爸爸因为遗传爷爷的病治不好去世了，我会不会也会被遗传;还好另一个画师是接稿时间较长的，问了大概再过两天就出草稿了，不然我真的要哭了;收拾书架发现有好几套书找不着了，还好是充的复数;都给我去s吧.到时候回来知道了又该打我了，说我什么明明知道她是一个老人，你也不看着点，养你还不如养一条狗，狗还知道看家呢;抑郁症气的我胸口疼;抑郁症一肚子气，回来看见果然骂我了，当时我就蚌埠住了骂了一通，也不说我了，果然还是发疯管用;抑郁症一顿吵之后都给我赔笑脸了，跟我笑着说话还有点不适应;桑稚????????? ?? ????? ??? ????????, ??? ??? ?? ??????? ?????? ??? ?????. 山野千里，你是我藏在星星里的浪漫?;; X_post:桑稚热爱漫无边际 生活自有分寸.???? ?? ?????????. ???? ??? ??? ??? ??????????.; Y_reply:"[送花花]"
+positive	X_history:新加坡时隔三年又来尝了尝这家汉堡店的蘑菇牛肉汉堡加煎蛋，味道很不错，牛肉很多汁Fatboy's Burger Bar Upper Thomson#美食# 新加坡·Fatboys the Burger Bar;旅行东航这次飞机餐还不错 #旅行#;旅行刚到青岛就吃了海胆水饺和鲍鱼嘿嘿#旅行# #美食# 青岛·青岛胶东国际机场;抑郁症刚下高铁就赶去看威海大相框，感觉夜晚的大相框更美了呢 #旅行# 威海·威海大相框;抑郁症到猫头山了 吹着海风 内心非常的平静 #旅行# 威海·猫头山;旅行去半月湾看海鸥了，海真的好漂亮，然后去吃了海鲜和鲅鱼水饺，30多块那么一大盘扇贝，好便宜#旅行# #美食# 威海·半月湾沙滩;新加坡最近有点馋甜品了就去尝了一家在宏茂桥的甜品店的奶茶绵绵冰加榴莲，口感很绵密，还配抹茶冻，豆花还有小汤圆，值得一试Ji De Chi Dessert 记得吃甜点#美食# 新加坡·宏茂桥;; X_post:抑郁症肚子疼，睡不着，又开始写遗书了，本来想着写着写着就能睡着，没想到现在困意全无，还特别想哭; Y_reply:[抱抱]
+positive	X_history:们喂猫别别人说什么就做什么信什么听什么行吗？没有自己脑子啊？;比邓薇更0的，对不起，百度搜不到。比邓薇老公更多的，对不起，网络无法连接。你让邓薇在800米终点等我，我让你知道什么叫速度；给我一张关于薇嬷的试卷，我让你知道什么叫学霸；给我一堂关于邓薇的课，我让你知道什么叫认真；你在我面前说邓薇的坏话，我让你知道什么叫生无可恋;预言一波，邓薇三天内必营业;维全是一个巨大的马戏团，这一个戏演完了，就看那一个演，这一个bb完了，就看那一个bb，俨然一副众人皆醉我独醒的感觉，其实都是沙币啊;好喜欢潮湿的空气味儿;; X_post:能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日 ...全文; Y_reply:回复@邓为美得好过分:是啊，我这样阅尽千帆的还好，对于一些初恋的宝宝来说，真的好残忍，真是考验人啊 [悲伤]
+positive	X_history:棉花美娃娃有谁知道他叫什么吗？;白玉蜗牛大农还活着，就是状态不好，一直在壳里缩着，下午回来看到又出了些血#明珠蜗牛#;#马陆# 终于找到非洲巨马陆了！（卖家的图）;白玉蜗牛大农没再出血，排出了一些大概是受损的组织，我给夹下来放一边了。大农加油！#明珠蜗牛#;抑郁症我从一枚蛋蛋养起来的大农走了，他从高处摔下来之后坚持了整整4天，他终于自由了图一是两年前的他和兄弟姐妹们，图二是今早已经没有呼吸心跳的他。我好难受，感觉很空虚，又说不上是不是伤心。;鼠妇琥珀可以和巨马陆混养吗？;鼠妇刚入手的小琥珀！;白玉蜗牛被顶下来摔到的第七天，小臭臭也回蜗星了#明珠蜗牛# 它才两岁零10天大;抑郁症四年前今天画的停电的宿舍，当时还没有抑郁;白玉蜗牛把大农的壳用洗衣凝珠泡上，洗干净就可以收藏了。大农的肉身得到了永恒的自由，只留下一个沉重的壳让我思念它。#明珠蜗牛#;; X_post:白玉蜗牛又用酒精泡上了，它们不脏，只是肉体在腐化过程中会产生大量的有害菌。不得不说大农的壳真的很沉，感觉比手机重。#明珠蜗牛#; Y_reply:小心，酒精是易燃品，千万注意安全！
+negative	X_history:????“擠出來的日常”? 在火星开飞机的微博视频;????????????;今天应该算发作了吧，我用指甲扣了手给抠破皮了【没有哭】，没有刀好用，没有见? 我还用了牙牙长时间啃的话只会肿，其他什么也不会，好没意思，刮眉刀最好用了;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;OK成功恢复到3年前的状态，没人玩，一个人独行，随时就去死，跳楼挺不错的，就是死状有点儿恶心，溺水之前试过，没成功;没人玩 能活下去吗我讨厌孤单;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;笑死我了【我也不想看这个 求断】;高桥文哉收周边带价来;靠我姨姨【不是亲的】来我姐店做指甲，一来就说你家好吃的是不是都让你吃了，神经病吧，我打开手机看个时间说，现在的孩子一个个都有手机。我真他妈服了啊，怪不得别人都不喜欢跟你玩;#iPhone16价格#所以多少钱;; X_post:我天 我不敢跟别人说我不开心的事情了，我怕我的负面情绪影响到它，怕它受到伤害，唉 尽量隐藏自己吧; Y_reply:抱抱你，小猫咪也需要被理解和关心哦
+positive	X_history:哦不。;想休学，但是休学以后可能又要重新适应很多东西，撑着把这三年多上完算了;感觉老公这个口癖久了之后总有一天我会在和我姐聊天的时候不小心顺手打成老公。。。;每天支撑我吃早饭的只有我早上要吃药爬起来吃早饭让我觉得特别痛苦;又想到sc的时候了，我对sc的印象就是好不真实，因为坐的太远了人也看不清，时间也短，好想好想看他们的演唱会;在你没有给我回信息的二十几分钟里你是真的没看手机懒得回还是像我一样面对着那样的信息不知所措;感觉上学快给自己上成厌食症了;无感，但是这个造型好帅（huq补药误伤我）;下次去医院复诊我要问一下医生到底给我的什么诊断。差不多小半年了不知道我到底什么情况;其实我挺喜欢don't look back的，倒不是说多好听，我高三快高考的那几个月这首歌刚好出了，听了好几个月一直到我高考，所以还蛮……每次听都会小小的怀念一下，高三的时候真的很美好;我完蛋了（后面还有但是我没拍） 30个症状我可能中了28个;咳嗽鼻塞吃以下哪种感冒药1感康2九九九感冒灵3荆防颗粒4桉柠蒎肠溶胶囊，我现在快死了;; X_post:？; Y_reply:？
+positive	X_history:澜久早早早做了猫猫简单卡背，想自印小卡，求好看的卡背;范丞丞?#范丞丞小巷人家# ?#范丞丞庄图南# “为初恋之神提笔 以爱的名义” ??????? ??? ??? ??? ?? ????? ???? ?? ??? ???? ?? ????【范丞丞小巷 ...全文;黄俊捷#向全世界安利黄俊捷# #黄俊捷最让我心动的瞬间# 啊啊啊啊啊啊啊，这一组我直接尖叫，太太太太纯了@黄俊捷H;#凤囚凰或将翻拍#希望好好选角，剧情还原;#致命游戏 爱奇艺海外版#什么?你也在关注致命游戏！双男主无限流题材，悬疑恐怖，感兴趣的家人们一定不要错过。请多多支持我们致命游戏，多多支持两位主演@黄俊捷H @X玖少年团夏之光;范丞丞?#范丞丞扫黑拨云见日#? #范丞丞小巷人家# 繁星之下盼晨曦，黄昏之后思蝉鸣，皎月清凉你是我的方向. ??????? ????? ????, ??? ?????? ???? ?? ????, ???  ...全文;澜久我得留张影，以后我们就是巧克力元老了;; X_post:澜久啊啊啊啊啊啊，我要闹了，到底要咋弄啊; Y_reply:要用泰线
+negative	X_history:????“擠出來的日常”? 在火星开飞机的微博视频;????????????;今天应该算发作了吧，我用指甲扣了手给抠破皮了【没有哭】，没有刀好用，没有见? 我还用了牙牙长时间啃的话只会肿，其他什么也不会，好没意思，刮眉刀最好用了;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;OK成功恢复到3年前的状态，没人玩，一个人独行，随时就去死，跳楼挺不错的，就是死状有点儿恶心，溺水之前试过，没成功;没人玩 能活下去吗我讨厌孤单;张极周边中转站出出出，小礼物多多;TF三代周边中转站出出出，小礼物多多;笑死我了【我也不想看这个 求断】;高桥文哉收周边带价来;靠我姨姨【不是亲的】来我姐店做指甲，一来就说你家好吃的是不是都让你吃了，神经病吧，我打开手机看个时间说，现在的孩子一个个都有手机。我真他妈服了啊，怪不得别人都不喜欢跟你玩;#iPhone16价格#所以多少钱;我天 我不敢跟别人说我不开心的事情了，我怕我的负面情绪影响到它，怕它受到伤害，唉 尽量隐藏自己吧;; X_post:时光代理人出出出; Y_reply:好看买不起 [哈哈]
+positive	X_history:们喂猫别别人说什么就做什么信什么听什么行吗？没有自己脑子啊？;比邓薇更0的，对不起，百度搜不到。比邓薇老公更多的，对不起，网络无法连接。你让邓薇在800米终点等我，我让你知道什么叫速度；给我一张关于薇嬷的试卷，我让你知道什么叫学霸；给我一堂关于邓薇的课，我让你知道什么叫认真；你在我面前说邓薇的坏话，我让你知道什么叫生无可恋;预言一波，邓薇三天内必营业;维全是一个巨大的马戏团，这一个戏演完了，就看那一个演，这一个bb完了，就看那一个bb，俨然一副众人皆醉我独醒的感觉，其实都是沙币啊;好喜欢潮湿的空气味儿;能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日工作室啊能不能日 ...全文;预言一波邓薇明天出来玩;预言一波邓薇今天粗来玩;好吃爱吃;仙女;; X_post:#食物语停运#以后还有机会把食魂们都带回空桑吗？; Y_reply:呜呜呜 [泪]
+positive	X_history:九尾XXZ网页链接大家快去给这个微博下面的这条评论点赞助力拿到投票！;九尾XXZ晚上好，想你了哥，播一个吧@LGDNBW-九尾;九尾XXZ晚安啦尾子和八尾们，新的一天要开心哦！@LGDNBW-九尾;杭州LGDNBW我们现在年度总决赛的积分有多少啊？;九尾XXZ救命啊，我不会买到客队去了吧;九尾XXZ终于要去见你啦！@LGDNBW-九尾 顺便找一个一起领应援搭子或者小同桌，第一次去好紧张！;九尾XXZ有没有人能告诉我18号那场打estar我买的这个位置会不会看不到图图啊;杭州LGDNBW我们也能破三高翻盘！;九尾XXZ家人们谁能告诉我一下去线下领应援的要求嘛，我明天就要去见尾子了，第一次，没有什么经验，所以就来求助一下大家！;杭州LGDNBW张角你是看不见干将嘛？;杭州LGDNBW有个流量大的中单就是好啊，输了有人替你背锅;九尾XXZ你今天超棒的！@LGDNBW-九尾;九尾XXZ这个位置会偏向客队嘛？;; X_post:九尾XXZ“我粉我也”都滚！九尾自从回到赛场之后状态就是很好！！！; Y_reply:说是九尾粉丝 贬低的话一句没少  盼着点好吧  尾子一直很好
+negative	X_history:抑郁症祝我月考顺利，不要再在考场上集中不了注意力啦……;抑郁症现在心情异常平静，甚至还挺好的，一点都不烦。居然还开始变困了。。。震撼。好久没体验过了。有没有人能莫名其妙找我聊莫名其妙的东西，因为我现在莫名其妙的无聊;抑郁症下雨心情会变成平静的差，大太阳又会烦躁，;抑郁症如果可以我希望我可以带给所有人正能量，我希望所有人都越来越好，若牺牲我一个人就可以换来大家的幸福，那真是太好了。我的死亡不再是无意义的，是值得怀念的，是我生命唯一一件值得怀念的事，也或许是在生命之外。当做乱码看吧，因为我现在挺困的，只是想要发一点什么而已。好像正常 ...全文;抑郁症好漂亮的奶茶杯子，水珠在光下像璀璨的星星，「百愿」已经做到一半啦，幸福感满满，好久没有这么干劲十足地做事了。我先把ID打码，希望如果有想要匿名的可以来找我，现在的格式是每个人都是一个愿望。其实在想有没有更好的方式表现出来，剪视频画画什么的我都不太行……总归还是谢谢大 ...全文;希望所有人都好好的，只是我应该得早点去死了;; X_post:当一个人觉得自己随时会死的时候，什么事都无所谓了; Y_reply:对，早死早解脱
+negative	X_history:抑郁症祝我月考顺利，不要再在考场上集中不了注意力啦……;抑郁症现在心情异常平静，甚至还挺好的，一点都不烦。居然还开始变困了。。。震撼。好久没体验过了。有没有人能莫名其妙找我聊莫名其妙的东西，因为我现在莫名其妙的无聊;抑郁症下雨心情会变成平静的差，大太阳又会烦躁，;抑郁症如果可以我希望我可以带给所有人正能量，我希望所有人都越来越好，若牺牲我一个人就可以换来大家的幸福，那真是太好了。我的死亡不再是无意义的，是值得怀念的，是我生命唯一一件值得怀念的事，也或许是在生命之外。当做乱码看吧，因为我现在挺困的，只是想要发一点什么而已。好像正常 ...全文;抑郁症好漂亮的奶茶杯子，水珠在光下像璀璨的星星，「百愿」已经做到一半啦，幸福感满满，好久没有这么干劲十足地做事了。我先把ID打码，希望如果有想要匿名的可以来找我，现在的格式是每个人都是一个愿望。其实在想有没有更好的方式表现出来，剪视频画画什么的我都不太行……总归还是谢谢大 ...全文;希望所有人都好好的，只是我应该得早点去死了;当一个人觉得自己随时会死的时候，什么事都无所谓了;; X_post:好活不如赖死; Y_reply:对
+negative	X_history:抑郁症患精神病最糟的是大家都期待你装没病;抑郁症想死之人你是拉不了我上岸的更劝不住我想自sha心;抑郁症我不光容貌焦虑我还游戏技术焦虑成绩焦虑社交焦虑我快焦糊了;抑郁症晚安;抑郁症我们哭着降临世界,却笑着走向永恒.;抑郁症别了吧活着比死亡难受;抑郁症黑夜里突如其来的风该死的情绪差点要了我的命.;抑郁症我甚至觉得我是个累赘我天天哭天天熬夜老是不吃饭冷冰冰的自己破碎的自己总有不稳定的情绪我总是带坏别人的情绪我讨厌这的样自己手上的疤形容不了我为什么我总是给别人制造那么多麻烦为什么我这么敏感脆弱有时甚至想死的心都有。;抑郁症晚安?;抑郁症早晚都要死的幸不幸福都无所谓了这些年过得怎么样只有我自己清楚真的太痛了凌晨一两的点天花板四五点的太阳一支支不断燃烧的烟;抑郁症别人总觉得我什么事都无所谓，我却连自己都不知道自己到底想怎样;抑郁症等我想开了我会用刀刺向自己;抑郁症"路灯下只有影子和我作伴真好";抑郁症下辈子做一只水母吧，听说它没有心脏，不会悲伤，每天海里漂流游荡死后变成水，不留痕迹，就像从未出现过一样。;; X_post:抑郁症啊胃疼，刚刚又吐了; Y_reply:喝点水 [抱抱]
+negative	X_history:抑郁症吃奥沙西畔睡觉会睡一会醒一次大喊大叫吗;#原生家庭[超话]#不想结婚不想生孩子不配做母亲悲剧的家庭暴力酗酒出轨的父亲被驯化暴怒强势的母亲浑浑噩噩的弟弟抑郁焦虑的我;抑郁症我变得比不上以前的自己感知不到自己是否活着重复麻木;为什么一停药就控制不住情绪还会被打被骂;抑郁症感觉自己什么都做不好一天天的只在刷手机不想做一个傻子我母亲说我疯了好烦停药了连情绪都控制不好行为也有点奇怪了;不知道自己未来要怎么活算了这样的世界能活下去再说吧;抑郁症害怕自己脑萎缩变得更傻但是又不想吃药怕以后没有药吃再停药的折腾世界不消停要是算了没有要是被打被骂被自己的亲人赶出来现在真的不知道自己要怎么办了停药情绪波动大右眼现在还有点不太舒服了;抑郁症感觉自己就像阴沟里的老鼠他们说着我思想有问题说医生说这个病就是思想有问题然后另一个说好吃好喝养着养大了她自己要废也没有办法;抑郁症抑郁症白天不知道怎么活用点脑力就觉得累注意力也不太集中无法思考太多的事晚上的时候脑力倒是很活跃能思考一点事了就是睡不着还有耳鸣;; X_post:抑郁症我家里抑郁症撞上了更年期痛苦加难受; Y_reply:姐妹，我也是 [泪]
+positive	X_history:哦不。;想休学，但是休学以后可能又要重新适应很多东西，撑着把这三年多上完算了;感觉老公这个口癖久了之后总有一天我会在和我姐聊天的时候不小心顺手打成老公。。。;每天支撑我吃早饭的只有我早上要吃药爬起来吃早饭让我觉得特别痛苦;又想到sc的时候了，我对sc的印象就是好不真实，因为坐的太远了人也看不清，时间也短，好想好想看他们的演唱会;在你没有给我回信息的二十几分钟里你是真的没看手机懒得回还是像我一样面对着那样的信息不知所措;感觉上学快给自己上成厌食症了;无感，但是这个造型好帅（huq补药误伤我）;下次去医院复诊我要问一下医生到底给我的什么诊断。差不多小半年了不知道我到底什么情况;其实我挺喜欢don't look back的，倒不是说多好听，我高三快高考的那几个月这首歌刚好出了，听了好几个月一直到我高考，所以还蛮……每次听都会小小的怀念一下，高三的时候真的很美好;我完蛋了（后面还有但是我没拍） 30个症状我可能中了28个;咳嗽鼻塞吃以下哪种感冒药1感康2九九九感冒灵3荆防颗粒4桉柠蒎肠溶胶囊，我现在快死了;？;; X_post:饿了，但是根本懒得吃饭; Y_reply:我也是！！！
+positive	X_history:Laser激光 镭塔苏绣联动藏线收针示范，录制已征得绣娘师傅同意，需要请自取（录制不太清楚，大致就是最后一针里面穿两根长针出来） 楚沐林的微博视频;还是那句话，视奸我真的没必要偶对还有不是不喜欢我吗那你那被骗的135（说不定还不止135）现在起码能退70%还有一半功劳在我呢~你们该多嫌恶心我都想不到呢~这种看着你们吃苍蝇的感觉我太快乐了 偶对，不要对号入座哈;镭塔棉娃幼稚园建设一下;sky光遇代币到底在哪里！！！;我服了我人在江西我的IP先后跑了广东江苏我请问呢;大雨冲的我的IP四处乱漂;吴NANA 肚子上绣一个吴娜娜;潮汐tide 摸鱼摸了;吴晛Hsien 一样……我没想到直接从男体爆改女体啊啊啊啊啊面皮好看但是这个长发有点……啊啊啊啊啊啊啊啊啊啊啊啊;#乐华虚拟偶像塌房#笑死了;好;食物语手游玉麟香腰的家具池是哪个啊啊啊啊啊啊;; X_post:Laser激光  林致&顾子尧属性40cm仿一番赏棉花娃娃小灵芝&小饺子贩售公告无盈利团，五一开（后续还要开乔娃，夏娃在另一个娃妈手上）系统bug原因，蹲蹲?暂时搜不到，要加群的看评论区！; Y_reply:upup！ [打call]
+positive	X_history:长风百里我有预感，等剧播了这俩肯定特好嗑哈哈哈先占个屁股小侯之前粉过两年的，现在也很喜欢，瞎逛最近才喜欢上，双担的快乐谁懂啊哈哈哈;抑郁症即使死逼高中把我折磨的不像人了，那为什么还会天天晚上梦见坐在教室里专注地听课啊我是不是被中式教育洗脑了？目前就觉得人生一定要按规矩走，小学初中高中大学，这样才对总感觉现在放弃了上高中以后肯定会后悔，人生肯定会留遗憾我肯定被中式教育洗脑 ...全文;抑郁症这两天感觉病情恶化了，家里也待的很难受，和家里人处理不好关系。外婆家在河南那边，离这边很远，去外婆家里的蛋糕房学做蛋糕?会不会好一些？心里其实一直想学烘焙。妈的突然想起之前中考时想的就是如果考不上高中就去新东方学烘焙哈哈哈。。。;抑郁症看到一个帖子说，抑郁症是世界上最温柔的病，只伤害自己，伤害家人的都是精神病。。。;; X_post:抑郁症现在这个颓废的样子，看着自己以前曾经喜欢的纸片人，影视剧角色，感觉好惭愧好惭愧，不敢点开关于你们的信息，明明当时想着要成为和你们一样优秀的人的; Y_reply:说不定他们也在等待着你的回信呢！别放弃！正在突破次元壁来和你相遇的他们很努力！你也一样啊！ [微笑]
+negative	X_history:@MBTI小行家 我是什么？;镭塔棉娃幼稚园 ?镭塔棉娃幼稚园超话规则——（发帖前必看）  1.   本超话一切建立在认同“一个中国”原则、尊重中国主权和领土完整的前提下。欢迎各位进行和平友好的分享交流，zzlc不正确的帖子及用户一经发现一律永久屏蔽  2.   禁止引战，人身攻击，歧视，攀比，拉踩嘲讽他人等行为， ...全文;人被困在高考的囚笼里了所以IP代替我出去旅游是吧好好好;对不起，我抑制不住内心的喜悦！我在原神棉花娃娃超话等级达到LV.4，获得小有名气头衔，快来恭喜我吧~ 传送门>>原神棉花娃娃;我在oner超话等级达到LV.8，获得羊羊头衔，老铁双击666，来 oner与我畅聊吧！;我在原神棉花娃娃超话等级达到LV.5，获得初见美名头衔，小伙伴们快来加入超话一起聊聊吧！超话传送门→原神棉花娃娃;; X_post:喜大普奔！○( ＾皿＾)っHiahiahia…我在原神棉花娃娃超话等级达到LV.6，获得颇具名气头衔，快来 原神棉花娃娃夸我优秀！; Y_reply:哈哈，恭喜恭喜！LV.6可不是盖的，厉害厉害！原神棉花娃娃超话，你的名字已经响当当了！继续加油，期待你更耀眼的未来！
